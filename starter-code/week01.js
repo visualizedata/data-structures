@@ -5,5 +5,5 @@ request('http://visualizedata.github.io/datastructures/', function (error, respo
   if (!error && response.statusCode == 200) {
     fs.writeFileSync('/home/ubuntu/workspace/data/syllabus.txt', body);
   }
-  else {console.error("request failed")}
+  else {console.error('request failed')}
 })
