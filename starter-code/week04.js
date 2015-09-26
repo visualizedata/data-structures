@@ -4,12 +4,9 @@
 
 var request = require('request');
 
-var stationData;
-
 request('https://www.citibikenyc.com/stations/json', function(error, response, body) {
-    stationData = JSON.parse(body);
-    stationData = stationData.stationBeanList;
-    
+    var stationData = JSON.parse(body);
+
     // Connection URL
     var url = 'mongodb://' + process.env.IP + ':27017/citibike';
 
@@ -17,15 +14,16 @@ request('https://www.citibikenyc.com/stations/json', function(error, response, b
     var MongoClient = require('mongodb').MongoClient; // npm install mongodb
 
     MongoClient.connect(url, function(err, db) {
-        if (err) {
-            return console.dir(err);
-        }
+        if (err) {return console.dir(err);}
 
         var collection = db.collection('stations');
 
         // THIS IS WHERE THE DOCUMENT(S) IS/ARE INSERTED TO MONGO:
-        collection.insert(stationData);
+        for (var i=0; i < stationData.stationBeanList.length; i++) {
+            collection.insert(stationData.stationBeanList[i]);
+            }
         db.close();
 
     }); //MongoClient.connect
+
 }); //request
