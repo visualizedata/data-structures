@@ -1,6 +1,8 @@
 // IN THE MONGO SHELL: 
-//   use citibike
-//   db.createCollection('stations')
+//   CREATE DATABASE citibike AND SWITCH TO IT WITH: 
+//      use citibike
+//   CREATE COLLECTION stations WITH: 
+//      db.createCollection('stations')
 
 var request = require('request');
 
