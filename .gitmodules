@@ -34,3 +34,6 @@
 [submodule "student-work/Will/data-structures"]
 	path = student-work/Will/data-structures
 	url = https://github.com/Jiahao01121/data-structures
+[submodule "student-work/Isabel/data-structures"]
+	path = student-work/Isabel/data-structures
+	url = https://github.com/IsVer/data-structures.git
