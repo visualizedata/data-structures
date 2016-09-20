@@ -5,6 +5,8 @@
 //      db.createCollection('stations')
 //   QUERY THE ENTIRE stations COLLECTION WITH:
 //      db.stations.find()
+//   COUNT THE NUMBER OF DOCUMENTS IN THE stations COLLECTION WITH:
+//      db.stations.find().count()
 
 var request = require('request');
 
