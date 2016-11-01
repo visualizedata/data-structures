@@ -1,10 +1,8 @@
-var five = require("johnny-five"),
-  bumper, led, exitBumper;
+var five = require("johnny-five"), bumper, led;
 
 five.Board().on("ready", function() {
 
-  bumper = new five.Button(7);
-  exitBumper = new five.Button(8);
+  bumper = new five.Button(2);
   led = new five.Led(13);
 
   bumper.on("hit", function() {
@@ -17,11 +15,5 @@ five.Board().on("ready", function() {
     led.off();
 
   });
-
-  exitBumper.on("hit", function() {
-
-  	process.exit();
-
-  })
 
 });
