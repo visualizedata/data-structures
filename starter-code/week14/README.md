@@ -127,7 +127,7 @@
     meetingType: 'S' } ]
 ```
 
-### Result of Mongo query at 4:30pm on a Tuesday
+### Result of Mongo query at 2:45pm on a Tuesday
 
 ```javascript
 [
