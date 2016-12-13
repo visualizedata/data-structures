@@ -130,5 +130,76 @@
 ### Result of Mongo query at 4:30pm on a Tuesday
 
 ```javascript
-[{"_id":{"latLong":[40.7355145,-74.0031001]},"meetingGroups":[{"groupInfo":{"latLong":[40.7355145,-74.0031001],"meetingName":"LATE NIGHT","meetingAddress1":"50 Perry Street, Ground Floor,","meetingAddress2":"(Betw. 7th Avenue South &amp; West 4th Street) NY 10014","borough":"Manhattan","meetingDetails":"No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.","meetingWheelchair":false},"meetingDay":["Tuesday","Wednesday"],"meetingStartTime":["11:30 PM","2:00 AM"],"meetingType":["C","S"]},{"groupInfo":{"latLong":[40.7355145,-74.0031001],"meetingName":"PERRY STREET WORKSHOP","meetingAddress1":"50 Perry Street, Ground Floor,","meetingAddress2":"(Betw. 7th Avenue South &amp; West 4th Street) NY 10014","borough":"Manhattan","meetingDetails":"No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.","meetingWheelchair":false},"meetingDay":["Tuesday","Tuesday","Tuesday","Tuesday"],"meetingStartTime":["4:00 PM","6:00 PM","8:30 PM","10:15 PM"],"meetingType":["C","C","C","C"]}]}]
-```
+[
+   {
+      "_id":{
+         "latLong":[
+            40.7355145,
+            -74.0031001
+         ]
+      },
+      "meetingGroups":[
+         {
+            "groupInfo":{
+               "latLong":[
+                  40.7355145,
+                  -74.0031001
+               ],
+               "meetingName":"LATE NIGHT",
+               "meetingAddress1":"50 Perry Street, Ground Floor,",
+               "meetingAddress2":"(Betw. 7th Avenue South &amp; West 4th Street) NY 10014",
+               "borough":"Manhattan",
+               "meetingDetails":"No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+               "meetingWheelchair":false
+            },
+            "meetingDay":[
+               "Tuesday",
+               "Wednesday"
+            ],
+            "meetingStartTime":[
+               "11:30 PM",
+               "2:00 AM"
+            ],
+            "meetingType":[
+               "C",
+               "S"
+            ]
+         },
+         {
+            "groupInfo":{
+               "latLong":[
+                  40.7355145,
+                  -74.0031001
+               ],
+               "meetingName":"PERRY STREET WORKSHOP",
+               "meetingAddress1":"50 Perry Street, Ground Floor,",
+               "meetingAddress2":"(Betw. 7th Avenue South &amp; West 4th Street) NY 10014",
+               "borough":"Manhattan",
+               "meetingDetails":"No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.",
+               "meetingWheelchair":false
+            },
+            "meetingDay":[
+               "Tuesday",
+               "Tuesday",
+               "Tuesday",
+               "Tuesday",
+               "Tuesday"
+            ],
+            "meetingStartTime":[
+               "2:30 PM",
+               "4:00 PM",
+               "6:00 PM",
+               "8:30 PM",
+               "10:15 PM"
+            ],
+            "meetingType":[
+               "C",
+               "C",
+               "C",
+               "C",
+               "C"
+            ]
+         }
+      ]
+   }
+]```
