@@ -23,7 +23,7 @@ Curating raw data presents issues of technology, speed, and efficiency, as well 
 
 Introduction to data structures.
 
-**Weekly Assignment 1, due 9/4 at 4:00pm:**  
+**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md), due Monday 9/4 at 4:00pm:**  
 You will "get" some HTML files, save them, and study their structure.
 
 #### Documentation: 
