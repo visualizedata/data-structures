@@ -3,6 +3,8 @@
 Create a new GitHub repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
+Create a Cloud 9 workspace named `data-structures` for your work in this class. Share this workspace with username `hillar`
+
 # Weekly Assignment 1
 
 ### Due Monday 9/4 at 4:00pm
@@ -21,11 +23,11 @@ http://visualizedata.github.io/datastructures/data/m09.html
 http://visualizedata.github.io/datastructures/data/m10.html  
 ```
 
-2. For each of the ten files you requested, save the body as a text file to your "local" environment in Cloud9 (using Node.js)
+2. Using Node.js: For each of the ten files you requested, save the body as a text file to your "local" environment in Cloud9.
 
-3. Study the HTML structure and begin to think about how you might parse these files (Document Object Model) to extract the relevant data for each meeting.
+3. Study the HTML structure and tags and begin to think about how you might parse these files to extract relevant data for these AA meetings.
 
-4. Update your GitHub repository with the relevant file(s)
+4. Update your GitHub repository with the relevant file(s). In Canvas, submit the URL of the GitHub location of this submission. 
 
 ## Starter code
 
