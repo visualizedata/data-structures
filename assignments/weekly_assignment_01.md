@@ -1,9 +1,9 @@
 # Initial Setup
 
-Create a new GitHub repository and name it `data-structures`  
+Create a new [GitHub](https://github.com/) repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
-Create a Cloud 9 workspace named `data-structures` for your work in this class. Share this workspace with username `hillar`
+Create a [Cloud 9](https://c9.io/) workspace named `data-structures` for your work in this class. Share this workspace with username `hillar`
 
 # Weekly Assignment 1
 
