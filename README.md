@@ -28,6 +28,7 @@ You will "get" some HTML files, save them, and study their structure.
 
 #### Documentation: 
 
+* [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
 * [Node request module](https://www.npmjs.com/package/request)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
 
