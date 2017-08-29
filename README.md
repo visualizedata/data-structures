@@ -17,6 +17,17 @@ Curating raw data presents issues of technology, speed, and efficiency, as well 
 
 **Prerequisites:** Basic knowledge of JavaScript, HTML/CSS, Linux command line, Git, and GitHub.
 
+## Course Overview
+
+Duration | Description
+--- | -------
+Week 1 | Introductions and overview of semester
+Weeks 2 - 5 | Fundamental data structures; modeling semi-structured data
+Week 6 | Data cleaning
+Weeks 7 - 10 | Physical sensors; modeling structured data
+Weeks 11 - 14 | Reliability, scalability, maintainability, sustainability; Labs
+Week 15 | Final presentations and reflections
+
 ## Course Outline
 
 ### August 29 (Week 1)
