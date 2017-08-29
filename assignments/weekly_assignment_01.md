@@ -3,7 +3,8 @@
 Create a new [GitHub](https://github.com/) repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
-Create a [Cloud 9](https://c9.io/) workspace named `data-structures` for your work in this class. Share this workspace with username `hillar`
+Create a [Cloud 9](https://c9.io/) workspace named `data-structures` for your work in this class.  
+Share this workspace with usernames `hillar` and `willsuuu`
 
 # Weekly Assignment 1
 
@@ -27,7 +28,7 @@ http://visualizedata.github.io/datastructures/data/m10.html
 
 3. Study the HTML structure and tags and begin to think about how you might parse these files to extract relevant data for these AA meetings.
 
-4. Update your GitHub repository with the relevant file(s). In Canvas, submit the URL of the GitHub location of this submission. 
+4. Update your GitHub repository with the relevant files: your `js` file and ten `txt` files. In Canvas, submit the URL of the specific location of this work within your `data-structures` GitHub repository. 
 
 ## Starter code
 
@@ -42,3 +43,9 @@ request('http://visualizedata.github.io/thesis/', function (error, response, bod
   else {console.error('request failed')}
 })
 ```
+
+#### Documentation: 
+
+* [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
+* [Node request module](https://www.npmjs.com/package/request)  
+* [Node fs module](https://nodejs.org/api/fs.html)  
