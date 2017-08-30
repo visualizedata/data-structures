@@ -34,6 +34,8 @@ Week 15 | Final presentations and reflections
 
 Introduction to data structures.
 
+[[slides](https://docs.google.com/a/newschool.edu/presentation/d/1kMyS_b-H8l5Z3dwI8ag60sOYcBZWsEmdQhdnnanfLFo/edit?usp=sharing)]
+
 **[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md), due Monday 9/4 at 4:00pm:**  
 You will "get" some HTML files, save them, and study their structure.
 
