@@ -72,7 +72,7 @@ Data augmentation and integration.
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 3, due 9/18 at 4:00pm:**  
+**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_03.md), due 9/18 at 4:00pm:**  
 Using data you parsed last week, you will interface with the Google Maps API to augment the data you collected.
 
 #### Documentation:
