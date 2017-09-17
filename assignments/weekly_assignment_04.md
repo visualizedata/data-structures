@@ -23,6 +23,7 @@ Some decisions that will help with this drawing:
 1. Will you use a [Normalized Data Model](https://docs.mongodb.com/manual/core/data-model-design/#normalized-data-models) or a Denormalized Data Model? Why?  
 2. If you use a Denormalized Data Model, will you use [embedding](https://docs.mongodb.com/manual/core/data-model-design/#embedded-data-models) or [not](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)? Why?  
 3. When the data comes back out of the database, how should it be structured? Why?  
+4. How would you describe the hierarchy of the data?  
 
 ### Part Two
 
