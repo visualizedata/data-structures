@@ -28,8 +28,8 @@ Some decisions that will help with this drawing:
 ### Part Two
 
 1. In the Mongo shell, create and switch to a new database for the data you prepared in the previous assignment.  
-2. In this new database, create a new collection that will hold a "document" (JSON style data structure) for each "meeting" (however you decide to structure and represent meetings, groups, and/or locations).
-3. Use the mongodb module in Node to insert these documents to the collection you created in the database you created. Hint: check to make sure you have the correct number of documents!  
+2. In this new database, create a new collection that will hold a "document" (JSON style data structure) for each "meeting" (however you decided to structure and represent meetings, groups, and/or locations in Part One of this assignment).
+3. Use the mongodb module in Node to insert these documents to the collection you created in the database you created. Hint: check to make sure you have the correct number of documents! **Note: it is not expected that this data be complete and clean yet. For now, just insert the documents/data you have.**  
 4. Update your GitHub repository with the relevant file(s). In Canvas, submit the URL of the specific location of this work within your `data-structures` GitHub repository. 
 
 ## Starter Code
