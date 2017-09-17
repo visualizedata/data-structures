@@ -20,7 +20,7 @@ MongoDB is preinstalled for every Cloud 9 workspace. But, it requires some initi
 Using the Hills text as a starting point (but feel free to strike out on your own), draw a data model for the AA meetings data to be stored in a database. Include all the content/data/variables from the source file that you believe to be relevant, even if you haven't parsed it yet. Upload an image (`png` format) of your drawing to your GitHub repository.  
 
 Some decisions that will help with this drawing:  
-1. Will you use a [Normalized Data Model](https://docs.mongodb.com/manual/core/data-model-design/#normalized-data-models) or a Denormalized Data Model? Why?  
+1. Will you use a [Normalized Data Model](https://docs.mongodb.com/manual/core/data-model-design/#normalized-data-models) or a Denormalized Data Model? Why? How would you [organize the references](https://docs.mongodb.com/manual/tutorial/model-referenced-one-to-many-relationships-between-documents/#data-modeling-publisher-and-books)?  
 2. If you use a Denormalized Data Model, will you use [embedding](https://docs.mongodb.com/manual/core/data-model-design/#embedded-data-models) or [not](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)? Why?  
 3. When the data comes back out of the database, how should it be structured? Why?  
 4. How would you describe the hierarchy of the data?  
