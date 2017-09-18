@@ -110,7 +110,7 @@ NoSQL database: indexes, query optimization, and data restructuring.
 * Gitelman, Chapter 1
 * Hills, Chapter 17
 
-**Weekly Assignment 5, due 10/2 at 4:00pm:**  
+**Weekly Assignment 5, due 10/9 at 4:00pm:**  
 You will query data from the NoSQL database you have created, restructuring the data in the process.
 
 #### Documentation:
