@@ -47,7 +47,7 @@ You will "get" some HTML files, save them, and study their structure.
 
 ### September 5 (Week 2)
 
-Fundamental data structures. The web as a database. "Raw data."
+The web as a database. "Raw data."
 
 #### Read:
 * Gitelman, Introduction and Color Plates  
@@ -63,7 +63,7 @@ You will parse one of the HTML files you saved last week and log essential data 
 
 ### September 12 (Week 3)
 
-Data augmentation and integration.
+Fundamental data structures. Data augmentation and integration.
 
 #### Read:
 
@@ -90,7 +90,7 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6
 * Hills, Chapters 13, 14, and 15
 
-**Weekly Assignment 4, due 9/25 at 4:00pm:**  
+**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04.md), due 9/25 at 4:00pm:**  
 You will begin to write the data you collected, parsed, and augmented to MongoDB: a NoSQL database. You will create, administer, and maintain the database.
 
 #### Documentation:
@@ -98,7 +98,6 @@ You will begin to write the data you collected, parsed, and augmented to MongoDB
 * [MongoDB data types](https://docs.mongodb.com/manual/core/document/) (documents)
 * [MongoDB Data Models](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
 * [MongoDB's take on denormalization](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
-* [MongoDB inserting documents](https://docs.mongodb.com/manual/tutorial/insert-documents/)
 * [Setting up MongoDB in Cloud 9](https://community.c9.io/t/setting-up-mongodb/1717)
 * [Node mongodb module](https://www.npmjs.com/package/mongodb)
 
