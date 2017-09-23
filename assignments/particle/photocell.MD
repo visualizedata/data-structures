@@ -1,4 +1,4 @@
-# photocell
+# photoresistor
 
 ## Setup
 
@@ -6,11 +6,12 @@
 
 ## Starter Code
 
+*Adapted from an example in the [Particle docs](https://docs.particle.io/guide/getting-started/examples/photon/#read-your-photoresistor-function-and-variable)*
+
 ``` c_cpp
 // -----------------------------------------
 // Photoresistor
 // -----------------------------------------
-// Adapted from an example in the [Particle docs](https://docs.particle.io/guide/getting-started/examples/photon/#read-your-photoresistor-function-and-variable)
 
 // In this example, we're going to register a Particle.variable() with the cloud so that we can read brightness levels from a photoresistor.
 
