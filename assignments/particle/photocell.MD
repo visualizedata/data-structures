@@ -8,7 +8,7 @@
 
 *Adapted from an example in the [Particle docs](https://docs.particle.io/guide/getting-started/examples/photon/#read-your-photoresistor-function-and-variable)*
 
-``` c_cpp
+``` cpp
 // -----------------------------------------
 // Photoresistor
 // -----------------------------------------
