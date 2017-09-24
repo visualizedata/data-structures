@@ -15,7 +15,7 @@
 
 // In this example, we're going to register a Particle.variable() with the cloud so that we can read the status of a button.
 
-int button = D3; // This is the input pin where you read the value of the sensor.
+int button = D0; // This is the input pin where you read the value of the sensor.
 
 int analogvalue; // Here we are declaring the integer variable analogvalue, which we will use later to store the value of the sensor.
 
