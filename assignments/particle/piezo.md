@@ -18,6 +18,8 @@
 int piezo = A0; // This is the input pin where you read the value of the sensor.
 
 int analogvalue; // Here we are declaring the integer variable analogvalue, which we will use later to store the value of the sensor.
+// In this case, the value will be the Unix Timestamp of the last time the piezo was knocked or jolted. 
+int knockLim = 100; // Threshold that defines a 'jolt'.
 
 void setup() {
 
@@ -32,11 +34,14 @@ void setup() {
 
 void loop() {
 
-    // check to see what the value of the sensor is and store it in the int variable analogvalue
-    analogvalue = analogRead(piezo);
-    delay(100);
+    if (analogRead(piezo) > knockLim) {
+
+        // If the piezo has been knocked or jolted, store the Unix Timestamp as an integer
+        analogvalue = Time.now();
+        delay(100);
+        
+    }
     
 }
 ```
 
-<iframe src="https://player.vimeo.com/video/108472951" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
