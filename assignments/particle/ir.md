@@ -1,8 +1,8 @@
-# hall effect
+# ir
 
 ## Setup
 
-![photo of setup](img/hall.JPG)
+![photo of setup](img/ir.JPG)
 
 ## Starter Code
 
@@ -10,19 +10,19 @@
 
 ``` cpp
 // -----------------------------------------
-// Hall effect sensor
+// IR sensor
 // -----------------------------------------
 
-// In this example, we're going to register a Particle.variable() with the cloud so that we can read the status of a hall effect sensor.
+// In this example, we're going to register a Particle.variable() with the cloud so that we can read the status of an IR sensor.
 
-int hall = D0; // This is the input pin where you read the value of the sensor.
+int ir = D0; // This is the input pin where you read the value of the sensor.
 
 int analogvalue; // Here we are declaring the integer variable analogvalue, which we will use later to store the value of the sensor.
 
 void setup() {
 
     // This lets the device know which pin will be used to read incoming voltage.
-    pinMode(hall,INPUT);  // Our sensor pin is input (reading the sensor)
+    pinMode(ir,INPUT);  // Our sensor pin is input (reading the sensor)
 
     // We are going to declare a Particle.variable() here so that we can access the value of the sensor from the cloud.
     Particle.variable("analogvalue", &analogvalue, INT);
@@ -32,20 +32,19 @@ void setup() {
 
 void loop() {
 
-    if (digitalRead(hall) == HIGH) {
+    if (digitalRead(ir) == HIGH) {
 
-        // =0 if magnet is not present
+        // =0 if no IR detected
         analogvalue = 0;
-        delay(100);
         
     }
     
     else {
 
-        // =1 if manget is present
+        // =1 if IR detected in past 5 seconds
         analogvalue = 1;
-        delay(100);
-        
+        delay(5000);
+
     }
     
 }
