@@ -1,8 +1,8 @@
-# tilt ball
+# hall effect
 
 ## Setup
 
-![photo of setup](img/tilt.JPG)
+![photo of setup](img/hall.JPG)
 
 ## Starter Code
 
@@ -10,19 +10,19 @@
 
 ``` cpp
 // -----------------------------------------
-// Tilt sensor
+// Hall effect sensor
 // -----------------------------------------
 
-// In this example, we're going to register a Particle.variable() with the cloud so that we can read the status of a ball tilt sensor.
+// In this example, we're going to register a Particle.variable() with the cloud so that we can read the status of a hall effect sensor.
 
-int tilt = D0; // This is the input pin where you read the value of the sensor.
+int hall = D0; // This is the input pin where you read the value of the sensor.
 
 int analogvalue; // Here we are declaring the integer variable analogvalue, which we will use later to store the value of the sensor.
 
 void setup() {
 
     // This lets the device know which pin will be used to read incoming voltage.
-    pinMode(tilt,INPUT);  // Our sensor pin is input (reading the sensor)
+    pinMode(hall,INPUT);  // Our sensor pin is input (reading the sensor)
 
     // We are going to declare a Particle.variable() here so that we can access the value of the sensor from the cloud.
     Particle.variable("analogvalue", &analogvalue, INT);
@@ -32,18 +32,18 @@ void setup() {
 
 void loop() {
 
-    if (digitalRead(tilt) == HIGH) {
+    if (digitalRead(hall) == HIGH) {
 
-        // =1 if tilted
-        analogvalue = 1;
+        // =1 if magnet is present
+        analogvalue = 0;
         delay(100);
         
     }
     
     else {
 
-        // =0 if not tilted
-        analogvalue = 0;
+        // =0 if manget is not present
+        analogvalue = 1;
         delay(100);
         
     }
