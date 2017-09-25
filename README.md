@@ -110,8 +110,8 @@ NoSQL database: indexes, query optimization, and data restructuring.
 * Gitelman, Chapter 1
 * Hills, Chapter 17
 
-**Weekly Assignment 5, due 10/9 at 4:00pm:**  
-You will query data from the NoSQL database you have created, restructuring the data in the process.
+**Weekly Assignment 5/6, due 10/9 at 4:00pm:**  
+You will finish scraping and cleaning the rest of the data in your "zone," adding it all to your MongoDB collection. You will then query data from the NoSQL database you have created, restructuring the data in the process.
 
 #### Documentation:
 * [MongoDB queries](https://docs.mongodb.com/manual/tutorial/query-documents/)
@@ -129,9 +129,6 @@ Guest lecture. Data cleaning workshop.
 
 * Gitelman, Chapter 4  
 * [For Big-Data Scientists, 'Janitor Work' Is Key Hurdle to Insights](https://nyti.ms/2jNUfHo), The New York Times, August 17, 2014
-
-**Weekly Assignment 6, due 10/9 at 4:00pm:**  
-You will start logging issues and "cleaning" the data in your database.
 
 #### Documentation: 
 
