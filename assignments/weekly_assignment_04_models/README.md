@@ -10,7 +10,7 @@
 
 ## Max
 
-![](https://github.com/mbcarradine/data-structures/blob/master/week04/week04%20db%20loaded.png?raw=true)
+[PDF](https://github.com/mbcarradine/data-structures/blob/master/week04/week%2004%20AADB%20-%20ERD.pdf)
 
 ## Jed
 
