@@ -110,8 +110,8 @@ NoSQL database: indexes, query optimization, and data restructuring.
 * Gitelman, Chapter 1
 * Hills, Chapter 17
 
-**Weekly Assignment 5/6, due 10/9 at 4:00pm:**  
-You will finish scraping and cleaning the rest of the data in your "zone," adding it all to your MongoDB collection. You will then query data from the NoSQL database you have created, restructuring the data in the process.
+**[Weekly Assignment 5/6](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_0506.md), due 10/9 at 4:00pm:**  
+Finish parsing and cleaning the rest of the data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace your MongoDB collection. You will then query data from the NoSQL database you have created, restructuring the data in the process. **Note: this combined week 5/6 assignment is worth 6 points.**
 
 #### Documentation:
 * [MongoDB queries](https://docs.mongodb.com/manual/tutorial/query-documents/)
@@ -132,7 +132,6 @@ Guest lecture. Data cleaning workshop.
 
 #### Documentation: 
 
-* [Mongo indexes](https://docs.mongodb.com/manual/indexes/)
 * [GitHub issues](https://guides.github.com/features/issues/)
 
 ### October 10 (Week 7)
@@ -150,6 +149,7 @@ Switching gears from previous assignments, you will use an IOT development board
 
 #### Documentation: 
 
+* [Mongo indexes](https://docs.mongodb.com/manual/indexes/)
 * Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
 
 ### October 17 (Week 8)
