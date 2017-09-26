@@ -40,6 +40,10 @@
 
 ![](https://github.com/graceiseverywhere/data-structures/blob/master/week-04/DataStructures_Week_04_Assignment.png?raw=true)
 
+## Flavio
+
+![](https://github.com/mczoloft/data-structures/blob/master/Assignment%2004/Sketch_Assignment04.jpg?raw=true)
+
 ## Suzanna
 
 ![](https://github.com/schmeelk/data-structures/blob/master/Weekly-Assignments/Week04/PartOne/Assignment4_Design.JPG?raw=true)
