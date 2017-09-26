@@ -41,7 +41,7 @@ MongoClient.connect(url, function(err, db) {
         if (err) {console.log(err)}
         
         else {
-            console.log("Writing", docs.length, "stations as a result of this aggregation.");
+            console.log("Writing", docs.length, "documents as a result of this aggregation.");
             fs.writeFileSync('mongo_aggregation_result.JSON', JSON.stringify(docs, null, 4));
         }
         db.close();
