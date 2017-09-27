@@ -241,6 +241,7 @@ Discussion: Sustainability. Lab.
 #### Read:
 
 * Gitelman, Chapter 8  
+* [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)
 
 ### December 12 (Week 15)
 
