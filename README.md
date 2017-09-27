@@ -192,7 +192,8 @@ Data provision.
 
 #### Read: 
 
-* Gitelman, Afterward
+* [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
+* Gitelman, Afterward  
 
 **Weekly Assignment 10, due 11/6 at 4:00pm:**  
 You will create an endpoint for the sensor data you have been collecting in previous assignments. The endpoint must write a stream.
@@ -241,7 +242,6 @@ Discussion: Sustainability. Lab.
 #### Read:
 
 * Gitelman, Chapter 8  
-* [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)
 
 ### December 12 (Week 15)
 
