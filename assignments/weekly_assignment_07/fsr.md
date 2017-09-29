@@ -1,5 +1,15 @@
 # fsr
 
+*measures physical pressure, squeezing and weight*
+
+Product: [Round Force-Sensitive Resistor (FSR) - Interlink 402](https://www.adafruit.com/product/166)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+- 10K ohm resistor
+
 ## Setup
 
 ![photo of setup](img/fsr.JPG)

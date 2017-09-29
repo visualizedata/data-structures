@@ -1,5 +1,15 @@
 # button
 
+*measures press of button*
+
+Product: [Tactile button switch](https://www.adafruit.com/product/367)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+- 10K ohm resistor
+
 ## Setup
 
 ![photo of setup](img/button.JPG)

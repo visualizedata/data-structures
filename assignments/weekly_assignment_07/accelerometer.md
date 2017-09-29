@@ -1,5 +1,16 @@
 # accelerometer
 
+*measures acceleration forces*
+
+Product: [ADXL335](https://www.adafruit.com/product/163)
+
+#### Tools needed:
+
+- Particle Photon or Electron
+- [Soldering iron](http://resources.parsons.edu/tools-equipment/)
+- [Solder](http://a.co/5OKteuL)
+- Hook up wires
+
 ## Setup
 
 ![photo of setup](img/accel.JPG)
