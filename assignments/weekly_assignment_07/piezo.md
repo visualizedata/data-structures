@@ -1,5 +1,15 @@
 # piezo
 
+*measures knock*
+
+Product: [Piezo Buzzer - PS1240](https://www.adafruit.com/product/160)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+- 1 Megohm resistor
+
 ## Setup
 
 ![photo of setup](img/piezo.JPG)

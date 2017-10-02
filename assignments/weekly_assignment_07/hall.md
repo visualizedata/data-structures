@@ -1,5 +1,15 @@
 # hall effect
 
+*measures magnetic field*
+
+Products: [Hall effect sensor - US5881LUA](https://www.adafruit.com/product/158) and [High-strength 'rare earth' magnet](https://www.adafruit.com/product/9)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+- 10K ohm resistor
+
 ## Setup
 
 ![photo of setup](img/hall.JPG)

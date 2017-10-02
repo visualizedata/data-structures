@@ -1,5 +1,14 @@
 # ir
 
+*detects infrared light*
+
+Products: [IR (Infrared) Receiver Sensor - TSOP38238](https://www.adafruit.com/product/157) and [Super-bright 5mm IR LED - 940nm](https://www.adafruit.com/product/387)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+
 ## Setup
 
 ![photo of setup](img/ir.JPG)

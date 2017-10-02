@@ -1,5 +1,14 @@
 # potentiometer
 
+*measures level*
+
+Product: [Breadboard trim potentiometer - 10K](https://www.adafruit.com/product/356)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+
 ## Setup
 
 ![photo of setup](img/potentiometer.JPG)

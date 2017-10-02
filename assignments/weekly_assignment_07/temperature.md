@@ -1,5 +1,14 @@
 # temperature
 
+*measures temperature*
+
+Product: [Analog Temperature sensor - TMP36](https://www.adafruit.com/product/165)
+
+#### Tools needed: 
+
+- Particle Photon or Electron
+- Hook up wires
+
 ## Setup
 
 ![photo of setup](img/temp.JPG)
