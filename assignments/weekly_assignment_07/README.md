@@ -29,7 +29,7 @@
 4. In the Web IDE under 'Settings,' retrieve and make note of your *Access Token*.  
 5. Familiarize yourself with [Particle Variables](https://docs.particle.io/reference/firmware/photon/#particle-variable-).  
 
-# DRAFT: Assignment
+# Assignment
 
 1. Set up the two sensors you were assigned, making appropriate connections to the Photon.  
 2. In the Web IDE, copy and modify the starter code for your two sensors so that you can access their values.  
