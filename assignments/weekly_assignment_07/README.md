@@ -31,9 +31,14 @@
 
 # Assignment
 
+### Part One
+
 1. Set up the two sensors you were assigned, making appropriate connections to the Photon.  
 2. In the Web IDE, copy and modify the starter code for your two sensors so that you can access their values.  
 3. In the Web IDE, set up a **single variable** that will be accessible with [Particle Cloud API](https://docs.particle.io/reference/api/). The variable must return a string of valid JSON [[tutorial here](https://community.particle.io/t/using-spark-publish-with-simple-json-data/3469)] that includes the values of **both** of your sensors.  
 4. Submit to Canvas the URL (including your Device ID and Access Token) that retrieves this JSON data from the Particle Cloud API.  
 5. Leave your photon connected to power and connected to a Wifi network.  
 
+### Part Two
+
+Sketch a design for an interface to the data you'll be collecting with the two sensors you were assigned. Bring the sketch to class next week. 
