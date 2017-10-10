@@ -142,10 +142,10 @@ Sensors. Data gathering and surveillance.
 
 * Gitelman, Chapter 7
 
-**Weekly Assignment 7, due 10/16 at 4:00pm:**  
+**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_07), due 10/16 at 4:00pm:**  
 Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also design (in concept only) an interactive visualization of the data you will collect from the sensor.
 
-**Final assignment 1 distributed, due 12/11 at 4:00pm**
+**[Final assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_1.md) distributed, due 12/11 at 4:00pm**
 
 #### Documentation: 
 
