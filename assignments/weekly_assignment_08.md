@@ -18,7 +18,7 @@ If you are new to SQL, complete [this tutorial](https://www.codeschool.com/cours
 
 Create a [PostgreSQL database with Amazon Relational Database Service (RDS)](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_CreatePostgreSQLInstance.html).
 
-In a Cloud 9 terminal, use `[psql](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html#USER_ConnectToPostgreSQLInstance.psql)` to:  
+In a Cloud 9 terminal, use [`psql`](http://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/USER_ConnectToPostgreSQLInstance.html#USER_ConnectToPostgreSQLInstance.psql) to:  
 Write and run a SQL statement that creates a table in this database. Use the schema/data model that you created in the previous assignment to determine data types for each column. EXAMPLE:  
 ```
 CREATE TABLE buttonData (
