@@ -162,7 +162,7 @@ Data models II: SQL database.
 * Hills, Chapter 16
 
 **Weekly Assignment 8, due 10/23 at 4:00pm:**  
-You will create a SQL database (using a managed database service) and begin writing your sensor data to it.
+You will design and create a SQL database (using a managed database service).
 
 #### Documentation: 
 
@@ -180,7 +180,7 @@ SQL database: indexes, query optimization, and data restructuring.
 * Klepman, Chapter 2
 
 **Weekly Assignment 9, due 10/30 at 4:00pm:**  
-You will query data from the SQL database you have created, restructuring the data in the process.
+You will begin writing sensor data to your SQL database. 
 
 #### Documentation:
 
@@ -196,7 +196,7 @@ Data provision.
 * Gitelman, Afterward  
 
 **Weekly Assignment 10, due 11/6 at 4:00pm:**  
-You will create an endpoint for the sensor data you have been collecting in previous assignments. The endpoint must write a stream.
+You will write a query for the sensor data in your SQL database, restructuring the data in the process. You will create an endpoint that will provide this data to a (hypothetical) front-end interface that contains a visual representation of this data.
 
 **Final assignment 2 distributed, due 12/11 at 4:00pm**
 
