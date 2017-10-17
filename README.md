@@ -161,7 +161,7 @@ Data models II: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapter 16
 
-**Weekly Assignment 8, due 10/23 at 4:00pm:**  
+**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_08.md), due 10/23 at 4:00pm:**  
 You will design and create a SQL database (using a managed database service).
 
 #### Documentation: 
