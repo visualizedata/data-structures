@@ -33,3 +33,7 @@ But you'll need to change the following credentials:
 1. Replace the value for `host` with the **Endpoint** you copied when setting up a way to access your instance.  
 2. Replace `username` value with the username you supplied in the **Setup** section. Note, this username is for the database. It may or may not be the same as the username for your AWS account, depending on what you named it in the **Setup** section.  
 3. Replace the `dbname` value with the name of the database you supplied in the **Setup** section.  
+
+## Access your instance
+
+In a Cloud 9 terminal (or in your local terminal if you opt to [install Postgres on your computer](http://postgresguide.com/setup/install.html)), enter the `psql` command you wrote in the previous section. This gives you [shell access to your DB Instance in AWS](http://postgresguide.com/utilities/psql.html).  
