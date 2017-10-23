@@ -192,6 +192,7 @@ Data provision.
 
 #### Read: 
 
+* Hills, Chapter 5  
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
 * Gitelman, Afterward  
 
