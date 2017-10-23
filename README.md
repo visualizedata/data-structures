@@ -188,7 +188,7 @@ You will begin writing sensor data to your SQL database.
 
 ### October 31 (Week 10)
 
-Data provision. 
+SQL joins and queries. Data provision. 
 
 #### Read: 
 
