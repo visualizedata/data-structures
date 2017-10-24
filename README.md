@@ -172,14 +172,14 @@ You will design and create a SQL database (using a managed database service).
 
 ### October 24 (Week 9)
 
-SQL database: indexes, query optimization, and data restructuring.
+SQL: populating a database.
 
 #### Read: 
 
 * Gitelman, Chapter 3
 * Klepman, Chapter 2
 
-**Weekly Assignment 9, due 10/30 at 4:00pm:**  
+**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_09.md), due 10/30 at 4:00pm:**  
 You will begin writing sensor data to your SQL database. 
 
 #### Documentation:
@@ -188,7 +188,7 @@ You will begin writing sensor data to your SQL database.
 
 ### October 31 (Week 10)
 
-SQL joins and queries. Data provision. 
+SQL joins and queries. Indexes, query optimization, and data restructuring. The E-R model. Data provision. 
 
 #### Read: 
 
