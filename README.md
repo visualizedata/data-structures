@@ -196,10 +196,10 @@ SQL joins and queries. Indexes, query optimization, and data restructuring. The 
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
 * Gitelman, Afterward  
 
-**Weekly Assignment 10, due 11/6 at 4:00pm:**  
+**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_10.md), due 11/6 at 4:00pm:**  
 You will write a query for the sensor data in your SQL database, restructuring the data in the process. You will create an endpoint that will provide this data to a (hypothetical) front-end interface that contains a visual representation of this data.
 
-**Final assignment 2 distributed, due 12/11 at 4:00pm**
+**[Final assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_2.md) distributed, due 12/11 at 4:00pm**
 
 #### Documentation:
 
@@ -264,8 +264,8 @@ By the successful completion of this course, students will be able to demonstrat
 |:--|:--|
 | Attendance and class participation | 15% |
 | Weekly Assignments (10 total) | 40% |
-| Final assignment 1 | 25% |
-| Final assignment 2 | 20% |
+| [Final assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_1.md) | 25% |
+| [Final assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_2.md) | 20% |
 
 Attendance and Class Participation	20%
 Weekly Assignments (12 total)	35%
