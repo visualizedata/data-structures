@@ -4,9 +4,18 @@
 
 Continue working with your sensors. You will write a query for the sensor data in your SQL database, restructuring the data in the process. You will create an endpoint that will provide this data to a (hypothetical) front-end interface that contains a visual representation of this data.
 
+## Setup
+
+You'll need to add a rule to your EC2 security group for inbound HTTP traffic on port 3000. 
+
+1. Open the Amazon EC2 console at [https://console.aws.amazon.com/ec2/](https://console.aws.amazon.com/ec2/).  
+2. In the navigation pane, choose **Security Groups**. Select the security group for your instance.  
+3. Choose **Inbound, Edit, Add Rule**.  
+4. For **Type**, choose **Custom TCP Rule**. For **Port Range**, enter **3000**.  For **Source**, choose **Anywhere**. Click the blue **Save** button.  
+
 ## Assignment 
 
-Using the [Express module](https://expressjs.com/) in Node.js, write a script that responds to http requests with JSON containing a single summarization/aggregation of key data from your sensor, using the [pg module](https://node-postgres.com/) to connect to and query the AWS database. 
+Using the [Express module](https://expressjs.com/) in Node.js, write a script that responds to http requests with JSON containing a single summarization/aggregation of key data from your sensor, using the [pg module](https://node-postgres.com/) to connect to and query the AWS database. Run the script on your EC2 instance using the Node process manager [PM2](http://pm2.keymetrics.io/).
 
 ## Starter Code
 
@@ -46,8 +55,7 @@ app.get('/', function(req, res) {
     client.end();
 });
 
-// app.listen(3000, function() {
-app.listen(process.env.PORT, function() {
+app.listen(3000, function() {
     console.log('Server listening...');
 });
 ```
@@ -55,3 +63,6 @@ app.listen(process.env.PORT, function() {
 ### Submission
 
 In Canvas, submit the URL of the endpoint described in the assignment. (It is the endpoint for your AWS EC2 instance.)
+
+An example:  
+[http://ec2-54-89-140-69.compute-1.amazonaws.com:3000/](http://ec2-54-89-140-69.compute-1.amazonaws.com:3000/)
