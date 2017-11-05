@@ -17,7 +17,7 @@ Your submission should consist of:
 
 ### Your work will be assessed on:
 
-1. The integrity of the data  
+1. The integrity of the data (and successful gathering of at least four weeks of good data)  
 2. The integrity of the database  
 3. The efficiency of the queries and page load  
 4. The choices of data structures  
