@@ -5,6 +5,7 @@
 * [force sensitive resistor](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/fsr.md)  
 * [hall effect](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/hall.md)  
 * [infrared light](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/ir.md)  
+* [infrared light -- REPLACEMENT](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/ir2.md)  
 * [photoresistor](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/photocell.md)  
 * [piezo](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/piezo.md)  
 * [potentiometer](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/potentiometer.md)  
