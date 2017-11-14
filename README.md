@@ -234,15 +234,12 @@ Discussion: Maintainability. Lab.
 #### Read:
 
 * Klepmann, Chapter 1. Read the "Maintainability Section" and through the end of the chapter.  
+* Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
 ### December 5 (Week 14)
 
-Discussion: Sustainability. Lab.
-
-#### Read:
-
-* Gitelman, Chapter 8  
+Studio format, working lab.
 
 ### December 12 (Week 15)
 
