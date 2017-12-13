@@ -14,18 +14,17 @@
 * Steve  
 * Suzanna  
 
-## Scalability
+## [Scalability](https://docs.google.com/presentation/d/1pJNtAW3Q-8TFe3mORgzhPHagtePx90kagO1m199MNSM/edit?usp=sharing)
 * Alonso  
 * Aucher  
 * Joe  
 * Rik  
 * Rye  
 
-## Maintainability
+## [Maintainability](https://docs.google.com/a/newschool.edu/presentation/d/1ieC24rd5JpSz7rM1K-9XRGr0NRYB3-1KqYseGtbNATY/edit?usp=sharing)
 * Benz  
 * George  
 * Kiril  
 * Mihal  
 * Yicen  
-* Zeyno
-  
+* Zeyno  
