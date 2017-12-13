@@ -7,7 +7,7 @@
 * Max  
 * Stephanie  
 
-## Reliability
+## [Reliability](https://github.com/visualizedata/data-structures/blob/master/assignments/docs/reliability.pptx)
 * Ellie  
 * Jed  
 * Kevin  
