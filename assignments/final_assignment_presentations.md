@@ -1,6 +1,6 @@
 # Group assignments for December 12 presentations
 
-## Data Integrity
+## [Data Integrity](https://docs.google.com/presentation/d/1_z8MVBdAhBURb2PTbV6xc3n626Cfti4VY4QujfWUR2Y/edit?usp=sharing)
 * Flavio  
 * Grace  
 * Julian  
