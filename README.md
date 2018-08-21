@@ -4,14 +4,15 @@ Master of Science, Data Visualization**
 
 # Data Structures
 
-### PGDV 5110 Syllabus, Fall 2017
+### PGDV 5110 Syllabus, Fall 2018
 
-Tuesday, 7:00pm - 9:40pm  
+**Section A:** Monday, 7:00pm - 9:40pm  
+**Section B:** Monday, 12:10pm - 2:50pm  
 66 5th Avenue, Room 710
 
-**Faculty:** [Aaron Hill](https://www.newschool.edu/parsons/faculty.aspx?id=4d6a-5577-4d6a-4d7a) | Office Hours: Thursdays 4:00pm - 6:00pm, L408 (Book office hours on Starfish)
+**Faculty:** [Aaron Hill](https://www.newschool.edu/parsons/faculty.aspx?id=4d6a-5577-4d6a-4d7a) | Office Hours: Tuesdays 4:00pm - 6:00pm, L404 (Book office hours on Starfish)
 
-**Teaching Assistant:** Will Su | Office Hours: Wednesdays 4:00pm - 6:30pm, L408 [Book office hours here](https://suj197.youcanbook.me)
+**Teaching Assistant:** Alonso Alcocer | Office Hours: TBD  
 
 Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
@@ -22,226 +23,52 @@ Curating raw data presents issues of technology, speed, and efficiency, as well 
 Duration | Description
 --- | -------
 Week 1 | Introductions and overview of semester
-Weeks 2 - 5 | Fundamental data structures; modeling semi-structured data
-Week 6 | Data cleaning
-Weeks 7 - 10 | Physical sensors; modeling structured data
+Weeks 2 - 4 | Fundamental data structures; modeling structured data
+Week 5 | Modeling semi-structured data
+Week 6 | The Query
+Week 7 | Data cleaning
+Weeks 8 - 9 | Physical sensors and IOT
+Week 10 | Interface design
 Weeks 11 - 14 | Reliability, scalability, maintainability, sustainability; Labs
 Week 15 | Final presentations and reflections
 
 ## Course Outline
 
-### August 29 (Week 1)
+### August 27 (Week 1)
 
-Introduction to data structures.
+### September 3: No class, Labor Day holiday
 
-[[slides](https://docs.google.com/a/newschool.edu/presentation/d/1kMyS_b-H8l5Z3dwI8ag60sOYcBZWsEmdQhdnnanfLFo/edit?usp=sharing)]
+### September 10: No class, Rosh Hashanah holiday
 
-**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md), due Monday 9/4 at 4:00pm:**  
-You will "get" some HTML files, save them, and study their structure.
+### September 17 (Week 2)
 
-#### Documentation: 
+### September 24 (Week 3)
 
-* [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
-* [Node request module](https://www.npmjs.com/package/request)  
-* [Node fs module](https://nodejs.org/api/fs.html)  
+### October 1 (Week 4)
 
-### September 5 (Week 2)
+### October 8 (Week 5)
 
-The web as a database. "Raw data."
+### October 15 (Week 6)
 
-#### Read:
-* Gitelman, Introduction and Color Plates  
-* Hills, Part One (pp. 17-42)
-* [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
+### October 22 (Week 7)
 
-**[Weekly Assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_02.md), due 9/11 at 4:00pm:**  
-You will parse one of the HTML files you saved last week and log essential data to the console.
+Guest lecture. 
 
-#### Documentation:
-* [Node cheerio module](https://www.npmjs.com/package/cheerio)
-* [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+### October 29 (Week 8)
 
-### September 12 (Week 3)
+### November 5 (Week 9)
 
-Fundamental data structures. Data augmentation and integration.
+### November 12 (Week 10)
 
-#### Read:
+### November 19 (Week 11)
 
-* Gitelman, Chapter 5
-* Hills, Chapters 10, 11, and 12
-* [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
-* [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
+### November 26 (Week 12)
 
-**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_03.md), due 9/18 at 4:00pm:**  
-Using data you parsed last week, you will interface with the Google Maps API to augment the data you collected.
+### December 3 (Week 13)
 
-#### Documentation:
+### December 10 (Week 14)
 
-* [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
-* [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
-* [Node Async module](http://caolan.github.io/async/)
-* [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
-
-### September 19 (Week 4)
-
-Data models I: NoSQL database.
-
-#### Read:
-* Gitelman, Chapter 6
-* Hills, Chapters 13, 14, and 15
-
-**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04.md), due 9/25 at 4:00pm:**  
-You will begin to write the data you collected, parsed, and augmented to MongoDB: a NoSQL database. You will create, administer, and maintain the database.
-
-#### Documentation:
-* [MongoDB Manual](https://docs.mongodb.com/manual/)
-* [MongoDB data types](https://docs.mongodb.com/manual/core/document/) (documents)
-* [MongoDB Data Models](https://docs.mongodb.com/manual/core/data-modeling-introduction/)
-* [MongoDB's take on denormalization](https://www.mongodb.com/blog/post/6-rules-of-thumb-for-mongodb-schema-design-part-2)
-* [Setting up MongoDB in Cloud 9](https://community.c9.io/t/setting-up-mongodb/1717)
-* [Node mongodb module](https://www.npmjs.com/package/mongodb)
-
-### September 26 (Week 5)
-
-NoSQL database: indexes, query optimization, and data restructuring.
-
-#### Read:
-
-* Gitelman, Chapter 1
-* Hills, Chapter 17
-
-**[Weekly Assignment 5/6](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_0506.md), due 10/9 at 4:00pm:**  
-Finish parsing and cleaning the rest of the data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace your MongoDB collection. You will then query data from the NoSQL database you have created, restructuring the data in the process. **Note: this combined week 5/6 assignment is worth 6 points.**
-
-#### Documentation:
-* [MongoDB queries](https://docs.mongodb.com/manual/tutorial/query-documents/)
-* [MongoDB aggregation](https://docs.mongodb.com/manual/aggregation/)
-* [aggregation quick reference](https://docs.mongodb.com/manual/meta/aggregation-quick-reference/)
-* [SQL to MongoDB Mapping Chart](https://docs.mongodb.com/manual/reference/sql-comparison/) (helpful if you already know SQL)
-
-### October 3 (Week 6)
-
-Data cleaning. Logging issues.
-
-Guest lecture. Data cleaning workshop. 
-
-#### Read:
-
-* Gitelman, Chapter 4  
-* [For Big-Data Scientists, 'Janitor Work' Is Key Hurdle to Insights](https://nyti.ms/2jNUfHo), The New York Times, August 17, 2014
-
-#### Documentation: 
-
-* [GitHub issues](https://guides.github.com/features/issues/)
-
-### October 10 (Week 7)
-
-Sensors. Data gathering and surveillance.
-
-#### Read:
-
-* Gitelman, Chapter 7
-
-**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_07), due 10/16 at 4:00pm:**  
-Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also design (in concept only) an interactive visualization of the data you will collect from the sensor.
-
-**[Final assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_1.md) distributed, due 12/11 at 4:00pm**
-
-#### Documentation: 
-
-* [Mongo indexes](https://docs.mongodb.com/manual/indexes/)
-* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
-
-### October 17 (Week 8)
-
-Data models II: SQL database.
-
-#### Read: 
-
-* Gitelman, Chapter 2
-* Hills, Chapter 16
-
-**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_08.md), due 10/23 at 4:00pm:**  
-You will design and create a SQL database (using a managed database service).
-
-#### Documentation: 
-
-* [PostgreSQL data types](https://www.postgresql.org/docs/9.4/static/datatype.html)  
-* [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
-* [Node `pg` module](https://www.npmjs.com/package/pg)
-
-### October 24 (Week 9)
-
-SQL: populating a database.
-
-#### Read: 
-
-* Gitelman, Chapter 3
-* Klepman, Chapter 2
-
-**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_09.md), due 10/30 at 4:00pm:**  
-You will begin writing sensor data to your SQL database. 
-
-#### Documentation:
-
-* [SQL tutorial](https://www.codeschool.com/courses/try-sql)
-
-### October 31 (Week 10)
-
-SQL joins and queries. Indexes, query optimization, and data restructuring. The E-R model. Data provision. 
-
-#### Read: 
-
-* Hills, Chapter 5  
-* [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
-* Gitelman, Afterward  
-
-**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_10.md), due 11/6 at 4:00pm:**  
-You will write a query for the sensor data in your SQL database, restructuring the data in the process. You will create an endpoint that will provide this data to a (hypothetical) front-end interface that contains a visual representation of this data.
-
-**[Final assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_2.md) distributed, due 12/11 at 4:00pm**
-
-#### Documentation:
-
-* [Express](http://expressjs.com/)  
-* [Handlebars](http://handlebarsjs.com/)  
-
-### November 7 (Week 11)
-
-Discussion: Reliability. Lab. 
-
-#### Read:
-
-* Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
-* [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
-
-### November 14 (Week 12)
-
-Discussion: Scalability. Lab.
-
-#### Read:
-
-* Klepmann, Chapter 1. Read the "Scalability Section." 
-* [MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://research.google.com/archive/mapreduce.html)  
-* [immens paper](http://vis.stanford.edu/papers/immens)
-
-### November 21: No class
-
-### November 28 (Week 13)
-
-Discussion: Maintainability. Lab.
-
-#### Read:
-
-* Klepmann, Chapter 1. Read the "Maintainability Section" and through the end of the chapter.  
-* Gitelman, Chapter 8  
-* [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
-
-### December 5 (Week 14)
-
-Studio format, working lab.
-
-### December 12 (Week 15)
+### December 17 (Week 15)
 
 Final assignment presentations.
 
@@ -259,15 +86,13 @@ By the successful completion of this course, students will be able to demonstrat
 
 | Description | % |
 |:--|:--|
-| Attendance and class participation | 15% |
-| Weekly Assignments (10 total) | 40% |
-| [Final assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_1.md) | 25% |
-| [Final assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_2.md) | 20% |
+| Attendance and engagement | 10% |
+| Weekly Assignments (10 total) | 45% |
+| Final assignment 1 | 15% |
+| Final assignment 2 | 15% |
+| Final assignment 3 | 15% |
 
-Attendance and Class Participation	20%
-Weekly Assignments (12 total)	35%
-Final assignment 1	25%
-Final Assignment 2	20%
+Weekly assignments are worth 4 points each, unless otherwise indicated. They are due the Friday after they are assigned, by 2:00pm. 
 
 #### Late assignments:
 
@@ -282,9 +107,9 @@ If an assignment is more than 144 hours late, no credit will be given.
 *"[NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software](http://a.co/6v7bJVs)"*, Ted Hills, 2016. This book will be available in the library at the reserve desk.  
 *"[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](http://a.co/dbjbtnU)"*, Martin Kleppmann, 2017. This book is available electronically through course reserves.  
 
-### Office Hours
+### Office Hours (by appointment)
 
-Thursdays, 4:00pm - 6:00pm, L408 (or by appointment)
+Tuesdays, 4:00pm - 6:00pm, L404 (or other time, by appointment)
 
 ### Materials and Supplies
 
@@ -299,7 +124,6 @@ We will also rely on cloud-based services to provide infrastructure, platforms, 
 
 * A modern web browser. Preferred: Google Chrome. Acceptable: Firefox. Not acceptable: Internet Explorer, Safari.  
 * Bring your laptop to every class.  
-* A (free) account at Cloud9: https://c9.io/  
 * A (free) account at GitHub: https://github.com/  
 It is also helpful to have a text editor installed locally. Sublime is a popular choice.  
 * A microcontroller and sensors (as assigned; they will be provided; do not buy)
