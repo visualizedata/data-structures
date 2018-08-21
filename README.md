@@ -235,6 +235,8 @@ Discussion: Maintainability. Lab.
 * Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
+**Final Assignments 1, 2, and 3 due 12/14 at 2:00pm:**  
+
 ### December 17 (Week 15)
 
 Final assignment presentations.
