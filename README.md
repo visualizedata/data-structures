@@ -36,37 +36,204 @@ Week 15 | Final presentations and reflections
 
 ### August 27 (Week 1)
 
+Introduction to data structures.
+
+**Weekly Assignment 1, due Friday 9/14 at 2:00pm:**  
+You will "get" some HTML files, save them, and study their structure.
+
+#### Documentation: 
+
+* [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
+* [Node request module](https://www.npmjs.com/package/request)  
+* [Node fs module](https://nodejs.org/api/fs.html)  
+
 ### September 3: No class, Labor Day holiday
 
 ### September 10: No class, Rosh Hashanah holiday
 
 ### September 17 (Week 2)
 
+The web as a database. "Raw data."
+
+#### Read:
+* Gitelman, Introduction and Color Plates  
+* Hills, Part One (pp. 17-42)
+* [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
+
+**Weekly Assignment 2, due 9/21 at 2:00pm:**  
+You will parse one of the HTML files you saved last week and log essential data to the console.
+
+#### Documentation:
+* [Node cheerio module](https://www.npmjs.com/package/cheerio)
+* [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 ### September 24 (Week 3)
+
+Fundamental data structures. Data augmentation and integration.
+
+#### Read:
+
+* Gitelman, Chapter 5
+* Hills, Chapters 10, 11, and 12
+* [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
+* [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
+
+**Weekly Assignment 3, due 9/28 at 2:00pm:**  
+Using data you parsed last week, you will interface with the Google Maps API to augment the data you collected.
+
+#### Documentation:
+
+* [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
+* [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
+* [Node Async module](http://caolan.github.io/async/)
+* [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
 
 ### October 1 (Week 4)
 
+Data models I: SQL database.
+
+#### Read: 
+
+* Gitelman, Chapter 2
+* Hills, Chapters 13, 14, 15, and 16
+
+**Weekly Assignment 4, due 10/5 at 2:00pm:**  
+You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. 
+
+**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
+
+#### Documentation: 
+
+* [SQL tutorial](https://www.codeschool.com/courses/try-sql)  
+* [PostgreSQL data types](https://www.postgresql.org/docs/9.4/static/datatype.html)  
+* [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
+* [Node `pg` module](https://www.npmjs.com/package/pg)
+
 ### October 8 (Week 5)
+
+Data models I: NoSQL database.
+
+#### Read:
+* Gitelman, Chapter 6  
+* Hills, Chapter 17  
+
+**Weekly Assignment 5, due 10/12 at 2:00pm:**  
+You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Dear Diary" data. 
+
+**Final Assignment 2 distributed:** "Dear Diary," a source of semi-structured, qualitative data.  
 
 ### October 15 (Week 6)
 
+The Query. Indexes, joins, query optimization, and data restructuring. The E-R model. Data provision. 
+
+#### Read: 
+
+* Hills, Chapter 5  
+* Gitelman, Afterward  
+
+**Weekly Assignment 6, due 10/19 at 2:00pm:**  
+You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
+
 ### October 22 (Week 7)
 
-Guest lecture. 
+Data cleaning. Logging issues.
+
+Guest lecture. Data cleaning workshop. 
+
+**Weekly Assignment 7, due 10/26 at 2:00pm:**  
+Finish parsing and cleaning the rest of the AA data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace the data in your Postgres table(s). 
+
+#### Read:
+
+* Gitelman, Chapter 4  
+* [For Big-Data Scientists, 'Janitor Work' Is Key Hurdle to Insights](https://nyti.ms/2jNUfHo), The New York Times, August 17, 2014
+
+#### Documentation: 
+
+* [GitHub issues](https://guides.github.com/features/issues/)
 
 ### October 29 (Week 8)
 
+Sensors. Data gathering and surveillance.
+
+#### Read:
+
+* Gitelman, Chapter 7
+
+**Weekly Assignment 8, due 10/16 at 2:00pm:**  
+Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also design (in concept only) an interactive visualization of the data you will collect from the sensor.
+
+**Final Assignment 3 distributed:** Surveilling your life.  
+
+#### Documentation: 
+
+* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
+
 ### November 5 (Week 9)
+
+IoT.
+
+#### Read: 
+
+* Gitelman, Chapter 3
+* Klepman, Chapter 2
+
+**Weekly Assignment 9, due 11/9 at 2:00pm:**  
+You will begin writing sensor data to your PostgreSQL database. 
 
 ### November 12 (Week 10)
 
+From database to visual representation. 
+
+#### Read:
+
+* Gitelman, Chapter 1
+
+#### Documentation:
+
+* [Express](http://expressjs.com/)  
+* [Handlebars](http://handlebarsjs.com/)  
+
 ### November 19 (Week 11)
+
+Interface design. 
+
+#### Read: 
+
+* [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
+
+**Weekly Assignment 11, due 11/23 at 2:00pm:**  
+**Note: this assignment is worth 5 points.**  
+You will design interfaces for each of your three data sources.  
 
 ### November 26 (Week 12)
 
+Discussion: Reliability. Lab. 
+
+#### Read:
+
+* Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
+* [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
+
 ### December 3 (Week 13)
 
+Discussion: Scalability. Lab.
+
+#### Read:
+
+* Klepmann, Chapter 1. Read the "Scalability Section." 
+* [MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://research.google.com/archive/mapreduce.html)  
+* [immens paper](http://vis.stanford.edu/papers/immens)
+
 ### December 10 (Week 14)
+
+Discussion: Maintainability. Lab.
+
+#### Read:
+
+* Klepmann, Chapter 1. Read the "Maintainability Section" and through the end of the chapter.  
+* Gitelman, Chapter 8  
+* [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
 ### December 17 (Week 15)
 
