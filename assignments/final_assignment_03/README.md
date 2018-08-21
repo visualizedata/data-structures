@@ -1,16 +1,16 @@
 # Sensors
 
-* [accelerometer](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/accelerometer.md)  
-* [button](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/button.md)  
-* [force sensitive resistor](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/fsr.md)  
-* [hall effect](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/hall.md)  
-* [infrared light](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/ir.md)  
-* [infrared light -- REPLACEMENT](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/ir2.md)  
-* [photoresistor](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/photocell.md)  
-* [piezo](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/piezo.md)  
-* [potentiometer](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/potentiometer.md)  
-* [temperature](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/temperature.md)  
-* [tilt ball](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07/tilt.md)  
+* [accelerometer](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/accelerometer.md)  
+* [button](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/button.md)  
+* [force sensitive resistor](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/fsr.md)  
+* [hall effect](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/hall.md)  
+* [infrared light](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/ir.md)  
+* [infrared light -- REPLACEMENT](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/ir2.md)  
+* [photoresistor](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/photocell.md)  
+* [piezo](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/piezo.md)  
+* [potentiometer](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/potentiometer.md)  
+* [temperature](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/temperature.md)  
+* [tilt ball](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_03/tilt.md)  
 
 ## Breadboard Layouts
 
