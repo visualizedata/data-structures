@@ -179,7 +179,7 @@ IoT.
 * Klepman, Chapter 2
 
 **Weekly Assignment 9, due Friday 11/9 at 2:00pm:**  
-You will begin writing sensor data to your PostgreSQL database. 
+You will begin writing sensor data to a database. 
 
 ### November 12 (Week 10)
 
