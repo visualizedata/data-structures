@@ -190,6 +190,7 @@ From database to visual representation. Serverless computing.
 * Gitelman, Chapter 1
 
 **Weekly Assignment 10, due Friday 11/16 at 2:00pm:**  
+You will create endpoints to connect your data to the design of your front-end interface. 
 
 #### Documentation:
 
