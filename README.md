@@ -219,7 +219,7 @@ Discussion: Reliability. Lab.
 
 ### December 3 (Week 13)
 
-Discussion: Scalability. Serverless computing. Lab.
+Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
 
 #### Read:
 
