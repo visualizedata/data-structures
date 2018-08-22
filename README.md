@@ -28,8 +28,8 @@ Week 5 | Modeling semi-structured data
 Week 6 | The Query
 Week 7 | Data cleaning
 Weeks 8 - 9 | Physical sensors and IOT
-Week 10 | Interface design
-Weeks 11 - 14 | Reliability, scalability, maintainability, sustainability; Labs
+Week 10-11 | Interface design
+Weeks 12 - 14 | Reliability, scalability, maintainability, sustainability; Labs
 Week 15 | Final presentations and reflections
 
 ## Course Outline
@@ -39,7 +39,7 @@ Week 15 | Final presentations and reflections
 Introduction to data structures.
 
 **Weekly Assignment 1, due Friday 9/14 at 2:00pm:**  
-You will "get" some HTML files, save them, and study their structure.
+You will "get" some HTML files, save them, and study their structure. You will also begin to think about your data sources for final assignments 2 and 3. 
 
 #### Documentation: 
 
@@ -60,7 +60,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 2, due 9/21 at 2:00pm:**  
+**Weekly Assignment 2, due Friday 9/21 at 2:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
@@ -78,7 +78,7 @@ Fundamental data structures. Data augmentation and integration.
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 3, due 9/28 at 2:00pm:**  
+**Weekly Assignment 3, due Friday 9/28 at 2:00pm:**  
 Using data you parsed last week, you will interface with the Google Maps API to augment the data you collected.
 
 #### Documentation:
@@ -97,8 +97,8 @@ Data models I: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16
 
-**Weekly Assignment 4, due 10/5 at 2:00pm:**  
-You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. 
+**Weekly Assignment 4, due Friday 10/5 at 2:00pm:**  
+You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones. 
 
 **Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
 
@@ -117,7 +117,7 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**Weekly Assignment 5, due 10/12 at 2:00pm:**  
+**Weekly Assignment 5, due Friday 10/12 at 2:00pm:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Dear Diary" data. 
 
 **Final Assignment 2 distributed:** "Dear Diary," a source of semi-structured, qualitative data.  
@@ -131,7 +131,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * Hills, Chapter 5  
 * Gitelman, Afterward  
 
-**Weekly Assignment 6, due 10/19 at 2:00pm:**  
+**Weekly Assignment 6, due Friday 10/19 at 2:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 ### October 22 (Week 7)
@@ -140,8 +140,8 @@ Data cleaning. Logging issues.
 
 Guest lecture. Data cleaning workshop. 
 
-**Weekly Assignment 7, due 10/26 at 2:00pm:**  
-Finish parsing and cleaning the rest of the AA data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace the data in your Postgres table(s). 
+**Weekly Assignment 7, due Friday 10/26 at 2:00pm:**  
+Finish parsing and cleaning the rest of the AA data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace the data in your Postgres table(s). Continue collaborating with fellow classmates to collectively build a strong data source for all ten zones. 
 
 #### Read:
 
@@ -160,8 +160,8 @@ Sensors. Data gathering and surveillance.
 
 * Gitelman, Chapter 7
 
-**Weekly Assignment 8, due 10/16 at 2:00pm:**  
-Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also design (in concept only) an interactive visualization of the data you will collect from the sensor.
+**Weekly Assignment 8, due Friday 10/16 at 2:00pm:**  
+Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 **Final Assignment 3 distributed:** Surveilling your life.  
 
@@ -178,16 +178,18 @@ IoT.
 * Gitelman, Chapter 3
 * Klepman, Chapter 2
 
-**Weekly Assignment 9, due 11/9 at 2:00pm:**  
+**Weekly Assignment 9, due Friday 11/9 at 2:00pm:**  
 You will begin writing sensor data to your PostgreSQL database. 
 
 ### November 12 (Week 10)
 
-From database to visual representation. 
+From database to visual representation. Serverless computing. 
 
 #### Read:
 
 * Gitelman, Chapter 1
+
+**Weekly Assignment 10, due Friday 11/16 at 2:00pm:**  
 
 #### Documentation:
 
@@ -202,9 +204,9 @@ Interface design.
 
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
 
-**Weekly Assignment 11, due 11/23 at 2:00pm:**  
+**Weekly Assignment 11, due Friday 11/23 at 2:00pm:**  
 **Note: this assignment is worth 5 points.**  
-You will design interfaces for each of your three data sources.  
+You will submit the final designs for the interfaces for each of your three data sources.  
 
 ### November 26 (Week 12)
 
@@ -217,7 +219,7 @@ Discussion: Reliability. Lab.
 
 ### December 3 (Week 13)
 
-Discussion: Scalability. Lab.
+Discussion: Scalability. Serverless computing. Lab.
 
 #### Read:
 
@@ -235,7 +237,7 @@ Discussion: Maintainability. Lab.
 * Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
-**Final Assignments 1, 2, and 3 due 12/14 at 2:00pm:**  
+**Final Assignments 1, 2, and 3 due Friday 12/14 at 2:00pm:**  
 
 ### December 17 (Week 15)
 
@@ -261,7 +263,7 @@ By the successful completion of this course, students will be able to demonstrat
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
 
-Weekly assignments are worth 4 points each, unless otherwise indicated. They are due the Friday after they are assigned, by 2:00pm. 
+Weekly assignments are worth 4 points each, unless otherwise indicated. They are due Fridaythe Friday after they are assigned, by 2:00pm. 
 
 #### Late assignments:
 
