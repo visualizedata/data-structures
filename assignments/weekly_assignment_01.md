@@ -11,7 +11,7 @@ All of your work for this class should be kept in this (well-organized!) reposit
 
 *50% of grade for this assignment. 2/4 points.*
 
-1. Using Node.js (in Cloud 9), make a request for each of the ten "Meeting List Agenda" pages for Manhattan:  
+1. Using Node.js (in Cloud 9), make a request for each of the ten "Meeting List Agenda" pages for Manhattan. **Important: show the code for all ten requests.**    
 ```
 https://parsons.nyc/aa/m01.html  
 https://parsons.nyc/aa/m02.html  
