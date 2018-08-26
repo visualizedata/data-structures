@@ -69,7 +69,7 @@ You will parse one of the HTML files you saved last week and log essential data 
 
 ### September 24 (Week 3)
 
-Fundamental data structures. Data augmentation and integration.
+Fundamental data structures. Data augmentation and integration. GitHub for open source collaboration. 
 
 #### Read:
 
