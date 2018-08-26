@@ -38,7 +38,7 @@ Week 15 | Final presentations and reflections
 
 Introduction to data structures.
 
-**Weekly Assignment 1, due Friday 9/14 at 2:00pm:**  
+**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md), due Friday 9/14 at 2:00pm:**  
 You will "get" some HTML files, save them, and study their structure. You will also begin to think about your data sources for final assignments 2 and 3. 
 
 #### Documentation: 
