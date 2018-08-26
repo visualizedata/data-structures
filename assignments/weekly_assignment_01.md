@@ -7,6 +7,10 @@ All of your work for this class should be kept in this (well-organized!) reposit
 
 ### Due Friday 9/14 at 2:00pm
 
+## Part One
+
+*50% of grade for this assignment. 2/4 points.*
+
 1. Using Node.js (in Cloud 9), make a request for each of the ten "Meeting List Agenda" pages for Manhattan:  
 ```
 https://parsons.nyc/aa/m01.html  
@@ -49,3 +53,9 @@ request('https://parsons.nyc/aa/m01.html', function(error, response, body){
 * [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
 * [Node request module](https://www.npmjs.com/package/request)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
+
+## Part Two
+
+*50% of grade for this assignment. 2/4 points.*
+
+Complete [this form](https://goo.gl/forms/AEKicmVbIg7ribC73). 
