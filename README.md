@@ -300,7 +300,8 @@ We will also rely on cloud-based services to provide infrastructure, platforms, 
 * A (free) [Amazon Web Services (AWS)](https://aws.amazon.com/) account  
 * A (free) [AWS Educate](https://aws.amazon.com/education/awseducate/) account  
 * A microcontroller and sensors (as assigned; they will be provided; do not buy)
-* It is also helpful to have a text editor installed locally. Sublime and Atom are popular choices.  
+* It is also helpful to have a text editor installed locally. Sublime and Atom are popular choices. Atom integrates well with GitHub.   
+* If you decide to work locally (instead of in Cloud9), you may need to install and maintain additional software such as Git (installed with [Xcode in OSX](https://developer.apple.com/xcode/)), [Node.js](https://nodejs.org/en/download/), npm (which is installed with Node.js), and other software. 
 
 ### Resources
 
