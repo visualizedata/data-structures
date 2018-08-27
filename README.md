@@ -7,7 +7,7 @@ Master of Science, Data Visualization**
 ### PGDV 5110 Syllabus, Fall 2018
 
 **Section A:** Monday, 7:00pm - 9:40pm  
-**Section B:** Monday, 12:10pm - 2:50pm  
+**Section B:** Monday, 12:10pm - 2:50pm (Parsons Paris student joining by Google Hangout)  
 66 5th Avenue, Room 710
 
 **Faculty:** [Aaron Hill](https://www.newschool.edu/parsons/faculty.aspx?id=4d6a-5577-4d6a-4d7a) | Office Hours: Tuesdays 4:00pm - 6:00pm, L404 (Book office hours on Starfish)
@@ -16,7 +16,7 @@ Master of Science, Data Visualization**
 
 Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
-**Prerequisites:** Basic knowledge of JavaScript, HTML/CSS, Linux command line, Git, and GitHub.
+**Prerequisites:** Basic knowledge of [JavaScript](http://a.co/d/baNV2sd), [HTML](https://lab.github.com/githubtraining/introduction-to-html)/CSS, Linux command line, Git, and [GitHub](https://lab.github.com/githubtraining/introduction-to-github).
 
 ## Course Overview
 
@@ -264,7 +264,7 @@ By the successful completion of this course, students will be able to demonstrat
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
 
-Weekly assignments are worth 4 points each, unless otherwise indicated. They are due Fridaythe Friday after they are assigned, by 2:00pm. 
+Weekly assignments are worth 4 points each, unless otherwise indicated. They are due the Friday after they are assigned, by 2:00pm. The quality of your [documentation](https://lab.github.com/githubtraining/communicating-using-markdown) is a part of the grade for every assignment, including all the weekly and final assignments. All documentation must be kept in your (well organized!) `data-structures` repository, using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 #### Late assignments:
 
@@ -296,9 +296,11 @@ We will also rely on cloud-based services to provide infrastructure, platforms, 
 
 * A modern web browser. Preferred: Google Chrome. Acceptable: Firefox. Not acceptable: Internet Explorer, Safari.  
 * Bring your laptop to every class.  
-* A (free) account at GitHub: https://github.com/  
-It is also helpful to have a text editor installed locally. Sublime is a popular choice.  
+* A (free) [GitHub](https://github.com/) account   
+* A (free) [Amazon Web Services (AWS)](https://aws.amazon.com/) account  
+* A (free) [AWS Educate](https://aws.amazon.com/education/awseducate/) account  
 * A microcontroller and sensors (as assigned; they will be provided; do not buy)
+* It is also helpful to have a text editor installed locally. Sublime and Atom are popular choices.  
 
 ### Resources
 
