@@ -27,7 +27,7 @@ Weeks 2 - 4 | Fundamental data structures; modeling structured data
 Week 5 | Modeling semi-structured data
 Week 6 | The Query
 Week 7 | Data cleaning
-Weeks 8 - 9 | Physical sensors and IOT
+Weeks 8 - 9 | Physical sensors and IoT
 Week 10-11 | Interface design
 Weeks 12 - 14 | Reliability, scalability, maintainability, sustainability; Labs
 Week 15 | Final presentations and reflections
@@ -161,7 +161,7 @@ Sensors. Data gathering and surveillance.
 * Gitelman, Chapter 7
 
 **Weekly Assignment 8, due Friday 10/16 at 2:00pm:**  
-Switching gears from previous assignments, you will use an IOT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 **Final Assignment 3 distributed:** Surveilling your life.  
 
@@ -259,7 +259,7 @@ By the successful completion of this course, students will be able to demonstrat
 | Description | % |
 |:--|:--|
 | Attendance and engagement | 10% |
-| Weekly Assignments (10 total) | 45% |
+| Weekly Assignments (11 total) | 45% |
 | Final assignment 1 | 15% |
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
