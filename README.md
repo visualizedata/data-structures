@@ -12,7 +12,7 @@ Master of Science, Data Visualization**
 
 **Faculty:** [Aaron Hill](https://www.newschool.edu/parsons/faculty.aspx?id=4d6a-5577-4d6a-4d7a) | Office Hours: Tuesdays 4:00pm - 6:00pm, L404 (Book office hours on Starfish)
 
-**Teaching Assistant:** Alonso Alcocer | Office Hours: TBD  
+**Teaching Assistant:** Alonso Alcocer | Office Hours: Wednesdays 4:00pm - 7:00pm, Thursdays 4:00pm - 7:00pm, L404 (Book office hours at: [https://alonsoag86.youcanbook.me/](https://alonsoag86.youcanbook.me/))  
 
 Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
