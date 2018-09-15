@@ -60,7 +60,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 2, due Friday 9/21 at 2:00pm:**  
+**[Weekly Assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_02.md), due Friday 9/21 at 2:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
@@ -98,7 +98,7 @@ Data models I: SQL database.
 * Hills, Chapters 13, 14, 15, and 16
 
 **Weekly Assignment 4, due Friday 10/5 at 2:00pm:**  
-You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones. 
+You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones (in groups, with a maximum of five group members, with each group member contributing data from at least two zones). 
 
 **Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
 

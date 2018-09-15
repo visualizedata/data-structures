@@ -2,7 +2,8 @@
 
 ## Weekly Assignments
 
-**[Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md)**, due Friday 9/14 at 2:00pm
+**[Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md)**, due Friday 9/14 at 2:00pm  
+**[Assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_02.md)**, due Friday 9/21 at 2:00pm
 
 ## Final Assignments
 
