@@ -1,6 +1,6 @@
 # Weekly Assignment 3
 
-### Due 9/28 at 4:00pm
+### Due 9/28 at 2:00pm
 
 Continue work on the file you parsed in Weekly Assignment 2. If you haven't already, organize your data into a [JSON format](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) so that it will be easier to access the data for your work on this assignment.  
 [[GIST: pushing to an array](https://gist.github.com/aaronxhill/38067bb58805896fdbb5)]
