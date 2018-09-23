@@ -1,0 +1,190 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta name="viewport" content="initial-scale=1.0, user-scalable=no">
+    <meta charset="utf-8">
+    <title>AA Meetings in Manhattan</title>
+    <style>
+        html,
+        body,
+        #map-canvas {
+            height: 100%;
+            margin: 0;
+            padding: 0;
+        }
+
+        #firstHeading {
+            font-size: 100%;
+        }
+    </style>
+    <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&signed_in=true"></script>
+    <script>
+        var latNow = 40.736354;
+        var longNow = -73.999175;
+
+
+        function initialize() {
+            var mapOptions = {
+                zoom: 16,
+                center: new google.maps.LatLng(latNow, longNow)
+            }
+            var map = new google.maps.Map(document.getElementById('map-canvas'),
+                mapOptions);
+
+            setMarkers(map, meetings);
+        }
+
+        // var meetings  ;
+        var meetings = [{
+            _id: { loca: [40.7355145, -74.0031001] },
+            meetingGroup: [{
+                meetingName: 'PERRY STREET WORKSHOP',
+                meetingHouse: '',
+                meetingAddress1: '50 Perry Street, Ground Floor,',
+                meetingAddress2: '(Betw. 7th Avenue South &amp; West 4th Street) NY 10014',
+                borough: 'Manhattan',
+                meetingDetails: 'No 8:30 or 10:15 1st Wed of month due to Bus. meeting Wed.10:15pm=No BB 1st Wed.',
+                meetingWheelchair: '',
+                meetings: [{
+                        day: 'Tuesday',
+                        startTime: '7:30 AM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '9:00 AM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '12:15 PM',
+                        meetingType: 'S',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '2:30 PM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '4:00 PM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '6:00 PM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '8:30 PM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    },
+                    {
+                        day: 'Tuesday',
+                        startTime: '10:15 PM',
+                        meetingType: 'C',
+                        specialInterest: ''
+                    }
+                ]
+            }]
+        }];
+
+
+        function makeContent(cont) {
+            var contentHolder = '<div id="content">' +
+                '<div id="siteNotice">' +
+                '</div>';
+            for (var i = 0; i < cont.meetingGroup.length; i++) {
+                contentHolder = contentHolder + '<h1 id="firstHeading" class="firstHeading">';
+                contentHolder = contentHolder + cont.meetingGroup[i].meetingName + '</h1>';
+                if (cont.meetingGroup[i].meetingHouse.length > 0) {
+                    contentHolder = contentHolder + '<p>' + cont.meetingGroup[i].meetingHouse + '<br>';
+                }
+                contentHolder = contentHolder + cont.meetingGroup[i].meetingAddress1.substr(0, cont.meetingGroup[i].meetingAddress1.indexOf(',')) + '<br>';
+                contentHolder = contentHolder + cont.meetingGroup[i].meetingAddress2 + '</p>';
+                contentHolder = contentHolder + '<p><b>Tuesday meetings: </b><br>';
+                for (var j = 0; j < cont.meetingGroup[i].meetings.length; j++) {
+                    var mt, si;
+                    if (cont.meetingGroup[i].meetings[j].meetingType == "BB") {
+                        mt = "Big Book ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "B") {
+                        mt = "Beginners ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "C") {
+                        mt = "Closed Discussion ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "S") {
+                        mt = "Step ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "T") {
+                        mt = "Tradition ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "O") {
+                        mt = "Open Meeting ";
+                    }
+                    else if (cont.meetingGroup[i].meetings[j].meetingType == "OD") {
+                        mt = "Open Discussion ";
+                    }
+                    else {
+                        mt = "";
+                    }
+
+                    if (cont.meetingGroup[i].meetings[j].specialInterest != '') {
+                        si = cont.meetingGroup[i].meetings[j].specialInterest
+                    }
+                    else {
+                        si = ''
+                    }
+                    contentHolder = contentHolder + cont.meetingGroup[i].meetings[j].startTime + ' ' + mt + si + '<br>';
+                }
+                contentHolder = contentHolder + '</p>';
+                contentHolder = contentHolder + '<div class="iw-bottom-gradient"></div>';
+            }
+            return contentHolder;
+        }
+
+        function setMarkers(map, locations) {
+            // Add markers to the map
+            var infowindow = new google.maps.InfoWindow({
+                maxWidth: 200
+            });
+
+            for (var i = 0; i < locations.length; i++) {
+                var meeting = locations[i];
+                var myLatLng = new google.maps.LatLng(meeting._id.loca[0], meeting._id.loca[1]);
+
+                var contentWindow = makeContent(meetings[i]);
+
+
+                var marker = new google.maps.Marker({
+                    position: myLatLng,
+                    map: map,
+                    title: "Click for meeting info",
+                    content: contentWindow,
+                });
+
+                google.maps.event.addListener(marker, 'click', function() {
+                    infowindow.setContent(this.content);
+                    infowindow.open(map, this);
+                });
+            }
+        }
+        google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+</head>
+
+<body>
+    <div id="map-canvas"></div>
+</body>
+
+</html>
