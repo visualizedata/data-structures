@@ -78,13 +78,13 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 3, due Friday 9/28 at 2:00pm:**  
-Using data you parsed last week, you will interface with the Google Maps API to augment the data you collected.
+**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_03.md), due Friday 9/28 at 2:00pm:**  
+Using data you parsed last week, you will interface with TAMU GeoServices to augment the data you collected.
 
 #### Documentation:
 
-* [Google Maps API](https://developers.google.com/maps/documentation/javascript/tutorial)
-* [Google Geocoding API](https://developers.google.com/maps/documentation/geocoding/intro)
+* [TAMU GeoServices](http://geoservices.tamu.edu/)  
+* [TAMU GeoServices Geocoding APIS](http://geoservices.tamu.edu/Services/Geocode/WebService/)  
 * [Node Async module](http://caolan.github.io/async/)
 * [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
 
