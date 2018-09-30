@@ -104,7 +104,8 @@ You will design a schema, create a new managed PostgreSQL database, and write SQ
 
 #### Documentation: 
 
-* [SQL tutorial](https://www.codeschool.com/courses/try-sql)  
+* [~~SQL tutorial~~](https://www.codeschool.com/courses/try-sql)    
+* [SQL tutorial](https://www.codecademy.com/learn/learn-sql)  
 * [PostgreSQL data types](https://www.postgresql.org/docs/9.4/static/datatype.html)  
 * [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
 * [Node `pg` module](https://www.npmjs.com/package/pg)
