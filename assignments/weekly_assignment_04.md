@@ -8,6 +8,8 @@ You're going to continue working with the data you scraped, parsed, and augmente
 
 You will use Amazon Web Services to host a PostgreSQL database server. Follow [these instructions](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04_documentation.md) to set up and access an instance you will use for your SQL work in this class; the setup should take about 30 minutes to complete. 
 
+If you have trouble connecting to your AWS RDS instance, refer to [this guide](https://aws.amazon.com/premiumsupport/knowledge-center/rds-cannot-connect/). 
+
 If you are new to SQL, complete [this tutorial](https://www.codecademy.com/learn/learn-sql).
 
 ## Assignment
