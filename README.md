@@ -118,7 +118,7 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**Weekly Assignment 5, due Friday 10/12 at 2:00pm:**  
+**[Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_05.md), due Friday 10/12 at 2:00pm:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Dear Diary" data. 
 
 **Final Assignment 2 distributed:** "Dear Diary," a source of semi-structured, qualitative data.  
