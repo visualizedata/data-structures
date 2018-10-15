@@ -141,7 +141,7 @@ Data cleaning. Logging issues.
 
 Guest lecture. Data cleaning workshop. 
 
-**Weekly Assignment 7, due Friday 10/26 at 2:00pm:**  
+**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07.md), due Friday 10/26 at 2:00pm:**  
 Finish parsing and cleaning the rest of the AA data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace the data in your Postgres table(s). Continue collaborating with fellow classmates to collectively build a strong data source for all ten zones. 
 
 #### Read:
