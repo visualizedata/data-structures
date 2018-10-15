@@ -7,7 +7,7 @@ You're going to continue working with the AA data in your PostgreSQL database an
 ## Part One: Write and execute a query for your AA data PostgreSQL
 
 [**This data**](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06/data) was added to a table in PostgreSQL in AWS (like you did in [Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04.md)). It was written to a table created with this SQL statement:  
-`SELECT mtgday, mtgtime, mtglocation, mtgaddress, mtgtypes FROM aadata WHERE mtgday = 'Monday' and mtghour >= 7;`
+`CREATE TABLE aadata (mtgday varchar(25), mtgtime  varchar(25), mtghour int, mtglocation varchar(75), mtgaddress varchar(75), mtgregion varchar(75), mtgtypes varchar(150));`
 
 For **part one** of this assignment, write and execute a SQL query for your AA data to filter meetings based on parameters that would make sense for your planned map. 
 
