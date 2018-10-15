@@ -96,3 +96,6 @@ dynamodb.query(params, function(err, data) {
 });
 ```
 
+## Submission requirements
+
+Update your GitHub repository with the relevant file(s). In Canvas, submit the URL of the specific location of this work within your `data-structures` GitHub repository. 
