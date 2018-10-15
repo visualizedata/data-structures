@@ -130,7 +130,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 #### Read: 
 
 * Hills, Chapter 5  
-* Gitelman, Afterward  
+* Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
 **Weekly Assignment 6, due Friday 10/19 at 2:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
