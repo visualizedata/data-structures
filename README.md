@@ -132,7 +132,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * Hills, Chapter 5  
 * Gitelman, Afterward  
 
-**Weekly Assignment 6, due Friday 10/19 at 2:00pm:**  
+**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06), due Friday 10/26 at 2:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 ### October 22 (Week 7)
