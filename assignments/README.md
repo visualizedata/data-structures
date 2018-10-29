@@ -9,6 +9,7 @@
 **[Assignment 5](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_05.md)**, due Friday 10/12 at 2:00pm  
 **[Assignment 6](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06)**, due Friday 10/26 at 2:00pm  
 **[Assignment 7](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07.md)**, due Friday 10/26 at 2:00pm  
+**[Assignment 8](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_08)**, due Friday 11/2 at 2:00pm
 
 ## Final Assignments
 

@@ -1,8 +1,10 @@
 # Weekly Assignment 8
 
-### Due Friday 11/9 at 2:00pm
+### Due Friday 11/2 at 2:00pm
 
 Switching gears from previous assignments, we will be working with various [**sensors**](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_03). 
+
+Everyone is assigned a specific sensor; you can see the assignments **[here](https://docs.google.com/spreadsheets/d/1JahK94XtgxXvVOg4Xw6Ibv4r0n3p-j1-fF7ccs3EEq4/edit?usp=sharing)**. 
 
 # Setup
 
