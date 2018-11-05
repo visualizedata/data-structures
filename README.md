@@ -161,11 +161,6 @@ Sensors. Data gathering and surveillance.
 
 * Gitelman, Chapter 7
 
-**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_08), due Friday 11/9 at 2:00pm:**  
-Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
-
-**Final Assignment 3 distributed:** Surveilling your life.  
-
 #### Documentation: 
 
 * Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
@@ -174,13 +169,15 @@ Switching gears from previous assignments, you will use an IoT development board
 
 IoT.
 
+Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/?ex_cid=rrpromo) | [3/4](https://www.nytimes.com/interactive/2018/11/04/technology/jobs-not-mobs.html?action=click&module=Top%20Stories&pgtype=Homepage)]
+
 #### Read: 
 
 * Gitelman, Chapter 3
 * Klepman, Chapter 2
 
-**Weekly Assignment 9, due Friday 11/9 at 2:00pm:**  
-You will begin writing sensor data to a database. 
+**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_08), due Friday 11/9 at 2:00pm:**  
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 ### November 12 (Week 10)
 
@@ -190,13 +187,10 @@ From database to visual representation. Serverless computing.
 
 * Gitelman, Chapter 1
 
-**Weekly Assignment 10, due Friday 11/16 at 2:00pm:**  
-You will create endpoints to connect your data to the design of your front-end interface. 
+**Weekly Assignment 9, due Friday 11/16 at 2:00pm:**  
+You will begin writing sensor data to a database. 
 
-#### Documentation:
-
-* [Express](http://expressjs.com/)  
-* [Handlebars](http://handlebarsjs.com/)  
+**Final Assignment 3 distributed:** Surveilling your life.  
 
 ### November 19 (Week 11)
 
@@ -206,10 +200,13 @@ Interface design.
 
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
 
-**Weekly Assignment 11, due Friday 11/23 at 2:00pm:**  
-**Note: this assignment is worth 5 points.**  
-You will submit the final designs for the interfaces for each of your three data sources.  
+**Weekly Assignment 10, due Friday 11/30 at 2:00pm:**  
+You will create endpoints to connect your data to the design of your front-end interface. 
 
+#### Documentation:
+
+* [Express](http://expressjs.com/)  
+* [Handlebars](http://handlebarsjs.com/) 
 ### November 26 (Week 12)
 
 Discussion: Reliability. Lab. 
@@ -218,6 +215,10 @@ Discussion: Reliability. Lab.
 
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
+
+**Weekly Assignment 11, due Friday 11/30 at 2:00pm:**  
+**Note: this assignment is worth 5 points.**  
+You will submit the final designs for the interfaces for each of your three data sources.  
 
 ### December 3 (Week 13)
 
