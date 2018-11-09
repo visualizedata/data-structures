@@ -167,6 +167,8 @@ Sensors. Data gathering and surveillance.
 
 ### November 5 (Week 9)
 
+[[slides](https://docs.google.com/presentation/d/1nd7drZiU8r7XEZzOhSSCZrX6G7_n-2Ce7Rq3twWToHU/edit?usp=sharing)]
+
 IoT.
 
 Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/?ex_cid=rrpromo) | [3/4](https://www.nytimes.com/interactive/2018/11/04/technology/jobs-not-mobs.html?action=click&module=Top%20Stories&pgtype=Homepage)]
