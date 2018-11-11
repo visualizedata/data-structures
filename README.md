@@ -189,7 +189,7 @@ From database to visual representation. Serverless computing.
 
 * Gitelman, Chapter 1
 
-**Weekly Assignment 9, due Friday 11/16 at 2:00pm:**  
+**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_09), due Wednesday 11/21 at 2:00pm:**  
 You will begin writing sensor data to a database. 
 
 **Final Assignment 3 distributed:** Surveilling your life.  
