@@ -183,7 +183,7 @@ Switching gears from previous assignments, you will use an IoT development board
 
 ### November 12 (Week 10)
 
-From database to visual representation. Serverless computing. 
+From database to visual representation.  
 
 #### Read:
 
