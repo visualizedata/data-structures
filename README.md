@@ -202,7 +202,7 @@ Interface design.
 
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
 
-**Weekly Assignment 10, due Friday 11/30 at 2:00pm:**  
+**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_10), due Friday 11/30 at 2:00pm:**  
 You will create endpoints to connect your data to the design of your front-end interface. 
 
 #### Documentation:
@@ -218,7 +218,7 @@ Discussion: Reliability. Lab.
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
 
-**Weekly Assignment 11, due Friday 11/30 at 2:00pm:**  
+**[Weekly Assignment 11](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_11.md), due Friday 11/30 at 2:00pm:**  
 **Note: this assignment is worth 5 points.**  
 You will submit the final designs for the interfaces for each of your three data sources.  
 
