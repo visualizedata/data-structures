@@ -4,6 +4,8 @@
 
 Using the work from all of your previous weekly assignments, you will create a web server application in Node.js that will respond to various requests for JSON data for AA meetings, dear diary, and your sensor. These requests will provide the data that would be needed to create a visual representation of the data, in the format that is needed. 
 
+**RECOMMENDED READING: [Express/Node introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)**  
+
 Here's an example of a working application, which navigates to three endpoints:  
 [**http://34.239.177.221:8080/**](http://34.239.177.221:8080/)
 

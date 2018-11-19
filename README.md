@@ -207,8 +207,10 @@ You will create endpoints to connect your data to the design of your front-end i
 
 #### Documentation:
 
+* [What is Node.js and Express?](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction)  
 * [Express](http://expressjs.com/)  
 * [Handlebars](http://handlebarsjs.com/) 
+
 ### November 26 (Week 12)
 
 Discussion: Reliability. Lab. 
