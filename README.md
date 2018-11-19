@@ -213,6 +213,8 @@ You will create endpoints to connect your data to the design of your front-end i
 
 Discussion: Reliability. Lab. 
 
+Klepman reading led by: Aaditi, Rachel, and Rijk (at 12:10pm) and Brad, Christian, Colleen, Felix, Mio, and Simone (at 7:00pm)
+
 #### Read:
 
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
@@ -226,6 +228,8 @@ You will submit the final designs for the interfaces for each of your three data
 
 Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
 
+Klepman reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D’hana, Dan G, Juan, Ryan, and Mikaela (at 7:00pm)
+
 #### Read:
 
 * Klepmann, Chapter 1. Read the "Scalability Section." 
@@ -235,6 +239,8 @@ Discussion: Scalability. Serverless computing. When do you need a database(s)? W
 ### December 10 (Week 14)
 
 Discussion: Maintainability. Lab.
+
+Klepman reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andrew, Candice, Dan R, Doug, Emily, and Feiyi (at 7:00pm)
 
 #### Read:
 
@@ -247,6 +253,24 @@ Discussion: Maintainability. Lab.
 ### December 17 (Week 15)
 
 Final assignment presentations.
+
+In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
+
+#### 12:10pm section:
+
+Group 1. Topic: reliability. Members: Aaditi, Rachel, and Rijk
+
+Group 2. Topic: scalability. Members: Janice, Nataly, Nic, and Zui
+
+Group 3. Topic: maintainability. Members: Adrian, Michael, Shefali, and Yu
+
+#### 7:00pm section:
+
+Group 1. Topic: reliability. Members: Brad, Christian, Colleen, Felix, Mio, and Simone
+
+Group 2. Topic: scalability. Members: Batool, D’hana, Dan G, Juan, Ryan, and Mikaela
+
+Group 3. Topic: maintainability. Members: Andrew, Candice, Dan R, Doug, Emily, and Feiyi
 
 ## Learning Outcomes
 
