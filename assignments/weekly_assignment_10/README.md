@@ -13,7 +13,7 @@ Notice that for all three of the data sources (AA, Dear Diary, and sensors) the 
 
 ### AA Data
 
-For the AA data, individual meetings have been grouped by the location level (with metadata about that location), with a built JSON array to hold the values of the AA meetings days and times. Here's [the data I started with](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06/data). And here is [the result of the filtering and aggregation](http://34.239.177.221:8080/aameetings), which will map to this visualization:  
+For the AA data, individual meetings have been [grouped by](http://www.postgresqltutorial.com/postgresql-group-by/) the location level (with metadata about that location), with a built JSON array (thanks to [aggregate functions](https://www.postgresql.org/docs/10/functions-aggregate.html) and [JSON functions](https://www.postgresql.org/docs/10/functions-json.html)) to hold the values of the AA meetings days and times. Here's [the data I started with](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06/data). And here is [the result of the filtering and aggregation](http://34.239.177.221:8080/aameetings), which will map to this visualization:  
 
 ![](https://github.com/visualizedata/data-structures/raw/master/assignments/resources/aasketch.jpg)
 
