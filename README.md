@@ -213,7 +213,7 @@ You will create endpoints to connect your data to the design of your front-end i
 
 Discussion: Reliability. Lab. 
 
-Klepman reading led by: Aaditi, Rachel, and Rijk (at 12:10pm) and Brad, Christian, Colleen, Felix, Mio, and Simone (at 7:00pm)
+Klepmann reading led by: Aaditi, Rachel, and Rijk (at 12:10pm) and Brad, Christian, Colleen, Felix, Mio, and Simone (at 7:00pm)
 
 #### Read:
 
@@ -228,7 +228,7 @@ You will submit the final designs for the interfaces for each of your three data
 
 Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
 
-Klepman reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D’hana, Dan G, Juan, Ryan, and Mikaela (at 7:00pm)
+Klepmann reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D’hana, Dan G, Juan, Ryan, and Mikaela (at 7:00pm)
 
 #### Read:
 
@@ -240,7 +240,7 @@ Klepman reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D�
 
 Discussion: Maintainability. Lab.
 
-Klepman reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andrew, Candice, Dan R, Doug, Emily, and Feiyi (at 7:00pm)
+Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andrew, Candice, Dan R, Doug, Emily, and Feiyi (at 7:00pm)
 
 #### Read:
 
