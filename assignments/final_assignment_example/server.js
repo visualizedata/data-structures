@@ -2,7 +2,7 @@ var express = require('express'), // npm install express
     app = express();
 const { Pool } = require('pg');
 var AWS = require('aws-sdk');
-const moment = require('moment'); // moment-timezone --save
+const moment = require('moment-timezone'); // moment-timezone --save
 
 // AWS RDS credentials
 var db_credentials = new Object();
@@ -137,7 +137,7 @@ var jx = `;
 // respond to requests for /aameetings
 app.get('/aa', function(req, res) {
 
-    var now = moment(Date.now()); 
+    var now = moment.tz(Date.now(), "America/New_York"); 
     var dayy = now.day().toString(); 
     var hourr = now.hour().toString(); 
 
@@ -158,7 +158,7 @@ app.get('/aa', function(req, res) {
             var resp = hx + JSON.stringify(qres.rows) + jx;
             res.send(resp);
             client.end();
-            console.log('2) responded to request for aa meeting data');
+            console.log('2) responded to request for aa meeting map');
         }
     });
 });
