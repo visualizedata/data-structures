@@ -1,5 +1,7 @@
 # example final project
 	
+### Example one: 
+
 This example shows a working AA Meeting map, viewable at:    
 **[http://34.239.177.221:8080/aa](http://34.239.177.221:8080/aa)**	
 
@@ -11,6 +13,16 @@ This code can be adapted for your own map and also for the other two final assig
 * The query is passed to my AWS RDS Postgres database.  
 * The results from the query are used to build the HTML and JavaScript for the response to the request for `/aa`.  
 * The associated static files are stored in `/public`: `index.html` and `css/styles.css`.  As well as any other files you might create in building the map.  
+
+### Example two: 
+
+This example shows a working bar chart for my sensor data (tilt sensor which measures if the sensor is tilted (Boolean). It shows the percentage of each day of the month that the sensor is tilted. Viewable at:  
+**[http://34.239.177.221:8080/ss](http://34.239.177.221:8080/ss)**
+
+[`server.js`](https://github.com/visualizedata/data-structures/blob/master/assignments/final_assignment_example/server.js) shows how responses to requests for `/ss` are handled:  
+
+* The query is passed to my AWS RDS Postgres database.  
+* The results from the query are used to build the HTML and JavaScript for the response to the request for `/aa`.  
 
 ## making your work available to others over the internet 
   
