@@ -12,7 +12,7 @@ This code can be adapted for your own map and also for the other two final assig
 * The results from the query are used to build the HTML and JavaScript for the response to the request for `/aa`.  
 * The associated static files are stored in `/public`: `index.html` and `css/styles.css`.  As well as any other files you might create in building the map.  
 
-  ## making your work available to others over the internet 
+## making your work available to others over the internet 
   
 AWS Cloud9 does not, by default, make applications available to others over the internet. The "Preview" functionality makes your running application viewable by **you only**. In order to make your visualizations available publicly, you may do one of the following:    
   
