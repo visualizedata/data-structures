@@ -19,9 +19,10 @@
 
 **All due Friday 12/14 at 2:00pm**
 
+* [example code for final assignments](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_example)  
 * [**Final Assignment 1**](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_01)  
 * **[Final Assignment 2](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_02)**    
-* Final Assignment 3
+* **[Final Assignment 3](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_03)**
 
 ## Resources
 
