@@ -24,6 +24,17 @@
 * **[Final Assignment 2](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_02)**    
 * **[Final Assignment 3](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_03)**
 
+#### Final assignment grading scheme: 
+
+| outcome | FA 1 | FA 2 | FA3 |
+|:--|:--|:--|:--|
+| visualization (functionality only) | 20% | 15% | 15% |
+| mapping of the data to the visualization | 10% | 15% | 15% |
+| integrity/accuracy of the data | 25% | 25% | 25% |
+| query: restructuring/transforming/summarizing | 15% | 15% | 15% |
+| query: efficiency | 10% | 10% | 10% |
+| documentation and repo | 20% | 20% | 20% |
+
 ## Resources
 
 * [Descriptions of sensors for Final Assignment 3](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_03)  
