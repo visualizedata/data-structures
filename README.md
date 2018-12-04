@@ -256,6 +256,8 @@ Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andre
 
 Final assignment presentations.
 
+Terminating and cleaning up your AWS resources. 
+
 In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
 
 #### 12:10pm section:
