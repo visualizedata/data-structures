@@ -250,7 +250,7 @@ Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andre
 * Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
-**Final Assignments 1, 2, and 3 due Friday 12/14 at 2:00pm:**  
+**Final Assignments 1, 2, and 3 due Sunday 12/16 at 10:00pm:**  
 
 ### December 17 (Week 15)
 

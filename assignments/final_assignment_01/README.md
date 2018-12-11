@@ -1,6 +1,6 @@
 # Final Assignment 1
 
-## Due Friday 12/14 at 2:00pm
+## Due Sunday 12/16 at 10:00pm
 
 You will expand on weekly assignments 1, 2, 3, 4, 6, 7, 10, and 11 to scrape all ten zones of New York's AA Meeting List to capture, clean, and store all meetings in Manhattan (zones one through ten). The meetings data should be stored in PostgreSQL and queried using the `pg` module in Node. You will use [Leaflet](https://leafletjs.com/examples/quick-start/) to display relevant meetings as map markers with popups that show all relevant information about the meeting(s) at each marker. [Here's an example to model, showing one meeting group](https://parsons.nyc/aa/perrystreet.html). 
 

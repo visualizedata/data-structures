@@ -1,6 +1,6 @@
 # Final Assignment 2
 
-## Due Friday 12/14 at 2:00pm
+## Due Sunday 12/16 at 10:00pm
 
 You will expand on weekly assignments 5, 6, 7, 10, and 11 to to capture, clean, and store all data for "Dear Diary"--a source of semi-structured, qualitative data. The data should be stored in Amazon DynamoDB and queried using the `aws-sdk` module in Node. You will design and create an interface to display relevant diary entries. 
 
