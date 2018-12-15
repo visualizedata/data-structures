@@ -256,7 +256,7 @@ Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andre
 
 Final assignment presentations.
 
-Terminating and cleaning up your AWS resources and credentials. 
+Terminating and cleaning up your AWS resources and credentials. [[**checklist**](https://github.com/visualizedata/data-structures/blob/master/assignments/resources/AWS_shutdown.md)]
 
 In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
 
