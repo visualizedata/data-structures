@@ -4,19 +4,18 @@ Master of Science, Data Visualization**
 
 # Data Structures
 
-### PGDV 5110 Syllabus, Fall 2018
+### PGDV 5110 Syllabus, Fall 2019
 
-**Section A:** Monday, 7:00pm - 9:40pm  
-**Section B:** Monday, 12:10pm - 2:50pm (Parsons Paris student joining by Google Hangout)  
+Wednesday, 12:10pm - 2:50pm  
 66 5th Avenue, Room 710
 
-**Faculty:** [Aaron Hill](https://www.newschool.edu/parsons/faculty.aspx?id=4d6a-5577-4d6a-4d7a) | Office Hours: Tuesdays 4:00pm - 6:00pm, L404 (Book office hours on Starfish)
+**Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Tuesdays 3:00pm - 4:00pm, location TBD (Book office hours on Starfish)
 
-**Teaching Assistant:** Alonso Alcocer | Office Hours: Wednesdays 4:00pm - 7:00pm, Thursdays 4:00pm - 7:00pm, L404 (Book office hours at: [https://alonsoag86.youcanbook.me/](https://alonsoag86.youcanbook.me/))  
+**Tutor Specialist:** TBD 
 
 Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
-**Prerequisites:** Basic knowledge of [JavaScript](http://a.co/d/baNV2sd), [HTML](https://lab.github.com/githubtraining/introduction-to-html)/CSS, Linux command line, Git, and [GitHub](https://lab.github.com/githubtraining/introduction-to-github).
+**Prerequisites:** Basic knowledge of JavaScript, HTML/CSS, Linux command line, Git, and [GitHub](https://lab.github.com/githubtraining/introduction-to-github).
 
 ## Course Overview
 
@@ -34,12 +33,12 @@ Week 15 | Final presentations and reflections
 
 ## Course Outline
 
-### August 27 (Week 1)
+### August 28 (Week 1)
 
 Introduction to data structures.
 
-**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_01.md), due Friday 9/14 at 2:00pm:**  
-You will "get" some HTML files, save them, and study their structure. You will also begin to think about your data sources for final assignments 2 and 3. 
+**Weekly Assignment 1, due Friday 8/30 at 6:00pm:**  
+You will "get" some HTML files, save them, and study their structure.  
 
 #### Documentation: 
 
@@ -47,11 +46,7 @@ You will "get" some HTML files, save them, and study their structure. You will a
 * [Node request module](https://www.npmjs.com/package/request)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
 
-### September 3: No class, Labor Day holiday
-
-### September 10: No class, Rosh Hashanah holiday
-
-### September 17 (Week 2)
+### September 4 (Week 2)
 
 The web as a database. "Raw data."
 
@@ -60,14 +55,14 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**[Weekly Assignment 2](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_02.md), due Friday 9/21 at 2:00pm:**  
+**Weekly Assignment 2, due Monday 9/9 at 6:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
 * [Node cheerio module](https://www.npmjs.com/package/cheerio)
 * [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-### September 24 (Week 3)
+### September 11 (Week 3)
 
 Fundamental data structures. Data augmentation and integration. GitHub for open source collaboration. 
 
@@ -78,7 +73,7 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_03.md), due Friday 9/28 at 2:00pm:**  
+**Weekly Assignment 3, due Monday 9/16 at 6:00pm:**  
 Using data you parsed last week, you will interface with TAMU GeoServices to augment the data you collected.
 
 #### Documentation:
@@ -88,7 +83,7 @@ Using data you parsed last week, you will interface with TAMU GeoServices to aug
 * [Node Async module](http://caolan.github.io/async/)
 * [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
 
-### October 1 (Week 4)
+### September 18 (Week 4)
 
 Data models I: SQL database.
 
@@ -97,20 +92,19 @@ Data models I: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16
 
-**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_04.md), due Friday 10/5 at 2:00pm:**  
+**Weekly Assignment 4, due Monday 9/23 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones (in groups, with a maximum of five group members, with each group member contributing data from at least two zones). 
 
-**[Final Assignment 1](https://github.com/visualizedata/data-structures/tree/master/assignments/final_assignment_01) distributed:** Map of AA meetings in Manhattan.
+**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
 
 #### Documentation: 
 
-* [~~SQL tutorial~~](https://www.codeschool.com/courses/try-sql)    
 * [SQL tutorial](https://www.codecademy.com/learn/learn-sql)  
 * [PostgreSQL data types](https://www.postgresql.org/docs/9.4/static/datatype.html)  
 * [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
 * [Node `pg` module](https://www.npmjs.com/package/pg)
 
-### October 8 (Week 5)
+### September 25 (Week 5)
 
 Data models I: NoSQL database.
 
@@ -118,12 +112,12 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**[Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_05.md), due Friday 10/12 at 2:00pm:**  
-You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Dear Diary" data. 
+**Weekly Assignment 5, due Tuesday 10/1 at 9:00am:**  
+You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
-**Final Assignment 2 distributed:** "Dear Diary," a source of semi-structured, qualitative data.  
+**Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
 
-### October 15 (Week 6)
+### October 2 (Week 6)
 
 The Query. Indexes, joins, query optimization, and data restructuring. The E-R model. Data provision. 
 
@@ -132,17 +126,34 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * Hills, Chapter 5  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_06), due Friday 10/26 at 2:00pm:**  
+**Weekly Assignment 6, due Monday 10/7 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
-### October 22 (Week 7)
+### October 9: No class, Yom Kippur
+
+### October 16 (Week 7)
+
+Sensors. Data gathering and surveillance.
+
+**Weekly Assignment 7, due Monday 10/21 at 6:00pm:**  
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
+
+#### Read:
+
+* Gitelman, Chapter 7
+
+#### Documentation: 
+
+* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
+
+### October 23 (Week 8)
 
 Data cleaning. Logging issues.
 
-Guest lecture. Data cleaning workshop. 
+Data cleaning workshop. 
 
-**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_07.md), due Friday 10/26 at 2:00pm:**  
-Finish parsing and cleaning the rest of the AA data in your "zone" (the zone that corresponds with the last digit of your student ID number), and update/replace the data in your Postgres table(s). Continue collaborating with fellow classmates to collectively build a strong data source for all ten zones. 
+**Weekly Assignment 8, due Monday 10/28 at 6:00pm:**  
+Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
 
@@ -153,23 +164,18 @@ Finish parsing and cleaning the rest of the AA data in your "zone" (the zone tha
 
 * [GitHub issues](https://guides.github.com/features/issues/)
 
-### October 29 (Week 8)
+Note: [IEEE VIS](http://ieeevis.org/year/2019/welcome) conference is October 20-25
 
-Sensors. Data gathering and surveillance.
-
-#### Read:
-
-* Gitelman, Chapter 7
-
-#### Documentation: 
-
-* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
-
-### November 5 (Week 9)
+### October 30 (Week 9)
 
 [[slides](https://docs.google.com/presentation/d/1nd7drZiU8r7XEZzOhSSCZrX6G7_n-2Ce7Rq3twWToHU/edit?usp=sharing)]
 
 IoT.
+
+**Weekly Assignment 9, due Monday 11/4 at 6:00pm:**  
+You will begin writing sensor data to a database. 
+
+**Final Assignment 3 distributed:** Surveilling your life. 
 
 Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/?ex_cid=rrpromo) | [3/4](https://www.nytimes.com/interactive/2018/11/04/technology/jobs-not-mobs.html?action=click&module=Top%20Stories&pgtype=Homepage)]
 
@@ -178,32 +184,28 @@ Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-e
 * Gitelman, Chapter 3
 * Klepman, Chapter 2
 
-**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_08), due Friday 11/9 at 2:00pm:**  
-Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
-
-### November 12 (Week 10)
+### November 6 (Week 10)
 
 From database to visual representation.  
 
+**Weekly Assignment 10, due Monday 11/11 at 6:00pm:**  
+You will create endpoints to connect your data to the design of your front-end interface. 
+
 #### Read:
 
-* Gitelman, Chapter 1
+* Gitelman, Chapter 1 
 
-**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_09), due Wednesday 11/21 at 2:00pm:**  
-You will begin writing sensor data to a database. 
-
-**Final Assignment 3 distributed:** Surveilling your life.  
-
-### November 19 (Week 11)
+### November 13 (Week 11)
 
 Interface design. 
+
+**Weekly Assignment 11, due Monday 11/18 at 6:00pm:**  
+**Note: this assignment is worth 5 points.**  
+You will submit the final designs for the interfaces for each of your three data sources.  
 
 #### Read: 
 
 * [REDESIGNING DESIGN / JOS DE MUL](http://opendesignnow.org/index.html%3Fp=401.html)  
-
-**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/tree/master/assignments/weekly_assignment_10), due Friday 11/30 at 2:00pm:**  
-You will create endpoints to connect your data to the design of your front-end interface. 
 
 #### Documentation:
 
@@ -211,26 +213,24 @@ You will create endpoints to connect your data to the design of your front-end i
 * [Express](http://expressjs.com/)  
 * [Handlebars](http://handlebarsjs.com/) 
 
-### November 26 (Week 12)
+### November 20 (Week 12)
 
 Discussion: Reliability. Lab. 
 
-Klepmann reading led by: Aaditi, Rachel, and Rijk (at 12:10pm) and Brad, Christian, Colleen, Felix, Mio, and Simone (at 7:00pm)
+Klepmann reading led by: TBD
 
 #### Read:
 
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
 
-**[Weekly Assignment 11](https://github.com/visualizedata/data-structures/blob/master/assignments/weekly_assignment_11.md), due Friday 11/30 at 2:00pm:**  
-**Note: this assignment is worth 5 points.**  
-You will submit the final designs for the interfaces for each of your three data sources.  
+### November 27: No class, Thanksgiving holiday
 
-### December 3 (Week 13)
+### December 4 (Week 13)
 
 Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
 
-Klepmann reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D’hana, Dan G, Juan, Ryan, and Mikaela (at 7:00pm)
+Klepmann reading led by: TBD
 
 #### Read:
 
@@ -238,11 +238,11 @@ Klepmann reading led by: Janice, Nataly, Nic, and Zui (at 12:10pm) and Batool, D
 * [MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://research.google.com/archive/mapreduce.html)  
 * [immens paper](http://vis.stanford.edu/papers/immens)
 
-### December 10 (Week 14)
+### December 11 (Week 14)
 
 Discussion: Maintainability. Lab.
 
-Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andrew, Candice, Dan R, Doug, Emily, and Feiyi (at 7:00pm)
+Klepmann reading led by: TBD
 
 #### Read:
 
@@ -250,31 +250,15 @@ Klepmann reading led by: Adrian, Michael, Shefali, and Yu (at 12:10pm) and Andre
 * Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
-**Final Assignments 1, 2, and 3 due Sunday 12/16 at 10:00pm:**  
+**Final Assignments 1, 2, and 3 due Monday 12/16 at 6:00pm:**  
 
-### December 17 (Week 15)
+### Virtual meeting (Week 15)
 
-Final assignment presentations.
+Final assignment presentation videos posted by Monday, December 16 at 6:00pm. Comments due by Tuesday, December 17 at 6:00pm  
 
 Terminating and cleaning up your AWS resources and credentials. [[**checklist**](https://github.com/visualizedata/data-structures/blob/master/assignments/resources/AWS_shutdown.md)]
 
 In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
-
-#### 12:10pm section:
-
-Group 1. Topic: reliability. Members: Aaditi, Rachel, and Rijk
-
-Group 2. Topic: scalability. Members: Janice, Nataly, Nic, and Zui
-
-Group 3. Topic: maintainability. Members: Adrian, Michael, Shefali, and Yu
-
-#### 7:00pm section:
-
-Group 1. Topic: reliability. Members: Brad, Christian, Colleen, Felix, Mio, and Simone
-
-Group 2. Topic: scalability. Members: Batool, D’hana, Dan G, Juan, Ryan, and Mikaela
-
-Group 3. Topic: maintainability. Members: Andrew, Candice, Dan R, Doug, Emily, and Feiyi
 
 ## Learning Outcomes
 
@@ -296,7 +280,7 @@ By the successful completion of this course, students will be able to demonstrat
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
 
-Weekly assignments are worth 4 points each, unless otherwise indicated. They are due the Friday after they are assigned, by 2:00pm. The quality of your [documentation](https://lab.github.com/githubtraining/communicating-using-markdown) is a part of the grade for every assignment, including all the weekly and final assignments. All documentation must be kept in your (well organized!) `data-structures` repository, using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+Weekly assignments are worth 4 points each, unless otherwise indicated. They are due 6:00pm the Monday after they are assigned, unless otherwise indicated. The quality of your [documentation](https://lab.github.com/githubtraining/communicating-using-markdown) is a part of the grade for every assignment, including all the weekly and final assignments. All documentation must be kept in your (well organized!) `data-structures` repository, using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 #### Late assignments:
 
@@ -313,7 +297,7 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Office Hours (by appointment)
 
-Tuesdays, 4:00pm - 6:00pm, L404 (or other time, by appointment)
+Tuesdays, 3:00pm - 4:00pm, location TBD (or other time, by appointment)
 
 ### Materials and Supplies
 
