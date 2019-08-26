@@ -11,9 +11,11 @@ Wednesdays, 12:10pm - 2:50pm
 
 **Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Tuesdays 3:00pm - 4:00pm, location TBD (Book office hours on Starfish)
 
-**Tutor Specialist:** TBD 
+**Tutor Specialist:** TBD | Office Hours TBD
 
-Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
+**Piazza:** We will be using this collaboration tool for work on assignments. It is a Q&A forum for the 11 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours (for both faculty and tutor specialist) should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
+
+**Course description:** Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
 **Prerequisites:** Basic knowledge of JavaScript, HTML/CSS, Linux command line, Git, and [GitHub](https://lab.github.com/githubtraining/introduction-to-github).
 
