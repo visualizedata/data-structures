@@ -23,11 +23,13 @@ https://parsons.nyc/aa/m09.html
 https://parsons.nyc/aa/m10.html   
 ```
 
-2. Using Node.js: For each of the ten files you requested, save the body as a **text file** to your "local" environment (either on your own laptop or in AWS Cloud9).
+> Note: you will creating your own Cloud 9 environment from your personal AWS account for your work in this course. Do not use the Major Studio AWS account that Daniel sent you. You will incur some expenses on AWS but they are very unlikely to exceed what you get on the free tier plus the $100 credit you receive from signing up for AWS Educate. 
+
+2. Using Node.js: For each of the ten files you requested, save the body as a **text file** to your "local" environment (in AWS Cloud9).
 
 3. Study the HTML structure and tags and begin to think about how you might parse these files to extract relevant data for these AA meetings.
 
-4. Update your GitHub repository with the relevant files: your `js` file and ten `txt` files. In Canvas, submit the URL of the specific location of this work within your `data-structures` GitHub repository. 
+4. Update your GitHub repository with the relevant files: your `js` file and ten `txt` files, plus a `md` file with your documentation. In Canvas, submit the URL of the specific location of this work within your `data-structures` GitHub repository. 
 
 ## Starter code
 
