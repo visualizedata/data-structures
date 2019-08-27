@@ -53,3 +53,7 @@ request('https://parsons.nyc/thesis-2019/', function(error, response, body){
 * [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
 * [Node request module](https://www.npmjs.com/package/request)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
+
+## Map of AA zones
+
+![](https://github.com/visualizedata/data-structures/raw/master/assets/aa.png)
