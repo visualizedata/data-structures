@@ -299,7 +299,7 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Office Hours (by appointment through Starfish)
 
-Tuesdays, 3:00pm - 4:00pm, location TBD (or other time, by appointment)
+Tuesdays, 3:00pm - 4:00pm (or other time, by appointment), Location: 2 W 13th Street, room 404
 
 ### Materials and Supplies
 
