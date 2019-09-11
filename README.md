@@ -74,7 +74,7 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 3, due Monday 9/16 at 6:00pm:**  
+**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_03.md), due Monday 9/16 at 6:00pm:**  
 Using data you parsed last week, you will interface with TAMU GeoServices to augment the data you collected.
 
 #### Documentation:
