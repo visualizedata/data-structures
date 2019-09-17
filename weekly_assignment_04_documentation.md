@@ -14,6 +14,8 @@ It will take a few minutes for AWS to create your DB instance. It is available f
 
 ## Setting up a way to access your instance
 
+*These steps only need to be completed once, to set up access to your instance.* 
+
 1. Click on your instance to reveal its metadata and options.  
 2. In the **Connectivity & security** section, copy the **Endpoint**. The endpoint is the address for communicating with the database. You'll need it in your Node.js scripts (along with your database name, username, and password). Under the **Security** header, click the URL directly beneath the **VPC security groups** subheading (it should look something like this: `default (sg-01234567)`) Click on that security group row and then click the **Inbound** tab. Click the **Edit** button. Click the **Add Rule** button. In the new row at the bottom, in the **Type** dropdown, select **PostgreSQL** and under **Source** select **Anywhere** from the drop-down menu. Click the blue **Save** button.  
 3. You are now ready to connect to your new database. 

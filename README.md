@@ -93,7 +93,7 @@ Data models I: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16
 
-**Weekly Assignment 4, due Monday 9/23 at 6:00pm:**  
+**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md), due Monday 9/23 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones (in groups, with a maximum of five group members, with each group member contributing data from at least two zones). 
 
 **Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
