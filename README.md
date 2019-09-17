@@ -125,6 +125,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 #### Read: 
 
 * Hills, Chapter 5  
+* [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
 **Weekly Assignment 6, due Monday 10/7 at 6:00pm:**  
