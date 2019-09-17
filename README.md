@@ -94,13 +94,13 @@ Data models I: SQL database.
 * Hills, Chapters 13, 14, 15, and 16
 
 **[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md), due Monday 9/23 at 6:00pm:**  
-You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. You will negotiate with your classmates to collaborate on wrangling the data for all ten AA zones (in groups, with a maximum of five group members, with each group member contributing data from at least two zones). 
+You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
 
-**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
+**[Final Assignment 1](https://github.com/visualizedata/data-structures/blob/master/final_assignment_1.md) distributed:** Map of AA meetings in Manhattan.
 
 #### Documentation: 
 
-* [SQL tutorial](https://www.codecademy.com/learn/learn-sql)  
+* [SQL tutorial](https://www.linkedin.com/learning/sql-essential-training-2)  
 * [PostgreSQL data types](https://www.postgresql.org/docs/9.4/static/datatype.html)  
 * [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
 * [Node `pg` module](https://www.npmjs.com/package/pg)
