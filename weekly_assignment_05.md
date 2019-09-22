@@ -66,6 +66,8 @@ Use the [AWS SDK for JavaScript](https://docs.aws.amazon.com/AWSJavaScriptSDK/la
 
 ### Set up permissions for your Cloud9 EC2 instance to be able to access DynamoDB: 
 
+[This video](https://drive.google.com/open?id=11ZwSwG6PZUwcPCNOk29RLqRn8qxcFCz-) walks through the instructions in this section (must be signed into New School Google account to view). 
+
 1. Open your Cloud9 environment.  
 2. In the AWS Console, navigate to the `IAM` service. In the left-hand column, click **Roles**. Click the blue **Create role** button. Under the header **Choose the service that will use this role**, click **EC2** then click **Next: Permissions**. In the **Filter policies** search field, type `dynamodb` to filter the options to show only permissions related to DynamoDB; click **`AmazonDynamoDBFullAccess`**, making sure that the checkbox is selected; click the blue **Next: Tags** button. Click the blue **Next: Review** button. In the **Role name** field, give this role a name. Click the blue **Create role** button.  
 3. In the AWS Console, navigate to the `EC2` service. Click **Running Instances**. Click on name of the instance that is associated with your Cloud9 environment for this course (it should indicate that it's highlighted with a blue background and a blue filled check button); the naming convention for Cloud9 EC2 instances is `aws-cloud9-` + the name of your C9 environment + some identifier string. Click the **Actions** dropdown. In the **Instance Settings** menu, select **Attach/Replace IAM Role**. In the **IAM role** dropdown, select the role you created in the previous step. Click the blue **Apply** button.  
