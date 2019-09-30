@@ -128,33 +128,18 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignment 6, due Monday 10/7 at 6:00pm:**  
+**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_06), due Monday 10/14 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 ### October 9: No class, Yom Kippur
 
 ### October 16 (Week 7)
 
-Sensors. Data gathering and surveillance.
-
-**Weekly Assignment 7, due Monday 10/21 at 6:00pm:**  
-Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
-
-#### Read:
-
-* Gitelman, Chapter 7
-
-#### Documentation: 
-
-* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
-
-### October 23 (Week 8)
-
 Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**Weekly Assignment 8, due Monday 10/28 at 6:00pm:**  
+**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_07.md), due Monday 10/21 at 6:00pm:**  
 Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
@@ -165,6 +150,21 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 #### Documentation: 
 
 * [GitHub issues](https://guides.github.com/features/issues/)
+
+### October 23 (Week 8)
+
+Sensors. Data gathering and surveillance.
+
+**Weekly Assignment 8, due Monday 10/28 at 6:00pm:**  
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
+
+#### Read:
+
+* Gitelman, Chapter 7
+
+#### Documentation: 
+
+* Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
 
 Note: [IEEE VIS](http://ieeevis.org/year/2019/welcome) conference is October 20-25
 
