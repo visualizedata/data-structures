@@ -4,7 +4,7 @@
 
 Switching gears from previous assignments, we will be working with temperature [**sensors**](https://www.adafruit.com/product/4089). 
 
-Various supplies are available to you in locker #25 on the 4th Floor of 2 W 13th Street (across from the bathrooms nearest to 404). The combination for the locker is `30-00-22`. Everything you could possibly need is in this locker. 
+Various supplies are available to you in locker **M** on the 4th Floor of 2 W 13th Street (across from the bathrooms nearest to 404). The combination for the locker is `30-00-22`. Everything you could possibly need is in this locker. 
 
 # Setup
 
