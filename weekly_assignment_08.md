@@ -19,8 +19,23 @@ Various supplies are available to you in locker **M** on the 4th Floor of 2 W 13
 
 # Assignment
 
-TBD
+### Part One
 
+1. Set up your temperature sensor (or other sensor(s) if you plan to use something different in the final assignment), making appropriate connections to the Photon.  
+2. In the [Web IDE](https://build.particle.io), copy and modify the [starter code](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_08) for your sensor so that you can access its values. IMPORTANT: you must include all three starter code files in the Web IDE project for this micro controller.   
+3. In the Web IDE, set up a **single variable** that will be accessible with [Particle Cloud API](https://docs.particle.io/reference/api/). [NOTE: If working with multiple sensors, the variable must return a string of valid JSON [[tutorial here](https://community.particle.io/t/using-spark-publish-with-simple-json-data/3469)] that includes the values of your sensors.]  
+4. Submit to **Canvas** the **URL** (including your Device ID and Access Token) that retrieves this JSON data from the Particle Cloud API.  
+5. Leave your photon connected to power and connected to a Wifi network.  
+
+#### EXAMPLE REQUEST (URL)
+* Device ID is `0123456789abcdef`  
+* Your access token is `123412341234`  
+* Your particle variable is `analogvalue`  
+* The URL: `"https://api.particle.io/v1/devices/0123456789abcdef/analogvalue?access_token=123412341234"`
+
+### Part Two
+
+Sketch a design for an interface to the data you'll be collecting with the sensor you were assigned. Bring the sketch to class next week. 
 ## Breadboard Layouts
 
 #### Standard
