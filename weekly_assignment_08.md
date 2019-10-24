@@ -1,6 +1,6 @@
 # Weekly Assignment 8
 
-### Due Friday 11/9 at 2:00pm
+### Due Monday 10/28 at 6:00pm
 
 Switching gears from previous assignments, we will be working with temperature [**sensors**](https://www.adafruit.com/product/4089). 
 
