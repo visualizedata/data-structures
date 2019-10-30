@@ -174,7 +174,7 @@ Note: [IEEE VIS](http://ieeevis.org/year/2019/welcome) conference is October 20-
 
 IoT.
 
-**Weekly Assignment 9, due Monday 11/4 at 6:00pm:**  
+**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_09), due Monday 11/4 at 6:00pm:**  
 You will begin writing sensor data to a database. 
 
 **Final Assignment 3 distributed:** Surveilling your life. 
