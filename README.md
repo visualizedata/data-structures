@@ -116,7 +116,7 @@ Data models I: NoSQL database.
 **[Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05.md), due Tuesday 10/1 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
-**Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
+**[Final Assignment 2 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_2.md):** "Process Blog," a source of semi-structured, qualitative data.  
 
 ### October 2 (Week 6)
 
@@ -177,7 +177,7 @@ IoT.
 **[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_09), due Monday 11/4 at 6:00pm:**  
 You will begin writing sensor data to a database. 
 
-**Final Assignment 3 distributed:** Surveilling your life. 
+**[Final Assignment 3 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_3.md):** Surveilling your life. 
 
 Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-election-forecast/house/?ex_cid=rrpromo) | [3/4](https://www.nytimes.com/interactive/2018/11/04/technology/jobs-not-mobs.html?action=click&module=Top%20Stories&pgtype=Homepage)]
 
