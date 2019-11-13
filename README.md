@@ -190,7 +190,7 @@ Debate: SQL vs. NoSQL [[1/2](https://projects.fivethirtyeight.com/2018-midterm-e
 
 From database to visual representation.  
 
-**Weekly Assignment 10, due Monday 11/11 at 6:00pm:**  
+**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_10), due Monday 11/18 at 6:00pm:**  
 You will create endpoints to connect your data to the design of your front-end interface. 
 
 #### Read:
@@ -201,7 +201,7 @@ You will create endpoints to connect your data to the design of your front-end i
 
 Interface design. 
 
-**Weekly Assignment 11, due Monday 11/18 at 6:00pm:**  
+**[Weekly Assignment 11](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_11.md), due Monday 11/18 at 6:00pm:**  
 **Note: this assignment is worth 5 points.**  
 You will submit the final designs for the interfaces for each of your three data sources.  
 
@@ -219,7 +219,9 @@ You will submit the final designs for the interfaces for each of your three data
 
 Discussion: Reliability. Lab. 
 
-Klepmann reading led by: TBD
+Klepmann reading led by: John, Luella, Lulu, Misha, Robin, and Yiran
+
+Coding demo: making a map
 
 #### Read:
 
@@ -232,7 +234,7 @@ Klepmann reading led by: TBD
 
 Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
 
-Klepmann reading led by: TBD
+Klepmann reading led by: Amanda, Antonie, J, Nour, and Xingyang
 
 #### Read:
 
@@ -244,7 +246,7 @@ Klepmann reading led by: TBD
 
 Discussion: Maintainability. Lab.
 
-Klepmann reading led by: TBD
+Klepmann reading led by: Marcy, Marisa, Neil, Saloni, and Xingwei
 
 #### Read:
 
@@ -260,7 +262,11 @@ Final assignment presentation videos posted by Monday, December 16 at 6:00pm. Co
 
 Terminating and cleaning up your AWS resources and credentials. [[**checklist**](https://github.com/visualizedata/data-structures/blob/master/assignments/resources/AWS_shutdown.md)]
 
-In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
+In the final (virtual) class meeting, you will present your work in groups, by theme. Group and theme assignments: 
+
+* **Reliability**: John, Luella, Lulu, Misha, Robin, and Yiran  
+* **Scalability**: Amanda, Antonie, J, Nour, and Xingyang  
+* **Maintainability**: Marcy, Marisa, Neil, Saloni, and Xingwei
 
 ## Learning Outcomes
 
