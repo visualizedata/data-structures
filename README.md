@@ -221,7 +221,7 @@ Discussion: Reliability. Lab.
 
 Klepmann reading led by: John, Luella, Lulu, Misha, Robin, and Yiran
 
-Coding demo: making a map
+**Coding demo**: making a map in [mapbox](https://www.mapbox.com/)
 
 #### Read:
 
