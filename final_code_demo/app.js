@@ -51,7 +51,11 @@ var jx = `;
     </body>
     </html>`;
 
-// respond to requests for /aameetings
+app.get('/', function(req, res) {
+    res.send('<h3>Code demo site</h3>');
+}); 
+
+// respond to requests for /aa
 app.get('/aa', function(req, res) {
 
     var now = moment.tz(Date.now(), "America/New_York"); 
