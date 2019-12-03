@@ -3,6 +3,11 @@ var express = require('express'),
 const { Pool } = require('pg');
 var AWS = require('aws-sdk');
 const moment = require('moment-timezone');
+const handlebars = require('handlebars');
+var fs = require('fs');
+
+const indexSource = fs.readFileSync("templates/sensor.txt").toString();
+var template = handlebars.compile(indexSource, { strict: true });
 
 // AWS RDS credentials
 var db_credentials = new Object();
@@ -85,13 +90,26 @@ app.get('/aa', function(req, res) {
 });
 
 app.get('/temperature', function(req, res) {
-    res.send(`<h3>Code demo Wednesday, December 4</h3>
-    <h4>Sample SQL Query:</h4>
-    <p>SELECT EXTRACT(DAY FROM sensorTime) as sensorday, <br>
-             AVG(sensorValue::int) as num_obs <br>
-             FROM sensorData <br>
-             GROUP BY sensorday <br>
-             ORDER BY sensorday;</p>`);
+
+    // Connect to the AWS RDS Postgres database
+    const client = new Pool(db_credentials);
+
+    // SQL query 
+    var q = `SELECT EXTRACT(DAY FROM sensorTime) as sensorday,
+             AVG(sensorValue::int) as num_obs
+             FROM sensorData
+             GROUP BY sensorday
+             ORDER BY sensorday;`;
+
+    client.connect();
+    client.query(q, (qerr, qres) => {
+        if (qerr) { throw qerr }
+        else {
+            res.end(template({ sensordata: JSON.stringify(qres.rows)}));
+            client.end();
+            console.log('1) responded to request for sensor graph');
+        }
+    });
 }); 
 
 app.get('/processblog', function(req, res) {
