@@ -9,6 +9,9 @@ var fs = require('fs');
 const indexSource = fs.readFileSync("templates/sensor.txt").toString();
 var template = handlebars.compile(indexSource, { strict: true });
 
+const pbSource = fs.readFileSync("templates/pb.txt").toString();
+var pbtemplate = handlebars.compile(pbSource, { strict: true });
+
 // AWS RDS credentials
 var db_credentials = new Object();
 db_credentials.user = process.env.AWSRDS_DBUSERNAME; // DB username
@@ -113,8 +116,33 @@ app.get('/temperature', function(req, res) {
 }); 
 
 app.get('/processblog', function(req, res) {
-    res.send('<h3>Code demo Wednesday, December 11</h3>');
-}); 
+    // AWS DynamoDB credentials
+    AWS.config = new AWS.Config();
+    AWS.config.region = "us-east-1";
+
+    // Connect to the AWS DynamoDB database
+    var dynamodb = new AWS.DynamoDB();
+    
+    // DynamoDB (NoSQL) query
+    var params = {
+        TableName : "processblog-new",
+        KeyConditionExpression: "pk = :primaryKey", // the query expression
+        ExpressionAttributeValues: { // the query values
+            ":primaryKey": {S: "teaching"}
+        }
+    };
+
+    dynamodb.query(params, function(err, data) {
+        if (err) {
+            console.error("Unable to query. Error:", JSON.stringify(err, null, 2));
+            throw (err);
+        }
+        else {
+            res.end(pbtemplate({ pbdata: JSON.stringify(data.Items)}));
+            console.log('3) responded to request for process blog data');
+        }
+    });
+});
 
 // serve static files in /public
 app.use(express.static('public'));
