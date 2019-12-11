@@ -34,8 +34,6 @@ $(window).on('load', function() {
   $("#myEntries").html(myTable)
 });
 
-$("#myEntries").html(myTable)
-
 </script>
 
 <h3>Aaron's process blog</h3>
