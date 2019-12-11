@@ -102,7 +102,7 @@ app.get('/processblog', function(req, res) {
 0|app      |   retryable: true }
 ```
 
-**fix/workaround:** 
+**temporary fix/workaround:** 
 
 ```javascript
     dynamodb.query(params, function(err, data) {
@@ -111,3 +111,12 @@ app.get('/processblog', function(req, res) {
             throw (err);
         }
 ```
+
+Throwing an error will force PM2 to restart the app. This will cause an occasional timeout, but the timeout will throw an error and lead to the app resetting. 
+
+**a better fix:**
+
+Use Amazon Time Sync Service to deliver accurate current time readings. Follow the instructions for *Configuring the Amazon Time Sync Service on Amazon Linux AMI* at:  \
+
+[https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/set-time.html)
+
