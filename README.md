@@ -260,7 +260,7 @@ Klepmann reading led by: Marcy, Marisa, Neil, Saloni, and Xingwei
 
 Final assignment presentation videos posted by Monday, December 16 at 6:00pm. Comments due by Tuesday, December 17 at 6:00pm  
 
-Terminating and cleaning up your AWS resources and credentials. [[**checklist**](https://github.com/visualizedata/data-structures/blob/master/assignments/resources/AWS_shutdown.md)]
+Terminating and cleaning up your AWS resources and credentials. [[**checklist**](https://github.com/visualizedata/data-structures/blob/master/AWS_shutdown.md)]
 
 In the final (virtual) class meeting, you will present your work in groups, by theme. Group and theme assignments: 
 
