@@ -54,7 +54,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**[Weekly Assignment 2](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_02.md), due Tuesday 9/15 at 6:00pm:**  
+**Weekly Assignment 2, due Tuesday 9/15 at 6:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
