@@ -1,7 +1,5 @@
 # Weekly Assignment 2
 
-### Due Monday 9/9 at 6:00pm
-
 We will continue to work with the files you collected in Weekly Assignment 1. For this week, you will work with only one of the files; it will be determined by the last number of your New School ID. The last number of your ID corresponds with the AA Manhattan "zone" you are assigned. For example, if your ID is "N01234567", work with the Zone 7 file. If it is "N09876543", work with the Zone 3 file. If the last number of your New School ID ends with a "0", work with the Zone 10 file. (At the bottom of this markdown file, there's an image showing the map of the zones in Manhattan.)
 
 1. Using Node.js, read the assigned AA text file that you wrote for last week's assignment. Store the contents of the file in a variable.

@@ -3,9 +3,9 @@
 Create a new [GitHub](https://github.com/) repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
-# Weekly Assignment 1
+You'll need an AWS account to use for your work this semester. [Be careful to avoid unexpected charges](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/checklistforunwantedcharges.html). 
 
-### Due Friday 8/30 at 6:00pm
+# Weekly Assignment 1
 
 ## Part One
 
