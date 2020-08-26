@@ -267,7 +267,8 @@ By the successful completion of this course, students will be able to demonstrat
 
 | Description | % |
 |:--|:--|
-| Engagement and process blog | 7% |
+| Engagement and process blog | 5% |
+| IEEE VIS presentation summary | 2% |
 | Weekly Assignments (12 total) | 48% |
 | Final assignment 1 | 15% |
 | Final assignment 2 | 15% |
