@@ -175,6 +175,8 @@ You will begin writing sensor data to a database.
 
 **Final Assignment 3 distributed:** Surveilling your life. 
 
+**DUE Wednesday 11/4 at 12:00pm: IEEE VIS conference presentation summary**
+
 Debate: SQL vs. NoSQL 
 
 #### Read: 
@@ -188,7 +190,6 @@ From database to visual representation.  Interface design.
 
 **Weekly Assignment 10, due Tuesday 11/10 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
-
 
 #### Read:
 
