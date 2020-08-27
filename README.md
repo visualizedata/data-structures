@@ -51,7 +51,8 @@ The web as a database. "Raw data."
 
 #### Read:
 * Gitelman, Introduction and Color Plates  
-* Hills, Part One (pp. 17-42)
+* Hills, Part One (pp. 17-42)  
+* Dourish, Chapter 1  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
 **Weekly Assignment 2, due Tuesday 9/15 at 6:00pm:**  
@@ -89,7 +90,8 @@ Data models I: SQL database.
 #### Read: 
 
 * Gitelman, Chapter 2
-* Hills, Chapters 13, 14, 15, and 16
+* Hills, Chapters 13, 14, 15, and 16 
+* Dourish, Chapter 4
 
 **Weekly Assignment 4, due Tuesday 9/29 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
@@ -110,6 +112,7 @@ Data models I: NoSQL database.
 #### Read:
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
+* Dourish, Chapter 5. 
 
 **Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
@@ -182,7 +185,8 @@ Debate: SQL vs. NoSQL
 #### Read: 
 
 * Gitelman, Chapter 3
-* Klepman, Chapter 2
+* Klepman, Chapter 2 
+* Dourish, Chapter 6
 
 ### November 4 (Week 10)
 
@@ -286,9 +290,11 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Required Reading
 
-*"[Raw Data" Is an Oxymoron](http://a.co/6bZnQzs)*, Lisa Gitelman, 2013. This book is available in the library at the reserve desk.  
-*"[NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software](http://a.co/6v7bJVs)"*, Ted Hills, 2016. This book will be available in the library at the reserve desk.  
-*"[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](http://a.co/dbjbtnU)"*, Martin Kleppmann, 2017. This book is available electronically through course reserves.  
+[The Stuff of Bits : An Essay on the Materialities of Information](https://www.amazon.com/Stuff-Bits-Essay-Materialities-Information/dp/0262036207/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), Paul Dourish. This book is available electronically through course reserves.  
+*"[Raw Data" Is an Oxymoron](http://a.co/6bZnQzs)*, Lisa Gitelman, 2013. This book is available electronically through course reserves.  
+*[NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software](http://a.co/6v7bJVs)*, Ted Hills, 2016. This book is not available through course reserves and should be purchased (~$27 on Amazon).  
+*[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](http://a.co/dbjbtnU)*, Martin Kleppmann, 2017. This book is available electronically through course reserves.  
+*[Database Aesthetics : Art in the Age of Information Overflow](https://www.amazon.com/Database-Aesthetics-Information-Electronic-Mediations-dp-0816641196/dp/0816641196/ref=mt_other?_encoding=UTF8&me=&qid=1598487601)*, Victoria Vesna. This book is available electronically through course reserves. 
 
 ### Office Hours (Zoom; no appointment needed)
 
