@@ -112,7 +112,7 @@ Data models I: NoSQL database.
 #### Read:
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
-* Dourish, Chapter 5. 
+* Dourish, Chapter 5 
 
 **Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
