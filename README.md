@@ -302,6 +302,10 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 Fridays, 3:00pm - 4:00pm
 
+### Self care in trying times
+
+Above all other responsibilities this semester, our primary purpose is to take care of ourselves, which is particularly urgent in the middle of a global pandemic concurrent with social and political tumult. Normally, I am strict about deadlines and adherence to the specifications of an assignment, but these are not normal times. I am going to give everyone the benefit of the doubt and assume we’re all doing the best we can (myself included). My primary expectation of you this semester is that you take care of yourself, first and foremost. And that means you don’t need to ask me for what you need; just take it. Should you have to miss a deadline or take time away, you don’t need to justify it to me, you certainly don’t have to tell me why. I ask that you let me know if you have to step away and miss classes, assignments, or other obligations (so that I don’t worry about you), but you do not have to qualify it by disclosing why you need to do so. That said, I hope you feel comfortable coming to me with anything you want to discuss and I’ll do my best to help or find someone who can. This time is stressful enough as it is; I don’t want your work in this class to add to it. If you need to depart from the syllabus in any way, I will work with you to figure out a way to fulfill the requirements of this course in a way and at a time that will work for you. Please put your physical and mental health at the very top of your list of priorities right now. Everything else can be sorted out later. 
+
 ### Materials and Supplies
 
 In this course we will rely exclusively on open source software and we will work with the software by writing code: JavaScript, SQL, and some basic Linux.
