@@ -3,7 +3,7 @@
 Create a new [GitHub](https://github.com/) repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
-You'll need an AWS account to use for your work this semester. [Be careful to avoid unexpected charges](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/checklistforunwantedcharges.html). 
+You'll need an AWS account to use for your work this semester. [Be careful to avoid unexpected charges](https://docs.aws.amazon.com/awsaccountbilling/latest/aboutv2/checklistforunwantedcharges.html). You will create a Cloud 9 environment in this AWS account for your work in this course. Do not use the Major Studio AWS account that Daniel sent you. You will incur some expenses on AWS but they are very unlikely to exceed what you get on the free tier plus the $100 credit you receive from signing up for [AWS Educate](https://aws.amazon.com/education/awseducate/). 
 
 # Weekly Assignment 1
 
@@ -22,8 +22,6 @@ https://parsons.nyc/aa/m08.html
 https://parsons.nyc/aa/m09.html  
 https://parsons.nyc/aa/m10.html   
 ```
-
-> Note: you will creating your own Cloud 9 environment from your personal AWS account for your work in this course. Do not use the Major Studio AWS account that Daniel sent you. You will incur some expenses on AWS but they are very unlikely to exceed what you get on the free tier plus the $100 credit you receive from signing up for AWS Educate. 
 
 2. Using Node.js: For each of the ten files you requested, save the body as a **text file** to your "local" environment (in AWS Cloud9).
 

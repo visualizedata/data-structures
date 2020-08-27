@@ -11,7 +11,7 @@ online course | Zoom info in Canvas
 
 **Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Fridays 3:00pm - 4:00pm: no appointment needed; Zoom info in Canvas
 
-**[Slack](https://ms-dataviz.slack.com/archives/C019Q8M3CHX):** I encourage use of the `#data-structures-20` channel in the `ms-dataviz` Slack for collaboration and work on assignments, including the 12 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours (for both faculty and tutor specialist) should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
+**[Slack](https://ms-dataviz.slack.com/archives/C019Q8M3CHX):** I encourage use of the `#data-structures-20` channel in the `ms-dataviz` Slack for collaboration and work on assignments, including the 12 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
 
 **Course description:** Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
@@ -201,6 +201,8 @@ You will submit the final designs for the interfaces for each of your three data
 
 ### November 11 (Week 11)
 
+Serverless computing. 
+
 **Weekly Assignment 11, due Tuesday 11/17 at 6:00pm:**   
 You will migrate your work to a serverless computing environment. 
 
@@ -232,7 +234,7 @@ You will create endpoints to connect your data to the design of your front-end i
 
 ### December 2 (Week 13)
 
-Discussion: Scalability. Serverless computing. When do you need a database(s)? When do you not? Lab.
+Discussion: Scalability. When do you need a database(s)? When do you not? Lab.
 
 #### Read:
 
@@ -316,9 +318,9 @@ We will also rely on cloud-based services to provide infrastructure, platforms, 
 * A (free) [GitHub](https://github.com/) account   
 * A (free) [Amazon Web Services (AWS)](https://aws.amazon.com/) account  
 * A (free) [AWS Educate](https://aws.amazon.com/education/awseducate/) account  
-* A microcontroller and sensors (as assigned; they will be provided; do not buy)
+* A microcontroller and sensors (as assigned; you will be given a list of the things you'll need to purchase, ~$50)
 * It is also helpful to have a text editor installed locally. Sublime and Atom are popular choices. Atom integrates well with GitHub.   
-* If you decide to work locally (instead of in Cloud9), you may need to install and maintain additional software such as Git (installed with [Xcode in OSX](https://developer.apple.com/xcode/)), [Node.js](https://nodejs.org/en/download/), npm (which is installed with Node.js), and other software. **The tutor specialist will not support troubleshooting for local installations.**
+* If you decide to work locally (instead of in Cloud9), you may need to install and maintain additional software such as Git (installed with [Xcode in OSX](https://developer.apple.com/xcode/)), [Node.js](https://nodejs.org/en/download/), npm (which is installed with Node.js), and other software. 
 
 ### Resources
 
@@ -380,7 +382,7 @@ Students are responsible for all assignments, even if they are absent. Late assi
 ### Active Participation and Attendance
 Class participation is an essential part of class and includes: keeping up with reading, assignments, projects, contributing meaningfully to class discussions, active participation in group work, and coming to class regularly and on time.  
 
-Parsons’ attendance guidelines were developed to encourage students’ success in all aspects of their academic programs. Full participation is essential to the successful completion of coursework and enhances the quality of the educational experience for all, particularly in courses where group work is integral; thus, Parsons promotes high levels of attendance. Students are expected to attend classes regularly and promptly and in compliance with the standards stated in this course syllabus. 
+Parsons' attendance guidelines were developed to encourage students’ success in all aspects of their academic programs. Full participation is essential to the successful completion of coursework and enhances the quality of the educational experience for all, particularly in courses where group work is integral; thus, Parsons promotes high levels of attendance. Students are expected to attend classes regularly and promptly and in compliance with the standards stated in this course syllabus. 
 
 While attendance is just one aspect of active participation, absence from a significant portion of class time may prevent the successful attainment of course objectives. A significant portion of class time is generally defined as the equivalent of three weeks, or 20%, of class time. Lateness or early departure from class may be recorded as one full absence. Students may be asked to withdraw from a course if habitual absenteeism or tardiness has a negative impact on the class environment.
 
