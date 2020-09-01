@@ -38,7 +38,7 @@ https://parsons.nyc/aa/m10.html
 var request = require('request');
 var fs = require('fs');
 
-request('https://parsons.nyc/thesis-2019/', function(error, response, body){
+request('https://parsons.nyc/thesis-2020/', function(error, response, body){
     if (!error && response.statusCode == 200) {
         fs.writeFileSync('/home/ec2-user/environment/data/thesis.txt', body);
     }
