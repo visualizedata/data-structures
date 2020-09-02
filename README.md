@@ -152,7 +152,7 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 ### October 21 (Week 8)
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2019/welcome) conference is October 20-25**
+**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 20-25**
 
 Sensors. Data gathering and surveillance.
 
