@@ -32,6 +32,8 @@ Modify the following starter code to replace the database credentials with your 
 
 ```javascript
 const { Client } = require('pg');
+const dotenv = require('dotenv');
+dotenv.config();  
 
 // AWS RDS POSTGRESQL INSTANCE
 var db_credentials = new Object();
@@ -66,7 +68,9 @@ Modify the following starter code to replace the database credentials with your 
 
 ```javascript
 const { Client } = require('pg');
-var async = require('async');
+var async = require('async');  
+const dotenv = require('dotenv');
+dotenv.config();  
 
 // AWS RDS POSTGRESQL INSTANCE
 var db_credentials = new Object();
@@ -97,7 +101,9 @@ To see what's in your new database table, let's query all of its contents:
 **``wa04c.js``** 
 
 ```javascript
-const { Client } = require('pg');
+const { Client } = require('pg');  
+const dotenv = require('dotenv');
+dotenv.config();  
 
 // AWS RDS POSTGRESQL INSTANCE
 var db_credentials = new Object();
