@@ -93,10 +93,10 @@ Data models I: SQL database.
 * Hills, Chapters 13, 14, 15, and 16 
 * Dourish, Chapter 4
 
-**Weekly Assignment 4, due Tuesday 9/29 at 6:00pm:**  
+**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md), due Tuesday 9/29 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
 
-**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
+**[Final Assignment 1](https://github.com/visualizedata/data-structures/blob/master/final_assignment_1.md) distributed:** Map of AA meetings in Manhattan.
 
 #### Documentation: 
 
