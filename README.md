@@ -114,10 +114,10 @@ Data models I: NoSQL database.
 * Hills, Chapter 17  
 * Dourish, Chapter 5 
 
-**Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
+**[Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05.md), due Tuesday 10/6 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
-**Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
+**[Final Assignment 2 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_2.md):** "Process Blog," a source of semi-structured, qualitative data.  
 
 ### October 7 (Week 6)
 
