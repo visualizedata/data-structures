@@ -2,12 +2,12 @@
 
 You're going to continue working with the AA data in your PostgreSQL database and the Dear Diary data in DynamoDB. You will write and execute queries for both. 
 
-## Part One: Write and execute a query for your AA data PostgreSQL
+## Part One: Write and execute a [query](https://www.postgresql.org/docs/9.4/queries.html) for your AA data PostgreSQL
 
 Data with the same format as shown in [**this sample**](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_06/data/aa_sample.csv) was added to a table in PostgreSQL in AWS (like you did in [Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md)). It was written to a table created with this SQL statement:  
 `CREATE TABLE aadata (mtgday varchar(25), mtgtime  varchar(25), mtghour int, mtglocation varchar(75), mtgaddress varchar(75), mtgregion varchar(75), mtgtypes varchar(150));`
 
-For **part one** of this assignment, write and execute a SQL query for your AA data to filter meetings based on parameters that would make sense for your planned map. 
+For **part one** of this assignment, write and execute a [SQL query](https://www.postgresql.org/docs/9.4/queries.html) for your AA data to filter meetings based on parameters that would make sense for your planned map. 
 
 #### Starter Code: 
 
@@ -49,11 +49,11 @@ Monday  19:00     Bronxville Lutheran Chapel School              172 White Plain
 Monday  19:00     Christ the King Church                         141 Marcy Pl                      Beginner, Wheelchair Access                    
 ```
 
-## Part Two: Write and execute a query for your Dear Diary data DynamoDB
+## Part Two: Write and execute a [query](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Query.html) for your Dear Diary data DynamoDB
 
 **[This data](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_06/addToDynamo.js)** was added to a "table" in DynamoDB in AWS (like you did in [Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05.md)). 
 
-For **part two** of this assignment, write and execute a NoSQL query for your Dear Diary data in DynamoDB to filter diary entries based on parameters that would make sense for your interface. 
+For **part two** of this assignment, write and execute a [NoSQL query](https://docs.aws.amazon.com/amazondynamodb/latest/APIReference/API_Query.html) for your Dear Diary data in DynamoDB to filter diary entries based on parameters that would make sense for your interface. 
 
 In DynamoDB, a query heavily depends on what you have named as the [primary key(s)](https://docs.aws.amazon.com/amazondynamodb/latest/developerguide/HowItWorks.CoreComponents.html#HowItWorks.CoreComponents.PrimaryKey). **Partition key(s) must be unique.** In the "table" below, a *composite primary key* has been used, with `topic` as the *partition key* and `dt` as the *sort key*. Other *items* can be used to filter data, but only after the partition key or keys have been used. 
 
