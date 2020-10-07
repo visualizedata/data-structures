@@ -129,7 +129,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignment 6, due Tuesday 10/13 at 6:00pm:**  
+**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_06), due Tuesday 10/13 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 ### October 14 (Week 7)
