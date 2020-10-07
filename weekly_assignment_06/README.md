@@ -7,7 +7,7 @@ You're going to continue working with the AA data in your PostgreSQL database an
 Data with the same format as shown in [**this sample**](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_06/data/aa_sample.csv) was added to a table in PostgreSQL in AWS (like you did in [Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md)). It was written to a table created with this SQL statement:  
 `CREATE TABLE aadata (mtgday varchar(25), mtgtime  varchar(25), mtghour int, mtglocation varchar(75), mtgaddress varchar(75), mtgregion varchar(75), mtgtypes varchar(150));`
 
-For **part one** of this assignment, write and execute a [SQL query](https://www.postgresql.org/docs/9.4/queries.html) for your AA data to filter meetings based on parameters that would make sense for your planned map. 
+For **part one** of this assignment, write and execute a [SQL query](https://www.postgresql.org/docs/9.4/queries.html) for your AA data to filter meetings based on parameters that would make sense for your planned map. [[helpful SQL query overview](https://beginner-sql-tutorial.com/sql-select-statement.htm)]
 
 #### Starter Code: 
 
