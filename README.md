@@ -138,7 +138,7 @@ Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**Weekly Assignment 7, due Tuesday 10/20 at 6:00pm:**  
+**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_07.md), due Tuesday 10/20 at 6:00pm:**  
 Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
@@ -152,7 +152,7 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 ### October 21 (Week 8)
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 20-25**
+**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
 
 Sensors. Data gathering and surveillance.
 
@@ -172,6 +172,8 @@ Switching gears from previous assignments, you will use an IoT development board
 [slides]
 
 IoT.
+
+**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
 
 **Weekly Assignment 9, due Tuesday 11/3 at 6:00pm:**  
 You will begin writing sensor data to a database. 
