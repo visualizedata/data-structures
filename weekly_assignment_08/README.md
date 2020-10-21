@@ -13,10 +13,6 @@ Switching gears from previous assignments, we will be working with temperature/h
 
 ![](https://github.com/visualizedata/data-structures/raw/master/weekly_assignment_08/setup.JPG)
 
-Another view:
-
-![](https://github.com/visualizedata/data-structures/raw/master/weekly_assignment_08/temphumidityparticle_bb.png)
-
 # Assignment
 
 ### Part One
