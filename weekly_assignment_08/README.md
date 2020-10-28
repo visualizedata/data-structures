@@ -13,6 +13,10 @@ Switching gears from previous assignments, we will be working with temperature/h
 
 ![](https://github.com/visualizedata/data-structures/raw/master/weekly_assignment_08/setup.JPG)
 
+**Here's a diagram of this setup, but with a different microcontroller:** 
+
+![](https://github.com/visualizedata/data-structures/raw/master/weekly_assignment_08/weather_m0_dht_bb.png)
+
 # Assignment
 
 ### Part One
