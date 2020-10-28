@@ -28,7 +28,7 @@ const client = new Client(db_credentials);
 client.connect();
 
 // Sample SQL statement to create a table: 
-var thisQuery = "CREATE TABLE sensorData ( sensorValue boolean, sensorTime timestamp DEFAULT current_timestamp );";
+var thisQuery = "CREATE TABLE sensorData ( sensorValue double precision, sensorTime timestamp DEFAULT current_timestamp );";
 
 client.query(thisQuery, (err, res) => {
     console.log(err, res);
@@ -86,21 +86,12 @@ var getAndWriteData = function() {
         // Store sensor value(s) in a variable
         var sv = JSON.parse(body).result;
         
-        // Convert 1/0 to TRUE/FALSE for the Postgres INSERT INTO statement
-        var sv_mod; 
-        if (sv == 1) {
-            sv_mod = "TRUE";
-        }
-        else if (sv == 0) {
-            sv_mod = "FALSE";
-        }
-
         // Connect to the AWS RDS Postgres database
         const client = new Client(db_credentials);
         client.connect();
 
         // Construct a SQL statement to insert sensor values into a table
-        var thisQuery = "INSERT INTO sensorData VALUES (" + sv_mod + ", DEFAULT);";
+        var thisQuery = "INSERT INTO sensorData VALUES (" + sv + ", DEFAULT);";
         console.log(thisQuery); // for debugging
 
         // Connect to the AWS RDS Postgres database and insert a new row of sensor values
