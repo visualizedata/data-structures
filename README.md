@@ -156,7 +156,7 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 Sensors. Data gathering and surveillance.
 
-**Weekly Assignment 8, due Tuesday 10/27 at 6:00pm:**  
+**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_08), due Tuesday 11/10 at 6:00pm:**  
 Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 #### Read:
@@ -175,7 +175,7 @@ IoT.
 
 **Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
 
-**Weekly Assignment 9, due Tuesday 11/3 at 6:00pm:**  
+**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_09), due Tuesday 11/10 at 6:00pm:**  
 You will begin writing sensor data to a database. 
 
 **Final Assignment 3 distributed:** Surveilling your life. 
@@ -194,7 +194,7 @@ Debate: SQL vs. NoSQL
 
 From database to visual representation.  Interface design.
 
-**Weekly Assignment 10, due Tuesday 11/10 at 6:00pm:**  
+**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_10.md), due Tuesday 11/10 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
 
 #### Read:
