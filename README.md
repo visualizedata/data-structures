@@ -199,7 +199,8 @@ You will submit the final designs for the interfaces for each of your three data
 
 #### Read:
 
-* Gitelman, Chapter 1 
+* Gitelman, Chapter 1  
+* [New York Times: Slump in Air Travel Hindered Weather Forecasting, Study Shows](https://www.nytimes.com/2020/10/29/climate/slump-in-air-travel-hindered-weather-forecasting-study-shows.html?action=click&module=Latest&pgtype=Homepage) 
 
 ### November 11 (Week 11)
 
