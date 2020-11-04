@@ -182,8 +182,6 @@ You will begin writing sensor data to a database.
 
 **DUE Wednesday 11/4 at 12:00pm: IEEE VIS conference presentation summary**
 
-Debate: SQL vs. NoSQL 
-
 #### Read: 
 
 * Gitelman, Chapter 3
@@ -196,6 +194,8 @@ From database to visual representation.  Interface design.
 
 **[Weekly Assignment 10](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_10.md), due Tuesday 11/10 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
+
+Debate: SQL vs. NoSQL [[1/2](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html) | [3/4](https://coronavirus.jhu.edu/map.html)]
 
 #### Read:
 
@@ -259,7 +259,11 @@ Discussion: Maintainability. Lab.
 
 ### December 16 (Week 15)
 
-In the final class meeting, you will present your work in groups, by theme: 1) reliability, 2) scalability, and 3) maintainability. 
+In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
+
+* **Reliability**: Dallas, Isabel, Justin, Tiffany, and Zhibang  
+* **Scalability**: Amina, Baihan, James, and Morgane    
+* **Maintainability**: Jessie, Lee, Ripley, and Sherry  
 
 Terminating and cleaning up your AWS resources and credentials. [**checklist**]
 
