@@ -206,7 +206,7 @@ Debate: SQL vs. NoSQL [[1/2](https://www.nytimes.com/interactive/2020/10/27/upsh
 
 Serverless computing. 
 
-**Weekly Assignment 11, due Tuesday 11/17 at 6:00pm:**   
+**Weekly Assignment 11, due Tuesday 12/1 at 6:00pm:**   
 You will migrate your work to a serverless computing environment. 
 
 #### Read: 
