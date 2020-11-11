@@ -231,7 +231,7 @@ You will create endpoints to connect your data to the design of your front-end i
 #### Read:
 
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
-* [How the internet works](https://edri.org/wp-content/uploads/2013/10/paper03_web_20120123.pdf)  
+* [How the internet works](https://edri.org/files/2012EDRiPapers/how_the_internet_works.pdf)  
 
 ### November 25: No class, Thanksgiving holiday
 
