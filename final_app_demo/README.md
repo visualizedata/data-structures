@@ -1,5 +1,10 @@
 ## App Demo: Final Assignments 1, 2, and 3
 
+Using:
+
+* Node.js (in Cloud 9, for now. Deployment options covered later.)  
+* [Express](https://expressjs.com/)  
+
 ### Final Assignment 1: AA Map
 
 Using: 
