@@ -2,8 +2,9 @@
 
 Using:
 
-* Node.js (in Cloud 9, for now. Deployment options covered later.)  
+* [Node.js](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (in Cloud 9, for now. Deployment options covered later.)  
 * [Express](https://expressjs.com/)  
+* [Handlebars](https://handlebarsjs.com/)  
 
 ### Final Assignment 1: AA Map
 
