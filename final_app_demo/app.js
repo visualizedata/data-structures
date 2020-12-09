@@ -5,7 +5,6 @@ var AWS = require('aws-sdk');
 const moment = require('moment-timezone');
 const handlebars = require('handlebars');
 var fs = require('fs');
-
 const indexSource = fs.readFileSync("templates/sensor.txt").toString();
 var template = handlebars.compile(indexSource, { strict: true });
 
@@ -122,6 +121,11 @@ app.get('/processblog', function(req, res) {
     // AWS DynamoDB credentials
     AWS.config = new AWS.Config();
     AWS.config.region = "us-east-1";
+    console.log(req.query.type);
+    var topic = "cats";
+    if (["cats", "personal", "work"].includes(req.query.type)) {
+        topic = req.query.type;
+    }
 
     // Connect to the AWS DynamoDB database
     var dynamodb = new AWS.DynamoDB();
@@ -131,7 +135,7 @@ app.get('/processblog', function(req, res) {
         TableName : "aaronprocessblog",
         KeyConditionExpression: "topic = :topic", // the query expression
         ExpressionAttributeValues: { // the query values
-            ":topic": {S: "cats"}
+            ":topic": {S: topic}
         }
     };
 
