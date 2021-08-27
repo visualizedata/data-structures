@@ -4,14 +4,14 @@ Master of Science, Data Visualization**
 
 # Data Structures
 
-### PGDV 5110 Syllabus, Fall 2020
+### PGDV 5110 Syllabus, Fall 2021
 
 Wednesdays, 12:10pm - 2:50pm  
 online course | Zoom info in Canvas
 
 **Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Fridays 3:00pm - 4:00pm: no appointment needed; Zoom info in Canvas
 
-**[Slack](https://ms-dataviz.slack.com/archives/C019Q8M3CHX):** I encourage use of the `#data-structures-20` channel in the `ms-dataviz` Slack for collaboration and work on assignments, including the 12 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
+I encourage use of the `#data-structures-20` channel in the `ms-dataviz` Slack for collaboration and work on assignments, including the 12 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
 
 **Course description:** Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
@@ -32,7 +32,7 @@ Week 15 | Final presentations (video) and reflections (Canvas)
 
 ## Course Outline
 
-### September 2 (Week 1)
+### September 1 (Week 1)
 
 Introduction to data structures.
 
@@ -45,14 +45,13 @@ You will "get" some HTML files, save them, and study their structure.
 * [Node request module](https://www.npmjs.com/package/request)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
 
-### September 9 (Week 2)
+### September 8 (Week 2)
 
 The web as a database. "Raw data."
 
 #### Read:
 * Gitelman, Introduction and Color Plates  
 * Hills, Part One (pp. 17-42)  
-* Dourish, Chapter 1  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
 **Weekly Assignment 2, due Tuesday 9/15 at 6:00pm:**  
@@ -62,7 +61,7 @@ You will parse one of the HTML files you saved last week and log essential data 
 * [Node cheerio module](https://www.npmjs.com/package/cheerio)
 * [Introduction to the DOM](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
 
-### September 16 (Week 3)
+### September 15 (Week 3)
 
 Fundamental data structures. Data augmentation and integration. GitHub for open source collaboration. 
 
@@ -73,7 +72,7 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**[Weekly Assignment 3](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_03.md), due Tuesday 9/22 at 6:00pm:**  
+**Weekly Assignment 3, due Tuesday 9/22 at 6:00pm:**  
 Using data you parsed last week, you will interface with TAMU GeoServices to augment the data you collected.
 
 #### Documentation:
@@ -83,7 +82,7 @@ Using data you parsed last week, you will interface with TAMU GeoServices to aug
 * [Node Async module](http://caolan.github.io/async/)
 * [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
 
-### September 23 (Week 4)
+### September 22 (Week 4)
 
 Data models I: SQL database.
 
@@ -91,12 +90,11 @@ Data models I: SQL database.
 
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16 
-* Dourish, Chapter 4
 
-**[Weekly Assignment 4](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04.md), due Tuesday 9/29 at 6:00pm:**  
+**Weekly Assignment 4, due Tuesday 9/29 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
 
-**[Final Assignment 1](https://github.com/visualizedata/data-structures/blob/master/final_assignment_1.md) distributed:** Map of AA meetings in Manhattan.
+**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
 
 #### Documentation: 
 
@@ -105,7 +103,7 @@ You will design a schema, create a new managed PostgreSQL database, and write SQ
 * [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
 * [Node `pg` module](https://www.npmjs.com/package/pg)
 
-### September 30 (Week 5)
+### September 29 (Week 5)
 
 Data models I: NoSQL database.
 
@@ -114,12 +112,12 @@ Data models I: NoSQL database.
 * Hills, Chapter 17  
 * Dourish, Chapter 5 
 
-**[Weekly Assignment 5](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05.md), due Tuesday 10/6 at 9:00am:**  
+**Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
-**[Final Assignment 2 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_2.md):** "Process Blog," a source of semi-structured, qualitative data.  
+**Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
 
-### October 7 (Week 6)
+### October 6 (Week 6)
 
 The Query. Indexes, joins, query optimization, and data restructuring. The E-R model. Data provision. 
 
@@ -129,16 +127,16 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_06), due Tuesday 10/13 at 6:00pm:**  
+**Weekly Assignment 6, due Tuesday 10/13 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
-### October 14 (Week 7)
+### October 13 (Week 7)
 
 Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_07.md), due Tuesday 10/20 at 6:00pm:**  
+**Weekly Assignment 7, due Tuesday 10/20 at 6:00pm:**  
 Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
@@ -150,13 +148,13 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 * [GitHub issues](https://guides.github.com/features/issues/)
 
-### October 21 (Week 8)
+### October 20 (Week 8)
 
 **Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
 
 Sensors. Data gathering and surveillance.
 
-**[Weekly Assignment 8](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_08), due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 8, due Tuesday 11/10 at 6:00pm:**  
 Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 #### Read:
@@ -167,7 +165,7 @@ Switching gears from previous assignments, you will use an IoT development board
 
 * Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
 
-### October 28 (Week 9)
+### October 27 (Week 9)
 
 [slides]
 
@@ -175,7 +173,7 @@ IoT.
 
 **Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
 
-**[Weekly Assignment 9](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_09), due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 9, due Tuesday 11/10 at 6:00pm:**  
 You will begin writing sensor data to a database. 
 
 **Final Assignment 3 distributed:** Surveilling your life. 
@@ -188,21 +186,21 @@ You will begin writing sensor data to a database.
 * Klepman, Chapter 2 
 * Dourish, Chapter 6
 
-### November 4 (Week 10)
+### November 3 (Week 10)
 
 From database to visual representation.  Interface design.
 
-**[Weekly Assignment 10](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_10.md), due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 10, due Tuesday 11/10 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
 
-Debate: SQL vs. NoSQL [[1/2](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html) | [3/4](https://coronavirus.jhu.edu/map.html)]
+Debate: SQL vs. NoSQL [1/2 | 3/4]
 
 #### Read:
 
 * Gitelman, Chapter 1  
 * [New York Times: Slump in Air Travel Hindered Weather Forecasting, Study Shows](https://www.nytimes.com/2020/10/29/climate/slump-in-air-travel-hindered-weather-forecasting-study-shows.html?action=click&module=Latest&pgtype=Homepage) 
 
-### November 11 (Week 11)
+### November 10 (Week 11)
 
 Serverless computing. 
 
@@ -219,7 +217,7 @@ You will migrate your work to a serverless computing environment.
 * [Express](http://expressjs.com/)  
 * [Handlebars](http://handlebarsjs.com/) 
 
-### November 18 (Week 12)
+### November 17 (Week 12)
 
 Discussion: Reliability. Lab. 
 
@@ -233,9 +231,9 @@ You will create endpoints to connect your data to the design of your front-end i
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/files/2012EDRiPapers/how_the_internet_works.pdf)  
 
-### November 25: No class, Thanksgiving holiday
+### November 24: No class, Thanksgiving holiday
 
-### December 2 (Week 13)
+### December 1 (Week 13)
 
 Discussion: Scalability. When do you need a database(s)? When do you not? Lab.
 
@@ -245,7 +243,7 @@ Discussion: Scalability. When do you need a database(s)? When do you not? Lab.
 * [MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://research.google.com/archive/mapreduce.html)  
 * [immens paper](http://vis.stanford.edu/papers/immens)
 
-### December 9 (Week 14)
+### December 8 (Week 14)
 
 Discussion: Maintainability. Lab.
 
@@ -257,13 +255,13 @@ Discussion: Maintainability. Lab.
 
 **Final Assignments 1, 2, and 3 due Tuesday 12/15 at 6:00pm:**  
 
-### December 16 (Week 15)
+### December 15 (Week 15)
 
 In the final class meeting, you will present your work in groups, by theme. Group and theme assignments: 
 
-* **Reliability**: Dallas, Isabel, Justin, Tiffany, and Zhibang  
-* **Scalability**: Amina, Baihan, James, and Morgane    
-* **Maintainability**: Jessie, Lee, Ripley, and Sherry  
+* **Reliability**   
+* **Scalability**     
+* **Maintainability**   
 
 Terminating and cleaning up your AWS resources and credentials. [**checklist**]
 
@@ -282,8 +280,7 @@ By the successful completion of this course, students will be able to demonstrat
 | Description | % |
 |:--|:--|
 | Engagement and process blog | 5% |
-| IEEE VIS presentation summary | 2% |
-| Weekly Assignments (12 total) | 48% |
+| Weekly Assignments (10 total) | 50% |
 | Final assignment 1 | 15% |
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
