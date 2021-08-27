@@ -110,7 +110,6 @@ Data models I: NoSQL database.
 #### Read:
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
-* Dourish, Chapter 5 
 
 **Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
@@ -184,7 +183,6 @@ You will begin writing sensor data to a database.
 
 * Gitelman, Chapter 3
 * Klepman, Chapter 2 
-* Dourish, Chapter 6
 
 ### November 3 (Week 10)
 
@@ -296,7 +294,6 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Required Reading
 
-[The Stuff of Bits : An Essay on the Materialities of Information](https://www.amazon.com/Stuff-Bits-Essay-Materialities-Information/dp/0262036207/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), Paul Dourish. This book is available electronically through course reserves.  
 *"[Raw Data" Is an Oxymoron](http://a.co/6bZnQzs)*, Lisa Gitelman, 2013. This book is available electronically through course reserves.  
 *[NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software](http://a.co/6v7bJVs)*, Ted Hills, 2016. This book is not available through course reserves and should be purchased (~$27 on Amazon).  
 *[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](http://a.co/dbjbtnU)*, Martin Kleppmann, 2017. This book is available electronically through course reserves.  
