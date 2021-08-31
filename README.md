@@ -36,7 +36,7 @@ Week 15 | Final presentations (video) and reflections (Canvas)
 
 Introduction to data structures.
 
-**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_01.md), due Tuesday 9/8 at 6:00pm:**  
+**[Weekly Assignment 1](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_01.md), due Tuesday 9/7 at 6:00pm:**  
 You will "get" some HTML files, save them, and study their structure.  
 
 #### Documentation: 
@@ -54,7 +54,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 2, due Tuesday 9/15 at 6:00pm:**  
+**Weekly Assignment 2, due Tuesday 9/14 at 6:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
@@ -72,7 +72,7 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 3, due Tuesday 9/22 at 6:00pm:**  
+**Weekly Assignment 3, due Tuesday 9/21 at 6:00pm:**  
 Using data you parsed last week, you will interface with TAMU GeoServices to augment the data you collected.
 
 #### Documentation:
@@ -91,7 +91,7 @@ Data models I: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16 
 
-**Weekly Assignment 4, due Tuesday 9/29 at 6:00pm:**  
+**Weekly Assignment 4, due Tuesday 9/28 at 6:00pm:**  
 You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
 
 **Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
@@ -111,7 +111,7 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**Weekly Assignment 5, due Tuesday 10/6 at 9:00am:**  
+**Weekly Assignment 5, due Tuesday 10/5 at 9:00am:**  
 You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
 **Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
@@ -126,7 +126,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignment 6, due Tuesday 10/13 at 6:00pm:**  
+**Weekly Assignment 6, due Tuesday 10/12 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 ### October 13 (Week 7)
@@ -135,7 +135,7 @@ Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**Weekly Assignment 7, due Tuesday 10/20 at 6:00pm:**  
+**Weekly Assignment 7, due Tuesday 10/19 at 6:00pm:**  
 Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
@@ -149,11 +149,11 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 ### October 20 (Week 8)
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
+**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) virtual conference is October 24-29**
 
 Sensors. Data gathering and surveillance.
 
-**Weekly Assignment 8, due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 8, due Tuesday 10/26 at 6:00pm:**  
 Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 #### Read:
@@ -170,9 +170,9 @@ Switching gears from previous assignments, you will use an IoT development board
 
 IoT.
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) conference is October 25-30**
+**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) virtual conference is October 24-29**
 
-**Weekly Assignment 9, due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 9, due Tuesday 11/2 at 6:00pm:**  
 You will begin writing sensor data to a database. 
 
 **Final Assignment 3 distributed:** Surveilling your life. 
@@ -188,7 +188,7 @@ You will begin writing sensor data to a database.
 
 From database to visual representation.  Interface design.
 
-**Weekly Assignment 10, due Tuesday 11/10 at 6:00pm:**  
+**Weekly Assignment 10, due Tuesday 11/9 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
 
 Debate: SQL vs. NoSQL [1/2 | 3/4]
@@ -201,9 +201,6 @@ Debate: SQL vs. NoSQL [1/2 | 3/4]
 ### November 10 (Week 11)
 
 Serverless computing. 
-
-**Weekly Assignment 11, due Tuesday 12/1 at 6:00pm:**   
-You will migrate your work to a serverless computing environment. 
 
 #### Read: 
 
@@ -218,9 +215,6 @@ You will migrate your work to a serverless computing environment.
 ### November 17 (Week 12)
 
 Discussion: Reliability. Lab. 
-
-**Weekly Assignment 12, due Tuesday 12/1 at 6:00pm:**  
-You will create endpoints to connect your data to the design of your front-end interface. 
 
 **Coding demo**: making a map in [mapbox](https://www.mapbox.com/)
 
@@ -251,7 +245,7 @@ Discussion: Maintainability. Lab.
 * Gitelman, Chapter 8  
 * [What is code?](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)  
 
-**Final Assignments 1, 2, and 3 due Tuesday 12/15 at 6:00pm:**  
+**Final Assignments 1, 2, and 3 due Tuesday 12/14 at 6:00pm:**  
 
 ### December 15 (Week 15)
 
@@ -277,13 +271,13 @@ By the successful completion of this course, students will be able to demonstrat
 
 | Description | % |
 |:--|:--|
-| Engagement and process blog | 5% |
+| Engagement and IEEE VIS summary | 5% |
 | Weekly Assignments (10 total) | 50% |
 | Final assignment 1 | 15% |
 | Final assignment 2 | 15% |
 | Final assignment 3 | 15% |
 
-Weekly assignments are worth 4 points each, unless otherwise indicated. They are due 6:00pm the Tuesday after they are assigned, unless otherwise indicated. The quality of your [documentation](https://lab.github.com/githubtraining/communicating-using-markdown) is a part of the grade for every assignment, including all the weekly and final assignments. All documentation must be kept in your (well organized!) `data-structures` repository, using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
+Weekly assignments are worth 5 points each, unless otherwise indicated. They are due 6:00pm the Tuesday after they are assigned, unless otherwise indicated. The quality of your [documentation](https://lab.github.com/githubtraining/communicating-using-markdown) is a part of the grade for every assignment, including all the weekly and final assignments. All documentation must be kept in your (well organized!) `data-structures` repository, using [markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet). 
 
 #### Late assignments:
 
@@ -297,7 +291,11 @@ If an assignment is more than 144 hours late, no credit will be given.
 *"[Raw Data" Is an Oxymoron](http://a.co/6bZnQzs)*, Lisa Gitelman, 2013. This book is available electronically through course reserves.  
 *[NoSQL and SQL Data Modeling: Bringing Together Data, Semantics, and Software](http://a.co/6v7bJVs)*, Ted Hills, 2016. This book is not available through course reserves and should be purchased (~$27 on Amazon).  
 *[Designing Data-Intensive Applications: The Big Ideas Behind Reliable, Scalable, and Maintainable Systems](http://a.co/dbjbtnU)*, Martin Kleppmann, 2017. This book is available electronically through course reserves.  
+
+### Recommended/Optional Reading
+
 *[Database Aesthetics : Art in the Age of Information Overflow](https://www.amazon.com/Database-Aesthetics-Information-Electronic-Mediations-dp-0816641196/dp/0816641196/ref=mt_other?_encoding=UTF8&me=&qid=1598487601)*, Victoria Vesna. This book is available electronically through course reserves. 
+[The Stuff of Bits : An Essay on the Materialities of Information](https://www.amazon.com/Stuff-Bits-Essay-Materialities-Information/dp/0262036207/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), Paul Dourish. This book is available electronically through course reserves.  
 
 ### Office Hours (Zoom; no appointment needed)
 
