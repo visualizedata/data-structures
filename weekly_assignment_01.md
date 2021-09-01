@@ -3,7 +3,7 @@
 Create a new [GitHub](https://github.com/) repository and name it `data-structures`  
 All of your work for this class should be kept in this (well-organized!) repository.
 
-You'll need an [AWS Educate](https://aws.amazon.com/education/awseducate/) account to use for your work this semester. You will create a Cloud 9 environment in this AWS Educate account for your work in this course. Do not use the Major Studio AWS account that Daniel sent you. You will incur some expenses on AWS but they are very unlikely to exceed what you get on the free tier plus the $100 credit you receive from signing up for AWS Educate. 
+You'll need an [AWS Educate](https://aws.amazon.com/education/awseducate/) account to use for your work this semester. You will create a Cloud 9 environment in this AWS Educate account for your work in this course. Do not use the Major Studio AWS account that Daniel sent you. The compute expenses are very unlikely to exceed what you get on the free tier plus the $100 credit you receive from signing up for AWS Educate. 
 
 # Weekly Assignment 1
 
@@ -32,24 +32,29 @@ https://parsons.nyc/aa/m10.html
 ## Starter code
 
 ```javascript
-// npm install request
+// npm install got
 // mkdir data
 
-var request = require('request');
-var fs = require('fs');
+const fs = require('fs');
+const got = require('got');
 
-request('https://parsons.nyc/thesis-2021/', function(error, response, body){
-    if (!error && response.statusCode == 200) {
-        fs.writeFileSync('/home/ec2-user/environment/data/thesis.txt', body);
-    }
-    else {console.log("Request failed!")}
-});
+(async () => {
+	try {
+		const response = await got('https://parsons.nyc/thesis-2021/');
+		console.log(response.body);
+		fs.writeFileSync('/home/ec2-user/environment/data/thesis.txt', response.body);
+		//=> '<!doctype html> ...'
+	} catch (error) {
+		console.log(error.response.body);
+		//=> 'Internal server error ...'
+	}
+})();
 ```
 
 #### Documentation: 
 
 * [What is `npm`?](https://docs.npmjs.com/getting-started/what-is-npm)  
-* [Node request module](https://www.npmjs.com/package/request)  
+* [Node got module](https://www.npmjs.com/package/got)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
 
 ## Map of AA zones
