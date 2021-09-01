@@ -7,11 +7,14 @@ Master of Science, Data Visualization**
 ### PGDV 5110 Syllabus, Fall 2021
 
 Wednesdays, 12:10pm - 2:50pm  
-66 5th Ave | Room: 710
+66 5th Ave | Room: 710  
+Nearest designated eating area: 2 W. 13th Street, Room 406
 
-**Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Fridays 3:00pm - 4:00pm: no appointment needed; Zoom info in Canvas
+**Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Fridays 3:00pm - 4:00pm: no appointment needed; contact info and Zoom info in Canvas
 
-I encourage use of *TBD* for collaboration and work on assignments, including the 10 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
+**Teaching Assistant:** Jessie Han | Office Hours: Mondays 11:00am - 12:00pm and Thursdays 4:00pm - 5:00pm: no appointment needed; contact info and Zoom info in Canvas
+
+I encourage use of the Canvas discussion board for collaboration and work on assignments, including the 10 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
 
 **Course description:** Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
@@ -186,7 +189,7 @@ You will begin writing sensor data to a database.
 
 ### November 3 (Week 10)
 
-From database to visual representation.  Interface design.
+From database to visual representation.  Interface design. Workshop by Jessie Han: How to create filters on the front end. 
 
 **Weekly Assignment 10, due Tuesday 11/9 at 6:00pm:**  
 You will submit the final designs for the interfaces for each of your three data sources.  
@@ -200,7 +203,7 @@ Debate: SQL vs. NoSQL [1/2 | 3/4]
 
 ### November 10 (Week 11)
 
-Serverless computing. 
+Serverless computing. Workshop by Jessie Han: Use python + flask to host a website. 
 
 #### Read: 
 
