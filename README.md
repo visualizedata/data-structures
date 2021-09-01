@@ -12,7 +12,7 @@ Nearest designated eating area: 2 W. 13th Street, Room 406
 
 **Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Fridays 3:00pm - 4:00pm: no appointment needed; contact info and Zoom info in Canvas
 
-**Teaching Assistant:** Jessie Han | Office Hours: Mondays 11:00am - 12:00pm and Thursdays 4:00pm - 5:00pm: no appointment needed; contact info and Zoom info in Canvas
+**Teaching Assistant:** [Jessie Han](https://jessiehanjiahui.com/) | Office Hours: Mondays 11:00am - 12:00pm and Thursdays 4:00pm - 5:00pm: no appointment needed; contact info and Zoom info in Canvas
 
 I encourage use of the Canvas discussion board for collaboration and work on assignments, including the 10 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
 
@@ -406,4 +406,3 @@ The New School (the "university") seeks to encourage creativity and invention am
 
 During the last two weeks of the semester, students are asked to provide feedback for each of their courses through an online survey. They cannot view grades until providing feedback or officially declining to do so. Course evaluations are a vital space where students can speak about the learning experience. It is an important process which provides valuable data about the successful delivery and support of a course or topic to both the faculty and administrators. Instructors rely on course rating surveys for feedback on the course and teaching methods, so they can understand what aspects of the class are most successful in teaching students, and what aspects might be improved or changed in future. Without this information, it can be difficult for an instructor to reflect upon and improve teaching methods and course design. In addition, program/department chairs and other administrators review course surveys. Instructions are available online [here](https://docs.google.com/document/d/1JmK_0V6aNVCHAmGtflZ7lKHpNI1Q50yijLcHrrA_zRs/edit#heading=h.3dy6vkm). 
 
-![](https://i.imgur.com/FvaNcP6.jpeg)
