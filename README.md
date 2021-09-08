@@ -57,7 +57,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 2, due Tuesday 9/14 at 6:00pm:**  
+**[Weekly Assignment 2](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_02.md), due Tuesday 9/14 at 6:00pm:**  
 You will parse one of the HTML files you saved last week and log essential data to the console.
 
 #### Documentation:
@@ -152,7 +152,7 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 ### October 20 (Week 8)
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) virtual conference is October 24-29**
+**Note: [IEEE VIS](http://ieeevis.org/year/2021/welcome) virtual conference is October 24-29**
 
 Sensors. Data gathering and surveillance.
 
@@ -173,7 +173,7 @@ Switching gears from previous assignments, you will use an IoT development board
 
 IoT.
 
-**Note: [IEEE VIS](http://ieeevis.org/year/2020/welcome) virtual conference is October 24-29**
+**Note: [IEEE VIS](http://ieeevis.org/year/2021/welcome) virtual conference is October 24-29**
 
 **Weekly Assignment 9, due Tuesday 11/2 at 6:00pm:**  
 You will begin writing sensor data to a database. 
@@ -297,7 +297,7 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Recommended/Optional Reading
 
-*[Database Aesthetics : Art in the Age of Information Overflow](https://www.amazon.com/Database-Aesthetics-Information-Electronic-Mediations-dp-0816641196/dp/0816641196/ref=mt_other?_encoding=UTF8&me=&qid=1598487601)*, Victoria Vesna. This book is available electronically through course reserves. 
+*[Database Aesthetics : Art in the Age of Information Overflow](https://www.amazon.com/Database-Aesthetics-Information-Electronic-Mediations-dp-0816641196/dp/0816641196/ref=mt_other?_encoding=UTF8&me=&qid=1598487601)*, Victoria Vesna. This book is available electronically through course reserves.  
 [The Stuff of Bits : An Essay on the Materialities of Information](https://www.amazon.com/Stuff-Bits-Essay-Materialities-Information/dp/0262036207/ref=tmm_hrd_swatch_0?_encoding=UTF8&qid=&sr=), Paul Dourish. This book is available electronically through course reserves.  
 
 ### Office Hours (Zoom; no appointment needed)
