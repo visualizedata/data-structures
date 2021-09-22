@@ -94,10 +94,8 @@ Data models I: SQL database.
 * Gitelman, Chapter 2
 * Hills, Chapters 13, 14, 15, and 16 
 
-**Weekly Assignment 4, due Tuesday 9/28 at 6:00pm:**  
-You will design a schema, create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data.  
-
-**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
+**[Weekly Assignment 4.1, due Tuesday 9/28 at 6:00pm](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_04_1.md):**  
+You will design a schema and populate a representation of your database (in Excel) with the first three rows of your AA data. (2.5 points)  
 
 #### Documentation: 
 
@@ -114,8 +112,10 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**Weekly Assignment 5, due Tuesday 10/5 at 9:00am:**  
-You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
+**Weekly Assignment 4.2, due Tuesday 10/5 at 9:00am:**  
+You will create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. (2.5 points)  
+
+**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
 
 **Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
 
@@ -129,8 +129,8 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignment 6, due Tuesday 10/12 at 6:00pm:**  
-You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
+**Weekly Assignment 5, due Tuesday 10/12 at 9:00am:**  
+You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
 
 ### October 13 (Week 7)
 
@@ -138,8 +138,8 @@ Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**Weekly Assignment 7, due Tuesday 10/19 at 6:00pm:**  
-Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
+**Weekly Assignment 6, due Tuesday 10/19 at 6:00pm:**  
+You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 #### Read:
 
@@ -156,8 +156,8 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 Sensors. Data gathering and surveillance.
 
-**Weekly Assignment 8, due Tuesday 10/26 at 6:00pm:**  
-Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
+**Weekly Assignment 7, due Tuesday 10/26 at 6:00pm:**  
+Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
 
@@ -175,8 +175,8 @@ IoT.
 
 **Note: [IEEE VIS](http://ieeevis.org/year/2021/welcome) virtual conference is October 24-29**
 
-**Weekly Assignment 9, due Tuesday 11/2 at 6:00pm:**  
-You will begin writing sensor data to a database. 
+**Weekly Assignment 8, due Tuesday 11/2 at 6:00pm:**  
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
 
 **Final Assignment 3 distributed:** Surveilling your life. 
 
@@ -191,8 +191,8 @@ You will begin writing sensor data to a database.
 
 From database to visual representation.  Interface design. Workshop by Jessie Han: How to create filters on the front end. 
 
-**Weekly Assignment 10, due Tuesday 11/9 at 6:00pm:**  
-You will submit the final designs for the interfaces for each of your three data sources.  
+**Weekly Assignment 9, due Tuesday 11/9 at 6:00pm:**  
+You will begin writing sensor data to a database. 
 
 Debate: SQL vs. NoSQL [1/2 | 3/4]
 
@@ -204,6 +204,9 @@ Debate: SQL vs. NoSQL [1/2 | 3/4]
 ### November 10 (Week 11)
 
 Serverless computing. Workshop by Jessie Han: Use python + flask to host a website. 
+
+**Weekly Assignment 10, due Tuesday 11/16 at 6:00pm:**  
+You will submit the final designs for the interfaces for each of your three data sources.  
 
 #### Read: 
 
