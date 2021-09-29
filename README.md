@@ -112,12 +112,12 @@ Data models I: NoSQL database.
 * Gitelman, Chapter 6  
 * Hills, Chapter 17  
 
-**Weekly Assignment 4.2, due Tuesday 10/5 at 9:00am:**  
-You will create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. (2.5 points)  
+**[Weekly Assignment 5.1](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_05_1.md), due Tuesday 10/5 at 6:00pm:**  
+You will design a (non)schema and populate a representation of your database (in Word) with the first three "documents" of your Process Blog data. (2.5 points)  
 
-**Final Assignment 1 distributed:** Map of AA meetings in Manhattan.
+**[Final Assignment 1 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_1.md):** Map of AA meetings in Manhattan.
 
-**Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
+**[Final Assignment 2 distributed](https://github.com/visualizedata/data-structures/blob/master/final_assignment_2.md):** "Process Blog," a source of semi-structured, qualitative data.  
 
 ### October 6 (Week 6)
 
@@ -129,8 +129,10 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignment 5, due Tuesday 10/12 at 9:00am:**  
-You will design a (non)schema, create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. 
+**Weekly Assignments 4.2 and 5.2, due Tuesday 10/12 at 6:00pm:**  
+4.2: You will create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. (2.5 points)  
+
+5.2: You will create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. (2.5 points)  
 
 ### October 13 (Week 7)
 
