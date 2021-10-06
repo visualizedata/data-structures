@@ -140,7 +140,7 @@ Data cleaning. Logging issues.
 
 Data cleaning workshop. 
 
-**Weekly Assignment 6, due Tuesday 10/19 at 6:00pm:**  
+**[Weekly Assignment 6](https://github.com/visualizedata/data-structures/tree/master/weekly_assignment_06), due Tuesday 10/19 at 6:00pm:**  
 You will write queries for both the SQL and NoSQL databases you have created, filtering, aggregating, and/or restructuring the data in the process. 
 
 #### Read:
