@@ -129,7 +129,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 * [Database as Symbolic Form](https://www.semanticscholar.org/paper/Database-as-Symbolic-Form-Manovich/d5d48898c764dc3949547354978815670c90ebc5), Lev Manovich  
 * Gitelman, Data Flakes: An Afterword to "Raw Data" Is an Oxymoron
 
-**Weekly Assignments 4.2 and 5.2, due Tuesday 10/12 at 6:00pm:**  
+**[Weekly Assignments 4.2 and 5.2](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_042_52.md), due Tuesday 10/19 at 6:00pm:**  
 4.2: You will create a new managed PostgreSQL database, and write SQL code to populate your database with your AA data. (2.5 points)  
 
 5.2: You will create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. (2.5 points)  
