@@ -158,7 +158,7 @@ You will write queries for both the SQL and NoSQL databases you have created, fi
 
 Sensors. Data gathering and surveillance.
 
-**Weekly Assignment 7, due Tuesday 10/26 at 6:00pm:**  
+**[Weekly Assignment 7](https://github.com/visualizedata/data-structures/blob/master/weekly_assignment_07.md), due Tuesday 11/2 at 6:00pm:**  
 Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones", and update/replace the data in your Postgres table(s).  
 
 #### Read:
@@ -177,11 +177,6 @@ IoT.
 
 **Note: [IEEE VIS](http://ieeevis.org/year/2021/welcome) virtual conference is October 24-29**
 
-**Weekly Assignment 8, due Tuesday 11/2 at 6:00pm:**  
-Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
-
-**Final Assignment 3 distributed:** Surveilling your life. 
-
 **DUE Wednesday 11/4 at 12:00pm: IEEE VIS conference presentation summary**
 
 #### Read: 
@@ -193,8 +188,10 @@ Switching gears from previous assignments, you will use an IoT development board
 
 From database to visual representation.  Interface design. Workshop by Jessie Han: How to create filters on the front end. 
 
-**Weekly Assignment 9, due Tuesday 11/9 at 6:00pm:**  
-You will begin writing sensor data to a database. 
+**Weekly Assignment 8, due Tuesday 11/9 at 6:00pm:**  
+Switching gears from previous assignments, you will use an IoT development board and sensors to collect and log data to your local computer. You will also sketch your first iteration of the design of an interactive visualization of the data you will collect from the sensor.
+
+**Final Assignment 3 distributed:** Surveilling your life. 
 
 Debate: SQL vs. NoSQL [1/2 | 3/4]
 
@@ -207,8 +204,8 @@ Debate: SQL vs. NoSQL [1/2 | 3/4]
 
 Serverless computing. Workshop by Jessie Han: Use python + flask to host a website. 
 
-**Weekly Assignment 10, due Tuesday 11/16 at 6:00pm:**  
-You will submit the final designs for the interfaces for each of your three data sources.  
+**Weekly Assignment 9, due Tuesday 11/16 at 6:00pm:**  
+You will begin writing sensor data to a database. 
 
 #### Read: 
 
@@ -225,6 +222,9 @@ You will submit the final designs for the interfaces for each of your three data
 Discussion: Reliability. Lab. 
 
 **Coding demo**: making a map in [mapbox](https://www.mapbox.com/)
+
+**Weekly Assignment 10, due Tuesday 11/30 at 6:00pm:**  
+You will submit the final designs for the interfaces for each of your three data sources.  
 
 #### Read:
 
