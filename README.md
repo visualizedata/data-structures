@@ -193,7 +193,7 @@ Switching gears from previous assignments, you will use an IoT development board
 
 **Final Assignment 3 distributed:** Surveilling your life. 
 
-Debate: SQL vs. NoSQL [[1/2](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html) | [3/4](https://coronavirus.jhu.edu/map.html)]
+Debate: SQL vs. NoSQL [1/2](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html?unlocked_article_code=AAAAAAAAAAAAAAAACEIPuonUyYiZ_tU1Gw5CRWySB4B99lrf3b-Vn_shnmT-KzTSQzdOwuJQH5Kd_l-Ifa1nY54qwjWJAt9dNbtlDNpD8thiBW0_AQ-5vsnD35UDPygvoImvX307mMvEVOxgoGexKzPidr46meKx4VePYWnqRPHcg3dyIFlh8ZRvcEq4miBdntezGeVx3dF93vwmF8o6EW9GPH_WyqGuXxZuO9yGbgXf6h00WYxaXzLTlN2c6tEQYVkYSAKGHD4kvzFKuJ4LM8gXPa38MxYjZML75L0UAWdiJ4yqbIYjvEsjLZVLftcbVt9AzUypjQ&smid=url-share) | [3/4](https://coronavirus.jhu.edu/map.html)]
 
 #### Read:
 
