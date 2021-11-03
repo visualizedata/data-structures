@@ -193,7 +193,7 @@ Switching gears from previous assignments, you will use an IoT development board
 
 **Final Assignment 3 distributed:** Surveilling your life. 
 
-Debate: SQL vs. NoSQL [1/2 | 3/4]
+Debate: SQL vs. NoSQL [[1/2](https://www.nytimes.com/interactive/2020/10/27/upshot/biden-trump-poll-quiz.html) | [3/4](https://coronavirus.jhu.edu/map.html)]
 
 #### Read:
 
