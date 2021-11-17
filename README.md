@@ -231,6 +231,12 @@ You will submit the final designs for the interfaces for each of your three data
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/files/2012EDRiPapers/how_the_internet_works.pdf)  
 
+### Groups for Reliability, Scalability, and Maintainability Discussions: 
+
+* **Reliability** (Dec. 1): *Yang*, Molly, Gisli, Wan, Wenqin  \
+* **Scalability** (Dec. 8): *Yoana*, Juliet, Omar, Yann  \
+* **Maintainability** (Dec. 15): *Jeremy*, Chay, Esther, Joo, Kemi
+
 ### November 24: No class, Thanksgiving holiday
 
 ### December 1 (Week 13)
