@@ -51,8 +51,8 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 1, due week 3:**  
-You will "get" some HTML files, save them, and study their structure.  
+**Weekly Assignment 1, due September 13 by 11:59pm:**  
+You will study the structure of an HTML file and write a set of instructions (in narrative form, list form, and/or pseudo code) for parsing that HTML file. 
 
 #### Documentation: 
 
@@ -71,8 +71,8 @@ Fundamental data structures. Data augmentation and integration. GitHub for open 
 * [Javascript data types and structures](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures)
 * [Working with objects (JavaScript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects)  
 
-**Weekly Assignment 2**  
-You will parse one of the HTML files you saved last week and log essential data to the console.
+**Weekly Assignment 2, due week 4**  
+You will "get" some HTML files and then will parse one of these HTML files and log essential data to the console.
 
 #### Documentation:
 * [Node cheerio module](https://www.npmjs.com/package/cheerio)
