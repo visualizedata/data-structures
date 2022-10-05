@@ -126,6 +126,8 @@ You will design a (non)schema and populate a representation of your database (in
 
 ### October 5 (Week 6)
 
+[Observable Notebook for in-class exercise](https://observablehq.com/@aaronxhill/in-class-exercises-for-10-5)
+
 The Query. Indexes, joins, query optimization, and data restructuring. The E-R model. Data provision. 
 
 #### Read: 
