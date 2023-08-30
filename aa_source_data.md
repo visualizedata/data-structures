@@ -25,7 +25,7 @@ https://parsons.nyc/aa/m10.html
 
 ![](https://github.com/visualizedata/data-structures/raw/master/assets/aa.png)
 
-### raw data for September 14 parsing exercise: 
+### raw data for parsing exercise: 
 
 ```
 `

@@ -4,14 +4,14 @@ Master of Science, Data Visualization**
 
 # Data Structures
 
-### PGDV 5110 Syllabus, Fall 2022
+### PGDV 5110 Syllabus, Fall 2023
 
 Wednesdays, 12:10pm - 2:50pm  
 66 5th Ave | Room: 710  
 
-**Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: TBD; contact info and Zoom info in Canvas
+**Faculty:** [Aaron Hill](https://aaronhill.io/) | Office Hours: Thursdays 3pm-4pm; contact info and Zoom info in Canvas
 
-I encourage use of the Canvas discussion board for collaboration and work on assignments, including the 10 weekly and 3 final assignments. All questions/issues about the assignments should be posted here, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
+I encourage use of the Canvas discussion board for collaboration and work on assignments, including the 10 weekly and 3 final assignments. All questions/issues about the assignments should be posted to the Canvas discussion board, building a shared knowledge base in the process. Questions/issues raised in office hours should also be posed here prior to the office hour meeting and the answer/resolution will be posted by the person who originally posed the question. 
 
 **Course description:** Curating raw data presents issues of technology, speed, and efficiency, as well as broader ethical considerations of what it means to represent and make conclusions about groups and individuals from their data. This course covers the database, semi-structured data, and unstructured data. Students will gain familiarity with underlying data structures; techniques and tools, including acquisition, augmentation, and restructuring; data storage and aggregation; access to parallel and distributed computing; high-volume data, disparate sources, and performance; and streaming data, real time, and dynamic queries.
 
@@ -32,18 +32,18 @@ Week 15 | Final presentations (video) and reflections (Canvas)
 
 ## Course Outline
 
-### August 31 (Week 1)
+### August 30 (Week 1)
 
 Introduction to data structures. Time. Researching the end-user/consumer of data visualization and/or data application. 
 
 #### Assignment:
 
-Canvas Discussion on researching the end-user/consumer of data visualization and/or data application. **Due Tuesday, September 6 by 11:59pm**
+Canvas Discussion on researching the end-user/consumer of data visualization and/or data application. **Due Tuesday, September 5 by 11:59pm**
 
 #### Read:
 * Gitelman, Introduction and Color Plates  
 
-### September 7 (Week 2)
+### September 6 (Week 2)
 
 The web as a database. "Raw data."
 
@@ -51,7 +51,7 @@ The web as a database. "Raw data."
 * Hills, Part One (pp. 17-42)  
 * [Express/Node Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/Introduction) (read carefully the "Node" introduction and quickly skim the "Express" introduction)
 
-**Weekly Assignment 1, due September 13 by 11:59pm:**  
+**Weekly Assignment 1, due September 12 by 11:59pm:**  
 You will study the structure of an HTML file and write a set of instructions (in narrative form, list form, and/or pseudo code) for parsing that HTML file. 
 
 #### Documentation: 
@@ -60,7 +60,7 @@ You will study the structure of an HTML file and write a set of instructions (in
 * [Node got module](https://www.npmjs.com/package/got)  
 * [Node fs module](https://nodejs.org/api/fs.html)  
 
-### September 14 (Week 3)
+### September 13 (Week 3)
 
 Fundamental data structures. Data augmentation and integration. GitHub for open source collaboration. 
 
@@ -90,7 +90,7 @@ Using data you parsed last week, you will interface with TAMU GeoServices to aug
 * [Node Async module](http://caolan.github.io/async/)
 * [Tutorial: creating and using environment variables in Linux](https://www.digitalocean.com/community/tutorials/how-to-read-and-set-environmental-and-shell-variables-on-a-linux-vps).
 
-### September 21 (Week 4)
+### September 20 (Week 4)
 
 Data models I: SQL database.
 
@@ -109,7 +109,7 @@ You will design a schema and populate a representation of your database (in Exce
 * [PostgreSQL documentation](https://www.postgresql.org/docs/9.4/static/)
 * [Node `pg` module](https://www.npmjs.com/package/pg)
 
-### September 28 (Week 5)
+### September 27 (Week 5)
 
 Data models I: NoSQL database.
 
@@ -124,7 +124,7 @@ You will design a (non)schema and populate a representation of your database (in
 
 **Final Assignment 2 distributed:** "Process Blog," a source of semi-structured, qualitative data.  
 
-### October 5 (Week 6)
+### October 4 (Week 6)
 
 [Observable Notebook for in-class exercise](https://observablehq.com/@aaronxhill/in-class-exercises-for-10-5)
 
@@ -141,7 +141,7 @@ The Query. Indexes, joins, query optimization, and data restructuring. The E-R m
 
 5.2: You will create a new managed DynamoDB database, and write code to populate your database with your "Process Blog" data. (2.5 points)  
 
-### October 12 (Week 7)
+### October 11 (Week 7)
 
 Data cleaning. Logging issues.
 
@@ -159,9 +159,7 @@ You will write queries for both the SQL and NoSQL databases you have created, fi
 
 * [GitHub issues](https://guides.github.com/features/issues/)
 
-### October 19 (Week 8)
-
-**Note: [IEEE VIS](http://ieeevis.org/year/2022/welcome) virtual conference is October 16-21, a hybrid format, both virtually and in-person (Oklahoma City)**
+### October 18 (Week 8)
 
 Sensors. Data gathering and surveillance.
 
@@ -176,7 +174,7 @@ Finish parsing and cleaning the rest of the AA data in all ten Manhattan "zones"
 
 * Particle documentation [ [Photon](https://docs.particle.io/guide/getting-started/intro/photon/) | [Electron](https://docs.particle.io/guide/getting-started/intro/electron/) ]
 
-### October 26 (Week 9)
+### October 25 (Week 9)
 
 [slides]
 
@@ -187,7 +185,7 @@ IoT.
 * Gitelman, Chapter 3
 * Klepman, Chapter 2 
 
-### November 2 (Week 10)
+### November 1 (Week 10)
 
 From database to visual representation.  Interface design. Workshop by Jessie Han: How to create filters on the front end. 
 
@@ -201,7 +199,7 @@ Switching gears from previous assignments, you will use an IoT development board
 * Gitelman, Chapter 1  
 * [New York Times: Slump in Air Travel Hindered Weather Forecasting, Study Shows](https://www.nytimes.com/2020/10/29/climate/slump-in-air-travel-hindered-weather-forecasting-study-shows.html?action=click&module=Latest&pgtype=Homepage) 
 
-### November 9 (Week 11)
+### November 8 (Week 11)
 
 Serverless computing. Workshop by Jessie Han: Use python + flask to host a website. 
 
@@ -218,7 +216,7 @@ You will begin writing sensor data to a database.
 * [Express](http://expressjs.com/)  
 * [Handlebars](http://handlebarsjs.com/) 
 
-### November 16 (Week 12)
+### November 15 (Week 12)
 
 Discussion: Reliability. Lab. 
 
@@ -232,11 +230,11 @@ You will submit the final designs for the interfaces for each of your three data
 * Klepmann, Chapter 1. Read from the beginning through the "Reliability Section." 
 * [How the internet works](https://edri.org/files/2012EDRiPapers/how_the_internet_works.pdf)  
 
-### November 23: (Week 13)
+### November 22: (Week 13)
 
 One-on-one meetings via Zoom
 
-### November 30 (Week 14)
+### November 29 (Week 14)
 
 Discussion: Scalability. When do you need a database(s)? When do you not? Lab.
 
@@ -246,7 +244,7 @@ Discussion: Scalability. When do you need a database(s)? When do you not? Lab.
 * [MapReduce: Simplified Data Processing on Large Clusters, Jeffrey Dean and Sanjay Ghemawat](https://research.google.com/archive/mapreduce.html)  
 * [immens paper](http://vis.stanford.edu/papers/immens)
 
-### December 7 (Week 15)
+### December 6 (Week 15)
 
 Discussion: Maintainability. Lab.
 
@@ -306,7 +304,7 @@ If an assignment is more than 144 hours late, no credit will be given.
 
 ### Office Hours (Zoom; no appointment needed)
 
-Fridays, 3:00pm - 4:00pm
+Thursdays, 3:00pm - 4:00pm
 
 ### Materials and Supplies
 
@@ -319,14 +317,10 @@ We will also rely on cloud-based services to provide infrastructure, platforms, 
 
 #### Required:
 
-* A modern web browser. Preferred: [Google Chrome](https://www.google.com/chrome/). Acceptable: [Firefox](https://www.mozilla.org/en-US/firefox/). Not acceptable: Internet Explorer, Safari.  
+* A modern web browser. Preferred: [Google Chrome](https://www.google.com/chrome/). Acceptable: [Firefox](https://www.mozilla.org/en-US/firefox/). Not acceptable: Safari.  
 * Bring your laptop to every class.  
 * A (free) [GitHub](https://github.com/) account   
-* A (free) [Amazon Web Services (AWS)](https://aws.amazon.com/) account  
-* A (free) [AWS Educate](https://aws.amazon.com/education/awseducate/) account  
-* A microcontroller and sensors (as assigned; you will be given a list of the things you'll need to purchase, ~$50)
-* It is also helpful to have a text editor installed locally. Sublime and Atom are popular choices. Atom integrates well with GitHub.   
-* If you decide to work locally (instead of in Cloud9), you may need to install and maintain additional software such as Git (installed with [Xcode in OSX](https://developer.apple.com/xcode/)), [Node.js](https://nodejs.org/en/download/), npm (which is installed with Node.js), and other software. 
+* It is also helpful to have a text editor installed locally.    
 
 ### Resources
 
