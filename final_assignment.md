@@ -1,6 +1,6 @@
 # Final Assignment
 
-You will expand on the weekly assignments to scrape all ten zones of New York's AA Meeting List to capture, clean, and store all meetings in Manhattan (zones one through ten). The meetings data should be read into DuckDB in an Observable Notebook and queried using SQL. You will use MapBox (or similar mapping services) to display relevant meetings as map markers with popups that show all relevant information about the meeting(s) at each marker.  
+You will expand on the weekly assignments to scrape all ten zones of New York's AA Meeting List to capture, clean, and store all meetings in Manhattan (zones one through ten). The meetings [data should be read into DuckDB in an Observable Notebook and queried using SQL. You will use MapBox](https://observablehq.com/@aaronxhill/integrating-duckdb-user-inputs-and-mapbox) (or similar mapping services) to display relevant meetings as map markers with popups that show all relevant information about the meeting(s) at each marker.  
 
 The ten "Meeting List Agenda" pages for Manhattan are available at:  
 ```
